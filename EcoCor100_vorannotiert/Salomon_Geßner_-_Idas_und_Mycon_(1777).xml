@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000077" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Idas und Mycon
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q123765">
+     Gessner, Salomon (1730-1788)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     1736
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1777">
+      1777
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-01">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000077_20">
+    Salomon Geßner
+   </p>
+   <p xml:id="eco_de_000077_30">
+    Idas und Mycon
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000077_40">
+     Sei mir gegrüßt, Mycon! du lieblicher Sänger! Wenn ich dich sehe, dann hüpft mir das Herz vor Freude; seit du auf dem Stein beim Brunnen mir das Frühlingslied sangest, seitdem hab' ich dich nicht gesehen.
+    </p>
+    <p xml:id="eco_de_000077_50">
+     Mycon. Sei mir gegrüßt, Idas! du lieblicher Flötenspieler! Laß uns einen kühlen Ort suchen, und in dem Schatten uns lagern.
+    </p>
+    <p xml:id="eco_de_000077_60">
+     Idas. Wir wollen auf diese <Lebensraum>Anhöhe</Lebensraum> gehen, wo die große <Pflanze>Eiche</Pflanze> des <Pflanze>Palemons</Pflanze> steht; sie beschattet weit umher, und die kühlen Winde flattern da immer. Indeß können meine <Tier>Ziegen</Tier> an der jähen Wand klettern und vom <Pflanze>Gesträuche</Pflanze> reißen. Sieh, wie die große <Pflanze>Eiche</Pflanze> die schlanken <Pflanze>Aeste</Pflanze> umherträgt und kühlen Schatten ausstreut; laß hier bei den wilden <Pflanze>Rosengebüschen</Pflanze> uns lagern, die sanften Winde sollen mit unsern Haaren spielen, Mycon! dieß ist mir ein heiliger Ort! O Palemon! diese <Pflanze>Eiche</Pflanze> bleibt deiner Redlichkeit heiliges Denkmal. Palemon hatte eine kleine Heerde; er opferte dem Pan viele <Tier>Schafe</Tier>. O Pan! bat er, laß meine Heerde sich mehren, so kann ich sie mit meinem armen Nachbar theilen. Und Pan machte, daß seine Heerde in einem Jahr um die Hälfte sich mehrte; und Palemon gab dem armen Nachbar die Hälfte der ganzen Heerde. Da opfert' er dem Pan auf diesem <Lebensraum>Hügel</Lebensraum> und pflanzt eine <Pflanze>Eiche</Pflanze> und sprach: O Pan! immer sei dieser Tag mir heilig, an dem mein Wunsch sich erfüllte; segne die <Pflanze>Eiche</Pflanze>, die ich hier pflanze; sie sei mir ein heiliges Denkmal; alle Jahre will ich dann in ihrem Schatten dir opfern. Mycon! soll ich dir das Lied singen, das ich immer unter dieser <Pflanze>Eiche</Pflanze> singe?
+    </p>
+    <p xml:id="eco_de_000077_70">
+     Mycon. Wenn du mir das Lied singest, dann will ich diese neunstimmige Flöte dir schenken; ich selbst habe die <Pflanze>Rohre</Pflanze> mit langer Wahl am <Lebensraum>Ufer</Lebensraum> geschnitten, und mit wohlriechendem Wachs vereint.
+    </p>
+    <p xml:id="eco_de_000077_80">
+     Idas sang itzt:
+    </p>
+    <p xml:id="eco_de_000077_90">
+     Die ihr euch über mir wölbt, schlanke Aeste! ihr streut mit euerm Schatten ein heiliges Entzücken auf mich, Ihr Winde! wenn ihr mich kühlt, dann ist's, als rauscht' eine Gottheit unsichtbar neben mir hin. Ihr <Tier>Ziegen</Tier> und ihr <Tier>Schafe</Tier>! schonet, o schonet! und reißt das junge <Pflanze>Epheu</Pflanze> nicht vom weißen <Pflanze>Stamme</Pflanze>, daß es emporschleiche und grüne <Pflanze>Kränze</Pflanze> flechte rings um den weißen <Pflanze>Stamm</Pflanze>. Kein Donnerkeil, kein reißender Wind soll dir schaden, hoher <Pflanze>Baum</Pflanze>! Die Götter wollen's, du sollst der Redlichkeit Denkmal sein. Hoch steht sein <Pflanze>Wipfel</Pflanze> empor; es siehet ihn fernher der Hirt, und weiset ihn ermahnend dem Sohn; es sieht ihn die zärtliche Mutter und sagt Palemons Geschichte dem horchenden Kind auf dem <Lebensraum>Schooß</Lebensraum>. O! pflanzt der Redlichkeit so manch Denkmal, ihr Hirten! daß wir einst voll heiligen Entzückens in dunkeln <Lebensraum>Hainen</Lebensraum> einhergehn.
+    </p>
+    <p xml:id="eco_de_000077_100">
+     So sang Idas; er hatte schon lange geschwiegen, und Mycon saß noch wie horchend. Ach, Idas! mich entzückt der thauende Morgen, der kommende Frühling entzückt mich; noch mehr des Redlichen Thaten.
+    </p>
+    <p xml:id="eco_de_000077_110">
+     So sprach Mycon, und gab ihm die neunstimmige Flöte.
+    </p>
+    <p xml:id="eco_de_000077_120">
+     Amyntas.
+    </p>
+    <p xml:id="eco_de_000077_130">
+     Bei frühem Morgen kam der arme Amyntas aus dem dichten <Lebensraum>Hain</Lebensraum>, das Beil in seiner Rechten. Er hatte sich Stäbe geschnitten zu einem Zaun und trug ihre Last gekrümmt auf der Schulter. Da sah er einen jungen <Pflanze>Eichbaum</Pflanze> neben einem hinrauschenden <Lebensraum>Bach</Lebensraum>; und der <Lebensraum>Bach</Lebensraum> hatte wild seine <Pflanze>Wurzeln</Pflanze> von der Erde entblößet; und der <Pflanze>Baum</Pflanze> stund da, traurig und drohte zu sinken. Schade! sprach er, solltest du <Pflanze>Baum</Pflanze> in dieß wilde <Lebensraum>Wasser</Lebensraum> stürzen; nein, dein <Pflanze>Wipfel</Pflanze> soll nicht zum Spiel seiner Wellen hingeworfen sein! Itzt nahm er die schweren Stäbe von der Schulter. Ich kann mir andere Stäbe holen, sprach er, und hub an, einen starken Damm vor den <Pflanze>Baum</Pflanze> hinzubauen, und grub frische Erde. Itzt war der Damm gebaut, und die entblößten <Pflanze>Wurzeln</Pflanze> mit Erde bedeckt; dann nahm er sein Beil auf die Schulter, und lächelte noch einmal, zufrieden mit seiner Arbeit, in den Schatten des geretteten <Pflanze>Baumes</Pflanze> hin, und wollte in den <Lebensraum>Hain</Lebensraum> zurück, um andere Stäbe zu holen. Aber die <Tier>Dryas</Tier> Die <Tier>Dryaden</Tier> waren Schutzgöttinnen der <Pflanze>Eichen</Pflanze>; sie entstunden und starben auch wieder mit dem <Pflanze>Baume</Pflanze>. rief ihm mit lieblicher Stimme aus der <Pflanze>Eiche</Pflanze> zu: Sollt' ich unbelohnet dich weglassen, gütiger Hirt? Sage mir's, was wünschest du zur Belohnung? Ich weiß, daß du arm bist, und nur fünf <Tier>Schafe</Tier> zur <Lebensraum>Weide</Lebensraum> führest. O! wenn du mir zu bitten vergönnest, Nymphe! so sprach der arme Hirt; mein Nachbar Palemon ist seit der Ernte schon krank; laß ihn gesund werden!
+    </p>
+    <p xml:id="eco_de_000077_140">
+     So bat der Redliche; und Palemon ward gesund. Aber Amyntas sah den mächtigen Segen in seiner Heerde und bei seinen <Pflanze>Bäumen</Pflanze> und <Pflanze>Früchten</Pflanze>, und ward ein reicher Hirt; denn die Götter lassen die Redlichen nicht ungesegnet.
+    </p>
+    <p xml:id="eco_de_000077_150">
+     Palemon.
+    </p>
+    <p xml:id="eco_de_000077_160">
+     Wie lieblich glänzet das Morgenroth durch die <Pflanze>Haselstaude</Pflanze> und die wilden <Pflanze>Rosen</Pflanze> am Fenster! Wie froh singet die <Tier>Schwalbe</Tier> auf dem Balken unter meinem Dach, und die kleine <Tier>Lerche</Tier> in der hohen Luft! Alles ist munter und jede <Pflanze>Pflanze</Pflanze> hat sich im <Pflanze>Thau</Pflanze> verjüngt. Auch ich, auch ich scheine verjünget; mein Stab soll mich Greis vor die Schwelle meiner Hütte führen: da will ich mich der kommenden Sonne gegenüber setzen und über die grünen <Lebensraum>Wiesen</Lebensraum> hinsehn. O wie schön ist Alles um mich her! Alles, was ich höre, sind Stimmen der Freude und des Danks. Die <Tier>Vögel</Tier> in der Luft und der Hirt auf dem <Lebensraum>Felde</Lebensraum> singen ihr Entzücken; auch die Heerden brüllen ihre Freude von den grasreichen <Lebensraum>Hügeln</Lebensraum> und aus dem durchwässerten <Lebensraum>Thal</Lebensraum>. O wie lang, wie lang, ihr Götter! soll ich noch eurer Gütigkeit Zeuge sein? Neunzig Male hab' ich itzt den Wechsel der Jahreszeiten gesehen; und wann ich zurückdenke, von itzt bis zur Stunde meiner Geburt – eine weite liebliche Aussicht, die sich am Ende, mir unübersehbar in reiner Luft verliert – o wie wallet dann mein Herz auf! Ist das Entzücken, das meine Zunge nicht stammeln kann – sind meine Freudenthränen, ihr Götter! nicht ein zu schwacher Dank? Ach! fließet, ihr Thränen! fließet die Wangen herunter! Wenn ich zurücksehe, dann ist's, als hätt' ich nur einen langen Frühling gelebt; und meine trüben Stunden waren kurze Gewitter; sie erfrischen die <Lebensraum>Felder</Lebensraum> und beleben die <Pflanze>Pflanzen</Pflanze>. Nie haben schädliche Seuchen unsre Heerden gemindert; nie hat ein Unfall unsre <Pflanze>Bäume</Pflanze> verderbt, und bei dieser Hütte hat nie ein langwierig Unglück geruhet. Entzückt sah ich in die Zukunft hinaus, wenn meine Kinder lächelnd auf meinem Arm spielten, oder wenn meine Hand des plappernden Kindes wankenden Fußtritt leitete. Mit Freudenthränen sah ich in die Zukunft hinaus, wenn ich diese jungen <Pflanze>Sprossen</Pflanze> aufkeimen sah. Ich will sie vor Unfall schützen, ich will ihres Wachsthums warten, sprach ich; die Götter werden die Bemühung segnen; sie werden emporwachsen und herrliche <Pflanze>Früchte</Pflanze> tragen, und <Pflanze>Bäume</Pflanze> werden, die mein schwaches Alter in erquickenden Schatten nehmen. So sprach ich und drückte sie an meine Brust; und jetzt sind sie voll Segen emporgewachsen, und nehmen mein graues Alter in erquickenden Schatten. So wuchsen die <Pflanze>Aepfelbäume</Pflanze> und die <Pflanze>Birnenbäume</Pflanze>, und die hohen <Pflanze>Nußbäume</Pflanze>, die ich als Jüngling um die Hütte her gepflanzet habe, hoch empor; sie tragen die alten Aeste weit umher, und nehmen die kleine Wohnung in erquickenden Schatten. Dieß, dieß war mein heftigster Gram, o Mirta! da du an meiner bebenden Brust in meinen Armen starbest. Zwölfmal hat itzt schon der Frühling dein Grab mit <Pflanze>Blumen</Pflanze> geschmückt. Aber der Tag nahet, ein froher Tag! da meine Gebeine zu den deinen werden hingelegt werden; vielleicht führt ihn die kommende Nacht herbei! O! ich seh' es mit Lust, wie mein grauer Bart schneeweiß über meine Brust herunter wallet. Ja, spiele mit dem weißen Haar auf meiner Brust, du kleiner Zephir! der du mich umhüpfest; es ist es so werth, als das goldene Haar des frohen Jünglings und die braunen Locken am Nacken des aufblühenden Mädchens. O dieser Tag soll mir ein Tag der Freude sein! Ich will meine Kinder um mich her sammeln, bis auf den kleinen stammelnden Enkel, und will den Göttern opfern. Hier vor meiner Hütte sei der Altar. Ich will mein kahles Haupt umkränzen, und mein schwacher Arm soll die Leyer nehmen; und dann wollen wir, ich und meine Kinder, um den Altar her Loblieder singen. Dann will ich <Pflanze>Blumen</Pflanze> über meine Tafel streuen, und unter frohen Gesprächen das Opferfleisch essen.
+    </p>
+    <p xml:id="eco_de_000077_170">
+     So sprach Palemon und hub sich zitternd an seinem Stab auf, und rief die Kinder zusammen, und hielt den Göttern ein frohes Fest.
+    </p>
+    <p xml:id="eco_de_000077_180">
+     Mirtil und Daphne
+    </p>
+    <p xml:id="eco_de_000077_190">
+     Schon so frühe, meine Schwester! noch ist die Sonne nicht hinterm <Lebensraum>Berg</Lebensraum> hervor; kaum hat die <Tier>Schwalbe</Tier> ihren Gesang angefangen, der frühe <Tier>Hahn</Tier> hat kaum noch den Morgen gegrüßt, und du bist schon in den <Tier>Thau</Tier> hinausgegangen. Was willst du heute für ein Fest bereiten, daß du so frühe dein Körbchen voll <Pflanze>Blumen</Pflanze> sammelst?
+    </p>
+    <p xml:id="eco_de_000077_200">
+     Daphne. Sei mir gegrüßt, geliebter Bruder! woher am feuchten Morgen? Was beginnest du in der stillen Dämmerung? Ich habe hier <Pflanze>Veilchen</Pflanze> gesucht und <Pflanze>Maiblumen</Pflanze> und <Pflanze>Rosen</Pflanze>, und will itzt, da unser Vater und unsere Mutter noch schlafen, will ich sie auf ihre Bette hinstreuen; dann werden sie unter lieblichen Gerüchen erwachen und sich freuen, wenn sie mit <Pflanze>Blumen</Pflanze> sich umstreuet sehn.
+    </p>
+    <p xml:id="eco_de_000077_210">
+     Mirtil. O du geliebte Schwester! mein Leben lieb' ich nicht so sehr, wie ich dich liebe! Und ich – Du weißest es, Schwester! gestern beim Abendroth, als unser Vater nach unserm <Lebensraum>Hügel</Lebensraum> hinsah, auf dem er oft ruhet: Lieblich wär' es, so sprach er, stünd' eine <Pflanze>Laube</Pflanze> dort, die uns in ihren Schatten nähme. – Ich hört' es, und that als hätt' ich's nicht gehört; aber früh vor der Morgensonne ging ich hin und baute die <Pflanze>Laube</Pflanze>, und band die flatternden <Pflanze>Haselstauden</Pflanze> an ihren Seiten fest. O meine Schwester! sieh' hin, die Arbeit ist vollendet. Verrathe nichts, bis er es selbst sieht; der Tag soll uns voll Freude sein!
+    </p>
+    <p xml:id="eco_de_000077_220">
+     Daphne. O mein Bruder! wie angenehm wird er erstaunen, wenn er die <Pflanze>Laube</Pflanze> von ferne sieht! Itzt geh' ich hin, schleiche leise zu ihrem Bette mich hin, und streue die <Pflanze>Blumen</Pflanze> um sie her.
+    </p>
+    <p xml:id="eco_de_000077_230">
+     Mirtil. Wenn sie unter den lieblichen Gerüchen erwachen, dann werden sie mit freundlichem Lächeln sich ansehen und sagen: Das hat Daphne gethan: Wo ist sie, das beste Kind? Sie hat für unsere Freude vor unserm Erwachen gesorgt.
+    </p>
+    <p xml:id="eco_de_000077_240">
+     Daphne. Und Bruder! wenn er dann vom Fenster her die <Pflanze>Laube</Pflanze> sieht: Wie, trüg' ich mich? so sagt er dann; eine <Pflanze>Laube</Pflanze> steht dort auf dem Rücken des <Lebensraum>Hügels</Lebensraum>! Gewiß, die hat mein Sohn gebaut. Gesegnet sei er! Ihn hält die Ruhe der Nacht nicht ab, für unsers Alters Freude zu sorgen! Dann, Bruder! dann ist uns der ganze Tag voll Wonne. Denn wer am Morgen was Gutes beginnt, dem gelingt Alles besser, und auf jeder Stunde wächst ihm Freude.
+    </p>
+   </div>
+  </body>
+  <back/>
+ </text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000066" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title ref="https://www.wikidata.org/entity/Q1385007">
+     Krambambuli
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q93525">
+     von Ebner-Eschenbach, Marie (1830-1916)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     3832
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1884">
+      1884
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-01">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000066_20">
+    Marie von Ebner-Eschenbach
+   </p>
+   <p xml:id="eco_de_000066_30">
+    Krambambuli
+   </p>
+   <p xml:id="eco_de_000066_40">
+    Erzählung (1884)
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000066_50">
+     Vorliebe empfindet der Mensch für allerlei Dinge und Wesen. Liebe, die echte, unvergängliche, die lernt er – wenn überhaupt – nur einmal kennen. So wenigstens meint der Herr Revierjäger Hopp. Wie viele <Tier>Hunde</Tier> hat er schon gehabt, und auch gern gehabt; aber lieb, was man sagt lieb und unvergeßlich, ist ihm nur einer gewesen – der <Tier>Krambambuli</Tier>. Er hatte ihn im Wirtshause zum <Tier>Löwen</Tier> in Wischau von einem vazierenden Forstgehilfen gekauft oder eigentlich eingetauscht. Gleich beim ersten Anblick des <Tier>Hundes</Tier> war er von der Zuneigung ergriffen worden, die dauern sollte bis zu seinem letzten Atemzuge. Dem Herrn des schönen <Tier>Tieres</Tier>, der am Tische vor einem geleerten Branntweingläschen saß und über den Wirt schimpfte, weil dieser kein zweites umsonst hergeben wollte, sah der Lump aus den Augen. Ein kleiner Kerl, noch jung und doch so fahl wie ein abgestorbener <Pflanze>Baum</Pflanze>, mit gelbem Haar und spärlichem gelbem Barte. Der Jägerrock, vermutlich ein Überrest aus der vergangenen Herrlichkeit des letzten Dienstes, trug die Spuren einer im nassen Straßengraben zugebrachten Nacht. Obwohl sich Hopp ungern in schlechte Gesellschaft begab, nahm er trotzdem Platz neben dem Burschen und begann sogleich ein Gespräch mit ihm. Da bekam er es denn bald heraus, daß der Nichtsnutz den Stutzen und die Jagdtasche dem Wirt bereits als Pfänder ausgeliefert hatte und daß er jetzt auch den <Tier>Hund</Tier> als solches hergeben möchte; der Wirt jedoch, der schmutzige Leuteschinder, wollte von einem Pfand, das gefüttert werden muß, nichts hören.
+    </p>
+    <p xml:id="eco_de_000066_60">
+     Herr Hopp sagte vorerst kein Wort von dem Wohlgefallen, das er an dem <Tier>Hunde</Tier> gefunden hatte, ließ aber eine Flasche von dem guten Danziger Kirschbranntwein bringen, den der Löwenwirt damals führte, und schenkte dem Vazierenden fleißig ein. – Nun, in einer Stunde war alles in Ordnung. Der Jäger gab zwölf Flaschen von demselben Getränke, bei dem der Handel geschlossen worden – der Vagabund gab den <Tier>Hund</Tier>. Zu seiner Ehre muß man gestehen: nicht leicht. Die Hände zitterten ihm so sehr, als er dem <Tier>Tiere</Tier> die <Tier>Leine</Tier> um den Hals legte, daß es schien, er werde mit dieser Manipulation nimmermehr zurechtkommen. Hopp wartete geduldig und bewunderte im stillen den trotz der schlechten Kondition, in der er sich befand, wundervollen <Tier>Hund</Tier>. Höchstens zwei Jahre mochte er alt sein, und in der Farbe glich er dem Lumpen, der ihn hergab; doch war die seine um ein paar Schattierungen dunkler. Auf der Stirn hatte er ein Abzeichen, einen weißen Strich, der rechts und links in kleine Linien auslief, in der Art wie die <Pflanze>Nadeln</Pflanze> an einem <Pflanze>Tannenreis</Pflanze>. Die Augen waren groß, schwarz, leuchtend, von tauklaren, lichtgelben Reiflein umsäumt, die Ohren hoch angesetzt, lang, makellos. Und makellos war alles an dem ganzen <Tier>Hunde</Tier> von der Klaue bis zu der feinen Witternase: die kräftige, geschmeidige Gestalt, das über jedes Lob erhabene Piedestal. Vier lebende Säulen, die auch den Körper eines <Tier>Hirsches</Tier> getragen hätten und nicht viel dicker waren als die <Tier>Läufe</Tier> eines <Tier>Hasen</Tier>. Beim heiligen Hubertus! dieses Geschöpf mußte einen <Pflanze>Stammbaum</Pflanze> haben, so alt und rein wie der eines deutschen Ordensritters.
+    </p>
+    <p xml:id="eco_de_000066_70">
+     Dem Jäger lachte das Herz im Leibe über den prächtigen Handel, den er gemacht hatte. Er stand nun auf, ergriff die Leine, die zu verknoten dem Vazierenden endlich gelungen war, und fragte: «Wie heißt er denn?» – «Er heißt wie das, wofür Ihr ihn kriegt: Krambambuli», lautete die Antwort. – «Gut, gut, Krambambuli! So komm! Wirst gehen? Vorwärts!» – Ja, er konnte lang rufen, pfeifen, zerren – der <Tier>Hund</Tier> gehorchte ihm nicht, wandte den Kopf dem zu, den er noch für seinen Herrn hielt, heulte, als dieser ihm zuschrie: «Marsch!» und den Befehl mit einem tüchtigen Fußtritt begleitete, suchte aber sich immer wieder an ihn heran zu drängen. Erst nach einem heißen Kampfe gelang es Herrn Hopp, die Besitzergreifung des <Tier>Hundes</Tier> zu vollziehen. Gebunden und geknebelt, mußte er zuletzt in einem Sacke auf die Schulter geladen und so bis in das mehrere Wegstunden entfernte Jägerhaus getragen werden.
+    </p>
+    <p xml:id="eco_de_000066_80">
+     Zwei volle Monate brauchte es, bevor Krambambuli, halb totgeprügelt, nach jedem Fluchtversuche mit dem Stachelhalsband an die Kette gelegt, endlich begriff, wohin er jetzt gehöre. Dann aber, als seine Unterwerfung vollständig geworden war, was für ein <Tier>Hund</Tier> wurde er da! Keine Zunge schildert, kein Wort ermißt die Höhe der Vollendung, die er erreichte, nicht nur in der Ausübung seines Berufes, sondern auch im täglichen Leben als eifriger Diener, guter Kamerad und treuer Freund und Hüter. «Dem fehlt nur die Sprache», heißt es von andern intelligenten <Tier>Hunden</Tier> – dem <Tier>Krambambuli</Tier> fehlte sie nicht; sein Herr zum mindesten pflog lange Unterredungen mit ihm. Die Frau des Revierjägers wurde ordentlich eifersüchtig auf den «Buli», wie sie ihn geringschätzig nannte. Manchmal machte sie ihrem Manne Vorwürfe. Sie hatte den ganzen Tag, in jeder Stunde, in der sie nicht aufräumte, wusch oder kochte, schweigend gestrickt. Am Abend, nach dem Essen, wenn sie wieder zu stricken begann, hätte sie gern eins dazu geplaudert.
+    </p>
+    <p xml:id="eco_de_000066_90">
+     «Weißt denn immer nur dem Buli was zu erzählen, Hopp, und mir nie? Du verlernst vor lauter Sprechen mit dem <Tier>Vieh</Tier> das Sprechen mit den Menschen.»
+    </p>
+    <p xml:id="eco_de_000066_100">
+     Der Revierjäger gestand sich, daß etwas Wahres an der Sache sei; aber zu helfen wußte er nicht. Wovon hätte er mit seiner Alten reden sollen? Kinder hatten sie nie gehabt, eine <Tier>Kuh</Tier> durften sie nicht halten, und das zahme <Tier>Geflügel</Tier> interessiert einen Jäger im lebendigen Zustande gar nicht und im gebratenen nicht sehr. Für Kulturen aber und für Jagdgeschichten hatte wieder die Frau keinen Sinn. Hopp fand zuletzt einen Ausweg aus diesem Dilemma; statt mit dem <Tier>Krambambuli</Tier> sprach er von dem <Tier>Krambambuli</Tier>, von den Triumphen, die er allenthalben mit ihm feierte, von dem <Tier>Neide</Tier>, den sein Besitz erregte, von den lächerlich hohen Summen, die ihm für den <Tier>Hund</Tier> geboten wurden und die er verächtlich von der Hand wies.
+    </p>
+    <p xml:id="eco_de_000066_110">
+     Zwei Jahre waren vergangen, da erschien eines Tages die Gräfin, die Frau seines Brotherrn, im Hause des Jägers. Er wußte gleich, was der Besuch zu bedeuten hatte, und als die gute, schöne Dame begann: «Morgen, lieber Hopp, ist der Geburtstag des Grafen...», setzte er ruhig und schmunzelnd fort: «Und da möchten hochgräfliche Gnaden dem Herrn Grafen ein Geschenk machen und sind überzeugt, mit nichts anderm soviel Ehre einlegen zu können wie mit dem <Pflanze>Krambambuli</Pflanze>.» – «Ja, ja, lieber Hopp.» Die Gräfin errötete vor Vergnügen über dieses freundliche Entgegenkommen und sprach gleich von Dankbarkeit und bat, den Preis nur zu nennen, der für den <Tier>Hund</Tier> zu entrichten wäre. Der alte <Tier>Fuchs</Tier> von einem Revierjäger kicherte, tat sehr demütig und rückte auf einmal mit der Erklärung heraus. «Hochgräfliche Gnaden! Wenn der <Tier>Hund</Tier> im Schlosse bleibt, nicht jede Leine zerbeißt, nicht jede Kette zerreißt, oder wenn er sie nicht zerreißen kann, sich bei den Versuchen, es zu tun, erwürgt, dann behalten ihn hochgräfliche Gnaden umsonst – dann ist er mir nichts mehr wert.»
+    </p>
+    <p xml:id="eco_de_000066_120">
+     Die Probe wurde gemacht, aber zum Erwürgen kam es nicht; denn der Graf verlor früher die Freude an dem eigensinnigen <Tier>Tiere</Tier>. Vergeblich hatte man es durch Liebe zu gewinnen, mit Strenge zu bändigen gesucht. Er biß jeden, der sich ihm näherte, versagte das Futter und – viel hat der <Tier>Hund</Tier> eines Jägers ohnehin nicht zuzusetzen – kam ganz herunter. Nach einigen Wochen erhielt Hopp die Botschaft, er könne sich seinen <Tier>Köter</Tier> abholen. Als er eilends von der Erlaubnis Gebrauch machte und den <Tier>Hund</Tier> in seinem Zwinger aufsuchte, da gab's ein Wiedersehen unermeßlichen Jubels voll. <Tier>Krambambuli</Tier> erhob ein wahnsinniges Geheul, sprang an seinem Herrn empor, stemmte die <Tier>Vorderpfoten</Tier> auf dessen <Tier>Brust</Tier> und leckte die Freudentränen ab, die dem Alten über die Wangen liefen.
+    </p>
+    <p xml:id="eco_de_000066_130">
+     Am Abend dieses glücklichen Tages wanderten sie zusammen ins Wirtshaus. Der Jäger spielte Tarok mit dem Doktor und mit dem Verwalter, Krambambuli lag in der Ecke hinter seinem Herrn. Manchmal sah dieser sich nach ihm um, und der <Tier>Hund</Tier>, so tief er auch zu schlafen schien, begann augenblicklich mit dem <Tier>Schwanze</Tier> auf den <Lebensraum>Boden</Lebensraum> zu klopfen, als wollt er melden: «Präsent!» Und wenn Hopp, sich vergessend, recht wie einen Triumphgesang das Liedchen anstimmte: «Was macht denn mein <Tier>Krambambuli</Tier>?», richtete der <Tier>Hund</Tier> sich würde- und respektvoll auf, und seine hellen <Tier>Augen</Tier> antworteten:
+    </p>
+    <p xml:id="eco_de_000066_140">
+     «Es geht ihm gut!»
+    </p>
+    <p xml:id="eco_de_000066_150">
+     Um dieselbe Zeit trieb, nicht nur in den gräflichen <Lebensraum>Forsten</Lebensraum>, sondern in der ganzen <Lebensraum>Umgebung</Lebensraum>, eine Bande Wildschützen auf wahrhaft tolldreiste Art ihr Wesen. Der Anführer sollte ein verlottertes Subjekt sein. Den «Gelben» nannten ihn die Holzknechte, die ihn in irgendeiner übelberüchtigten Spelunke beim Branntwein trafen, die Heger, die ihm hie und da schon auf der Spur gewesen waren, ihm aber nie hatten beikommen können, und endlich die Kundschafter, deren er unter dem schlechten Gesindel in jedem Dorfe mehrere besaß.
+    </p>
+    <p xml:id="eco_de_000066_160">
+     Er war wohl der frechste Gesell, der jemals ehrlichen Jägersmännern etwas aufzulösen gab, mußte auch selbst vom Handwerk gewesen sein, sonst hätte er das <Tier>Wild</Tier> nicht mit solcher Sicherheit aufspüren und nicht so geschickt jeder Falle, die ihm gestellt wurde, ausweichen können.
+    </p>
+    <p xml:id="eco_de_000066_170">
+     Die Wild- und Waldschäden erreichten eine unerhörte Höhe, das Forstpersonal befand sich in grimmigster Aufregung. Da begab es sich nur zu oft, daß die kleinen Leute, die bei irgendeinem unbedeutenden <Lebensraum>Waldfrevel</Lebensraum> ertappt wurden, eine härtere Behandlung erlitten, als zu andrer Zeit geschehen wäre und als gerade zu rechtfertigen war. Große Erbitterung herrschte darüber in allen Ortschaften. Dem Oberförster, gegen den der Haß sich zunächst wandte, kamen gutgemeinte Warnungen in Menge zu. Die Raubschützen, hieß es, hätten einen Eid darauf geschworen, bei der ersten Gelegenheit exemplarische Rache an ihm zu nehmen. Er, ein rascher, kühner Mann, schlug das Gerede in den Wind und sorgte mehr denn je dafür, daß weit und breit kund werde, wie er seinen Untergebenen die rücksichtsloseste Strenge anbefohlen und für etwaige schlimme Folgen die Verantwortung selbst übernommen habe. Am häufigsten rief der Oberförster dem Revierjäger Hopp die scharfe Handhabung seiner Amtspflicht ins Gedächtnis und warf ihm zuweilen Mangel an «Schneid» vor, wozu freilich der Alte nur lächelte. Der Krambambuli aber, den er bei solcher Gelegenheit von oben herunter anblinzelte, gähnte laut und wegwerfend. Übel nahmen er und sein Herr dem Oberförster nichts. Der Oberförster war ja der Sohn des Unvergeßlichen, bei dem Hopp das edle Weidwerk erlernt, und Hopp hatte wieder ihn als kleinen Jungen in die Rudimente des Berufs eingeweiht. Die Plage, die er einst mit ihm gehabt, hielt er heute noch für eine Freude, war stolz auf den ehemaligen Zögling und liebte ihn trotz der rauhen Behandlung, die er so gut wie jeder andre von ihm erfuhr.
+    </p>
+    <p xml:id="eco_de_000066_180">
+     Eines Junimorgens traf er ihn eben wieder bei einer Exekution.
+    </p>
+    <p xml:id="eco_de_000066_190">
+     Es war im <Lebensraum>Lindenrondell</Lebensraum>, am Ende des herrschaftlichen <Lebensraum>Parks</Lebensraum>, der an den «<Lebensraum>Grafenwald</Lebensraum>» grenzte, und in der Nähe der Kulturen, die der Oberförster am liebsten mit Pulverminen umgeben hätte. Die <Pflanze>Linden</Pflanze> standen just in schönster Blüte, und über diese hatte ein Dutzend kleiner Jungen sich hergemacht. Wie <Tier>Eichkätzchen</Tier> krochen sie auf den <Pflanze>Ästen</Pflanze> der herrlichen <Pflanze>Bäume</Pflanze> herum, brachen alle <Pflanze>Zweige</Pflanze>, die sie erwischen konnten, ab und warfen sie zur Erde. Zwei Weiber lasen die <Pflanze>Zweige</Pflanze> hastig auf und stopften sie in Körbe, die schon mehr als zur Hälfte mit dem duftenden Raub gefüllt waren. Der Oberförster raste in unermeßlicher Wut. Er ließ durch seine Heger die Buben nur so von den <Pflanze>Bäumen</Pflanze> schütteln, unbekümmert um die Höhe, aus der sie fielen. Während sie wimmernd und schreiend um seine Füße krochen, der eine mit zerschundenem Gesicht, der andere mit ausgerenktem Arm, ein dritter mit gebrochenem Bein, zerbläute er eigenhändig die beiden Weiber. In einer von ihnen erkannte Hopp die leichtfertige Dirne, die das Gerücht als die Geliebte des «Gelben» bezeichnete. Und als die Körbe und Tücher der Weiber und die Hüte der Buben in Pfand genommen wurden und Hopp den Auftrag bekam, sie aufs Gericht zu bringen, konnte er sich eines schlimmen Vorgefühls nicht erwehren.
+    </p>
+    <p xml:id="eco_de_000066_200">
+     Der Befehl, den ihm damals der Oberförster zurief, wild wie ein Teufel in der Hölle und wie ein solcher umringt von jammernden und gepeinigten Sündern, ist der letzte gewesen, den der Revierjäger im Leben von ihm erhalten hat. Eine Woche später traf er ihn wieder im <Pflanze>Lindenrondell</Pflanze> – tot. Aus dem Zustande, in dem die Leiche sich befand, war zu ersehen, daß sie hierher, und zwar durch <Lebensraum>Sumpf</Lebensraum> und Gerölle, geschleppt worden war, um an dieser Stelle aufgebahrt zu werden. Der Oberförster lag auf abgehauenen <Pflanze>Zweigen</Pflanze>, die Stirn mit einem dichten Kranz aus <Pflanze>Lindenblüten</Pflanze> umflochten, einen ebensolchen als Bandelier um die Brust gewunden. Sein Hut stand neben ihm, mit <Pflanze>Lindenblüten</Pflanze> gefüllt. Auch die Jagdtasche hatte der Mörder ihm gelassen, nur die Patronen herausgenommen und statt ihrer <Pflanze>Lindenblüten</Pflanze> hineingesteckt. Der schöne Hinterlader des Oberförsters fehlte und war durch einen elenden Schießprügel ersetzt. Als man später die Kugel, die seinen Tod verursacht hatte, in der Brust des Ermordeten fand, zeigte es sich, daß sie genau in den Lauf dieses Schießprügels paßte, der dem Förster gleichsam zum Hohne über die Schulter gelegt worden war. Hopp stand beim Anblick der entstellten Leiche regungslos vor Entsetzen. Er hätte keinen Finger heben können, und auch das Gehirn war ihm wie gelähmt; er starrte nur und starrte und dachte anfangs gar nichts, und erst nach einer Weile brachte er es zu einer Beobachtung, einer stummen Frage: – «Was hat denn der <Tier>Hund</Tier>?»
+    </p>
+    <p xml:id="eco_de_000066_210">
+     Krambambuli beschnüffelt den toten Mann, läuft wie nicht gescheit um ihn herum, die Nase immer am Boden. Einmal winselt er, einmal stößt er einen schrillen Freudenschrei aus, macht ein paar Sätze, bellt, und es ist gerade so, als erwache in ihm eine längst erstorbene Erinnerung...
+    </p>
+    <p xml:id="eco_de_000066_220">
+     «Herein», ruft Hopp, «da herein!» Und Krambambuli gehorcht, sieht aber seinen Herrn in allerhöchster Aufregung an und – wie der Jäger sich auszudrücken pflegte – sagt ihm: «Ich bitte dich um alles in der <Lebensraum>Welt</Lebensraum>, siehst du denn nichts? Riechst du denn nichts?... O lieber Herr, schau doch! riech doch! O Herr, komm! Daher komm!...» Und tupft mit der Schnauze an des Jägers Knie und schleicht, sich oft umsehend, als frage er: «Folgst du mir?», zu der Leiche zurück und fängt an, das schwere Gewehr zu heben und zu schieben und ins <Tier>Maul</Tier> zu fassen, in der offenbaren Absicht, es zu apportieren.
+    </p>
+    <p xml:id="eco_de_000066_230">
+     Dem Jäger läuft ein Schauer über den Rücken, und allerlei Vermutungen dämmern in ihm auf. Weil das Spintisieren aber nicht seine Sache ist, es ihm auch nicht zukommt, der Obrigkeit Lichter aufzustecken, sondern vielmehr den gräßlichen Fund, den er getan hat, unberührt zu lassen und seiner Wege – das heißt in dem Fall recte zu Gericht – zu gehen, so tut er denn einfach, was ihm zukommt.
+    </p>
+    <p xml:id="eco_de_000066_240">
+     Nachdem es geschehen und alle Förmlichkeiten, die das Gesetz bei solchen Katastrophen vorschreibt, erfüllt, der ganze Tag und auch ein Stück der Nacht darüber hingegangen sind, nimmt Hopp, ehe er schlafen geht, noch seinen <Tier>Hund</Tier> vor.
+    </p>
+    <p xml:id="eco_de_000066_250">
+     «Mein <Tier>Hund</Tier>», spricht er, «jetzt ist die Gendarmerie auf den Beinen, jetzt gibt's Streifereien ohne Ende. Wollen wir es andern überlassen, den Schuft, der unsern Oberförster erschossen hat, wegzuputzen aus der Welt? – Mein <Tier>Hund</Tier> kennt den niederträchtigen <Tier>Strolch</Tier>, kennt ihn, ja, ja! Aber das braucht niemand zu wissen, das habe ich nicht ausgesagt... Ich, hoho!... Ich werd meinen <Tier>Hund</Tier> hineinbringen in die Geschichte... Das könnt mir einfallen!» Er beugte sich über <Tier>Krambambuli</Tier>, der zwischen seinen ausgespreizten Knien saß, drückte die Wange an den <Tier>Kopf</Tier> des <Tier>Tieres</Tier> und nahm seine dankbaren Liebkosungen in Empfang. Dabei summte er: «Was macht denn mein Krambambuli?», bis der Schlaf ihn übermannte.
+    </p>
+    <p xml:id="eco_de_000066_260">
+     Seelenkundige haben den geheinmisvollen Drang zu erklären gesucht, der manchen Verbrecher stets wieder an den Schauplatz seiner Untat zurückjagt. Hopp wußte von diesen gelehrten Ausführungen nichts, strich aber dennoch ruh- und rastlos mit seinem <Tier>Hunde</Tier> in der Nähe des <Pflanze>Lindenrondells</Pflanze> herum.
+    </p>
+    <p xml:id="eco_de_000066_270">
+     Am zehnten Tage nach dem Tode des Oberförsters hatte er zum erstenmal ein paar Stunden lang an etwas andres gedacht als an seine Rache und sich im «<Lebensraum>Grafenwald</Lebensraum>» mit dem Bezeichnen der <Pflanze>Bäume</Pflanze> beschäftigt, die beim nächsten Schlag ausgenommen werden sollten.
+    </p>
+    <p xml:id="eco_de_000066_280">
+     Wie er nun mit seiner Arbeit fertig ist, hängt er die Flinte wieder um und schlägt den kürzesten Weg ein, quer durch den <Lebensraum>Wald</Lebensraum> gegen die <Pflanze>Kulturen</Pflanze> in der Nähe des <Pflanze>Lindenrondells</Pflanze>. Im Augenblick, in dem er auf den Fußsteig treten will, der längs des <Pflanze>Buchenzaunes</Pflanze> läuft, ist ihm, als höre er etwas im <Pflanze>Laube</Pflanze> rascheln. Gleich darauf herrscht jedoch tiefe Stille, tiefe, anhaltende Stille. Fast hätte er gemeint, es sei nichts Bemerkenswertes gewesen, wenn nicht der <Tier>Hund</Tier> so merkwürdig dreingeschaut hätte. Der stand mit gesträubtem Haar, den <Tier>Hals</Tier> vorgestreckt, den <Tier>Schwanz</Tier> aufrecht, und glotzte eine Stelle des Zaunes an. Oho! dachte Hopp, wart, Kerl, wenn du's bist! Trat hinter einen <Pflanze>Baum</Pflanze> und spannte den Hahn seiner Flinte. Wie rasend pochte ihm das Herz, und der ohnehin kurze Atem wollte ihm völlig versagen, als jetzt plötzlich – Gottes Wunder! – durch den Zaun der «Gelbe» auf den Fußsteig trat. Zwei junge <Tier>Hasen</Tier> hingen an seiner Weidtasche, und auf seiner Schulter, am wohlbekannten Juchtenriemen, der Hinterlader des Oberförsters. Nun wär's eine Passion gewesen, den Racker niederzubrennen aus sicherem Hinterhalt.
+    </p>
+    <p xml:id="eco_de_000066_290">
+     Aber nicht einmal auf den schlechtesten Kerl schießt der Jäger Hopp, ohne ihn angerufen zu haben. Mit einem Satze springt er hinter dem <Pflanze>Baum</Pflanze> hervor und auf den Fußsteig und schreit: «Gib dich, Vermaledeiter!» Und als der Wildschütz zur Antwort den Hinterlader von der Schulter reißt, gibt der Jäger Feuer... All ihr Heiligen – ein sauberes Feuer! Die Flinte knackst, anstatt zu knallen. Sie hat zu lang mit aufgesetzter Kapsel im feuchten <Lebensraum>Wald</Lebensraum> am <Pflanze>Baum</Pflanze> gelehnt – sie versagt.
+    </p>
+    <p xml:id="eco_de_000066_300">
+     Gute Nacht, so sieht das Sterben aus, denkt der Alte. Doch nein – er ist heil, sein Hut nur fliegt, von Schroten durchlöchert, ins <Pflanze>Gras</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000066_310">
+     Der andre hat auch kein Glück; das war der letzte Schuß in seinem Gewehr, und zum nächsten zieht er eben erst die Patrone aus der Tasche...
+    </p>
+    <p xml:id="eco_de_000066_320">
+     «Pack an!» ruft Hopp seinem <Tier>Hunde</Tier> heiser zu: «Pack an!» Und:
+    </p>
+    <p xml:id="eco_de_000066_330">
+     «Herein, zu mir! Herein, Krambambuli!» lockt es drüben mit zärtlicher, liebevoller – ach, mit altbekannter Stimme...
+    </p>
+    <p xml:id="eco_de_000066_340">
+     Der <Tier>Hund</Tier> aber –
+    </p>
+    <p xml:id="eco_de_000066_350">
+     Was sich nun begab, begab sich viel rascher, als man es erzählen kann.
+    </p>
+    <p xml:id="eco_de_000066_360">
+     Krambambuli hatte seinen ersten Herrn erkannt und rannte auf ihn zu, bis – in die Mitte des Weges. Da pfeift Hopp, und der <Tier>Hund</Tier> macht kehrt, der «Gelbe» pfeift, und der <Tier>Hund</Tier> macht wieder kehrt und windet sich in Verzweiflung auf einem Fleck, in gleicher Distanz von dem Jäger wie von dem Wildschützen, zugleich hingerissen und gebannt...
+    </p>
+    <p xml:id="eco_de_000066_370">
+     Zuletzt hat das arme <Tier>Tier</Tier> den trostlos unnötigen Kampf aufgegeben und seinen Zweifeln ein Ende gemacht, aber nicht seiner Qual. Bellend, heulend, den <Tier>Bauch</Tier> am Boden, den Körper gespannt wie eine Sehne, den Kopf emporgehoben, als riefe es den Himmel zum Zeugen seines Seelenschmerzes an, kriecht es – seinem ersten Herrn zu.
+    </p>
+    <p xml:id="eco_de_000066_380">
+     Bei dem Anblick wird Hopp von Blutdurst gepackt. Mit zitternden Fingern hat er die neue Kapsel aufgesetzt – mit ruhiger Sicherheit legt er an. Auch der «Gelbe» hat den Lauf wieder auf ihn gerichtet. Diesmal gilt's! Das wissen die beiden, die einander auf dem <Pflanze>Korn</Pflanze> haben, und was auch in ihnen vorgehen möge, sie zielen so ruhig wie ein paar gemalte Schützen.
+    </p>
+    <p xml:id="eco_de_000066_390">
+     Zwei Schüsse fallen. Der Jäger trifft, der Wildschütze fehlt.
+    </p>
+    <p xml:id="eco_de_000066_400">
+     Warum? Weil er – vom <Tier>Hunde</Tier> mit stürmischer Liebkosung angesprungen – gezuckt hat im Augenblick des Losdrückens. «<Tier>Bestie</Tier>!» zischt er noch, stürzt rücklings hin und rührt sich nicht mehr.
+    </p>
+    <p xml:id="eco_de_000066_410">
+     Der ihn gerichtet, kommt langsam herangeschritten. Du hast genug, denkt er, um jedes Schrotkorn wär's schad bei dir. Trotzdem stellt er die Flinte auf den Boden und lädt von neuem. Der <Tier>Hund</Tier> sitzt aufrecht vor ihm, läßt die <Tier>Zunge</Tier> heraushängen, keucht kurz und laut und sieht ihm zu. Und als der Jäger fertig ist und die Flinte wieder zur Hand nimmt, halten sie ein Gespräch, von dem kein Zeuge ein Wort vernommen hätte, wenn es auch statt eines toten ein lebendiger gewesen wäre.
+    </p>
+    <p xml:id="eco_de_000066_420">
+     «Weißt du, für wen das Blei gehört?»
+    </p>
+    <p xml:id="eco_de_000066_430">
+     «Ich kann es mir denken.»
+    </p>
+    <p xml:id="eco_de_000066_440">
+     «Deserteur, Kalfakter, pflicht- und treuvergessene Kanaille!»
+    </p>
+    <p xml:id="eco_de_000066_450">
+     «Ja, Herr, jawohl.»
+    </p>
+    <p xml:id="eco_de_000066_460">
+     «Du warst meine Freude. Jetzt ist's vorbei. Ich habe keine Freude mehr an dir.»
+    </p>
+    <p xml:id="eco_de_000066_470">
+     «Begreiflich, Herr», und Krambambuli legte sich hin, drückte den <Tier>Kopf</Tier> auf die ausgestreckten <Tier>Vorderpfoten</Tier> und sah den Jäger an.
+    </p>
+    <p xml:id="eco_de_000066_480">
+     Ja, hätte das verdammte <Tier>Vieh</Tier> ihn nur nicht angesehen! Da würde er ein rasches Ende gemacht und sich und dem <Tier>Hunde</Tier> viel Pein erspart haben. Aber so geht's nicht! Wer könnte ein Geschöpf niederknallen, das einen so ansieht? Herr Hopp murmelt ein halbes Dutzend Flüche zwischen den Zähnen, einer gotteslästerlicher als der andre, hängt die Flinte wieder um, nimmt dem Raubschützen noch die jungen <Tier>Hasen</Tier> ab und geht.
+    </p>
+    <p xml:id="eco_de_000066_490">
+     Der <Tier>Hund</Tier> folgte ihm mit den <Tier>Augen</Tier>, bis er zwischen den <Pflanze>Bäumen</Pflanze> verschwunden war, stand dann auf, und sein mark- und beinerschütterndes Wehgeheul durchdrang den <Lebensraum>Wald</Lebensraum>. Ein paarmal drehte er sich im Kreise und setzte sich wieder aufrecht neben den Toten hin. So fand ihn die gerichtliche Kommission, die, von Hopp geleitet, bei sinkender Nacht erschien, um die Leiche des Raubschützen in Augenschein zu nehmen und fortschaffen zu lassen. Krambambuli wich einige Schritte zurück, als die Herren herantraten. Einer von ihnen sagte zu dem Jäger: «Das ist ja Ihr <Tier>Hund</Tier>.» – «Ich habe ihn hier als Schildwache zurückgelassen», antwortete Hopp, der sich schämte, die Wahrheit zu gestehen. – Was half's? Sie kam doch heraus, denn als die Leiche auf den Wagen geladen war und fortgeführt wurde, trottete <Tier>Krambambuli</Tier> gesenkten <Tier>Kopfes</Tier> und mit eingezogenem <Tier>Schwanze</Tier> hinterher. Unweit der Totenkammer, in der der «Gelbe» lag, sah ihn der Gerichtsdiener noch am folgenden Tage herumstreichen. Er gab ihm einen Tritt und rief ihm zu: «Geh nach Hause!» – Krambambuli fletschte die Zähne gegen ihn und lief davon, wie der Mann meinte, in der Richtung des Jägerhauses. Aber dorthin kam er nicht, sondern führte ein elendes Vagabundenleben.
+    </p>
+    <p xml:id="eco_de_000066_500">
+     Verwildert, zum Skelett abgemagert, umschlich er einmal die armen Wohnungen der Häusler am Ende des Dorfes. Plötzlich stürzte er auf ein Kind los, das vor der letzten Hütte stand, und entriß ihm gierig das Stück harten Brotes, an dem es nagte. Das Kind blieb starr vor Schrecken, aber ein kleiner Spitz sprang aus dem Hause und bellte den Räuber an. Dieser ließ sogleich seine Beute fahren und entfloh.
+    </p>
+    <p xml:id="eco_de_000066_510">
+     Am selben Abend stand Hopp vor dem Schlafengehen am Fenster und blickte in die schimmernde Sommernacht hinaus. Da war ihm, als sähe er jenseits der <Lebensraum>Wiese</Lebensraum> am <Lebensraum>Waldessaum</Lebensraum> den <Tier>Hund</Tier> sitzen, die Stätte seines ehemaligen Glückes unverwandt und sehnsüchtig betrachtend – der Treueste der Treuen, herrenlos!
+    </p>
+    <p xml:id="eco_de_000066_520">
+     Der Jäger schlug den Laden zu und ging zu Bett. Aber nach einer Weile stand er auf, trat wieder ans Fenster – der <Tier>Hund</Tier> war nicht mehr da. Und wieder wollte er sich zur Ruhe begeben und wieder fand er sie nicht.
+    </p>
+    <p xml:id="eco_de_000066_530">
+     Er hielt es nicht mehr aus. Sei es, wie es sei... Er hielt es nicht mehr aus ohne den <Tier>Hund</Tier>. – Ich hol ihn heim, dachte er, und fühlte sich wie neugeboren nach diesem Entschluß.
+    </p>
+    <p xml:id="eco_de_000066_540">
+     Beim ersten Morgengrauen war er angekleidet, befahl seiner Alten, mit dem Mittagessen nicht auf ihn zu warten, und sputete sich hinweg. Wie er aber aus dem Hause trat, stieß sein Fuß an denjenigen, den er in der Ferne zu suchen ausging. Krambambuli lag verendet vor ihm, den Kopf an die Schwelle gepreßt, die zu überschreiten er nicht mehr gewagt hatte.
+    </p>
+    <p xml:id="eco_de_000066_550">
+     Der Jäger verschmerzte ihn nie. Die Augenblicke waren seine besten, in denen er vergaß, daß er ihn verloren hatte. In freundliche Gedanken versunken, intonierte er dann sein berühmtes: «Was macht denn mein Krambam...» Aber mitten in dem Worte hielt er bestürzt inne, schüttelte das Haupt und sprach mit einem tiefen Seufzer: «Schad um den <Tier>Hund</Tier>.»
+    </p>
+   </div>
+  </body>
+  <back/>
+ </text>
+</TEI>

@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000039" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mein braunes Buch
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q77486">
+     Löns, Hermann (1866-1914)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     22209
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1907">
+      1907
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-01">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000039_20">
+    Hermann Löns
+   </p>
+   <p xml:id="eco_de_000039_30">
+    Mein braunes Buch
+   </p>
+   <p xml:id="eco_de_000039_40">
+    Heidegeschichten
+   </p>
+   <p xml:id="eco_de_000039_50">
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   </p>
+   <p xml:id="eco_de_000039_60">
+    Inhalt:
+   </p>
+   <p xml:id="eco_de_000039_70">
+    Jürn
+   </p>
+   <p xml:id="eco_de_000039_80">
+    Um die Ulenflucht
+   </p>
+   <p xml:id="eco_de_000039_90">
+    Im roten Post
+   </p>
+   <p xml:id="eco_de_000039_100">
+    Der <Lebensraum>Wald</Lebensraum> der großen <Tier>Vögel</Tier>
+   </p>
+   <p xml:id="eco_de_000039_110">
+    Die Furt
+   </p>
+   <p xml:id="eco_de_000039_120">
+    Goldene <Lebensraum>Heide</Lebensraum>
+   </p>
+   <p xml:id="eco_de_000039_130">
+    Im Blauen <Tier>Schimmel</Tier>
+   </p>
+   <p xml:id="eco_de_000039_140">
+    Der Heidweg
+   </p>
+   <p xml:id="eco_de_000039_150">
+    Heidgang
+   </p>
+   <p xml:id="eco_de_000039_160">
+    Füüür
+   </p>
+   <p xml:id="eco_de_000039_170">
+    Am Heidpump
+   </p>
+   <p xml:id="eco_de_000039_180">
+    Im weiten weißen <Lebensraum>Moore</Lebensraum>
+   </p>
+   <p xml:id="eco_de_000039_190">
+    Die rote Beeke
+   </p>
+   <p xml:id="eco_de_000039_200">
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+     Jürn
+    </head>
+    <p xml:id="eco_de_000039_210">
+     Auf dem braunen <Lebensraum>Heidkopfe</Lebensraum>, zwischen den krüppligen <Pflanze>Fichten</Pflanze> und <Pflanze>Machangeln</Pflanze> tauchen graue Flecke auf, vermehren sich, vergrößern sich, ziehen sich auseinander und fließen zusammen.
+    </p>
+    <p xml:id="eco_de_000039_220">
+     Zwischen ihnen, vor ihnen, hinter ihnen, bald hier, bald da, ist ein weißer und ein schwarzer Fleck; oben auf dem <Lebensraum>Heidekopfe</Lebensraum>, höher als die <Pflanze>Fichtenklumpen</Pflanze> und die <Pflanze>Machangelbüsche</Pflanze>, taucht ein dunkler Fleck auf.
+    </p>
+    <p xml:id="eco_de_000039_230">
+     Das ist Jürn, der Schnuckenschäfer vom Dieshofe; das weiße und das schwarze Ding, das sind <Tier>Schimmel</Tier> und <Tier>Wasser</Tier>, seine <Tier>Hunde</Tier>; das graue <Tier>Gewimmel</Tier> sind die <Tier>Schnucken</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_240">
+     Fünfhundert sind es im ganzen mit den <Tier>Lämmern</Tier>; sie sind Jürns Stolz, Jürns Leben, Jürns Welt. Weit und breit ist keine Schnuckenherde, die auch nur halb so groß ist wie die vom Dieshofe. Der Papst hat mächtig viel Geld, und der Kaiser ist Herr über eine Masse Soldaten, aber solche Schnuckenherde haben sie doch nicht.
+    </p>
+    <p xml:id="eco_de_000039_250">
+     Die Menschen sind unterschiedlich; welche fahren in feinen Jagdwagen oder auch in den neumodischen Wagen ohne <Tier>Pferde</Tier>; welche haben Land und welche keins. Der Oberförster hat die schönste Frau weit und breit, und die Wietzer Bauern haben das Geld in Kartoffelsäcken; aber solche Schnuckenherde wie diese hier hat keiner.
+    </p>
+    <p xml:id="eco_de_000039_260">
+     Es gibt helle Menschen und dösige; einmal war ein Naturforscher hier, der kannte jegliches <Tier>Getier</Tier> und alles <Pflanze>Kraut</Pflanze> mit Vor- und Zunamen, und früher kam einer oft hierher, der kannte alle Steine und wußte zu sagen, warum hier die <Lebensraum>Heide</Lebensraum> so buckelig ist und da unten so eben; in Celle wohnt ein Mann, der weiß alle Gesetze auswendig, und der Pastor versteht die Judenschrift zu lesen, aus der sonst kein Mensch klug wird; aber es soll einmal einer kommen und sich in den <Tier>Schnucken</Tier> hier auskennen, und er wird bald sehen, daß sein Wissen Stückwerk ist.
+    </p>
+    <p xml:id="eco_de_000039_270">
+     Jürn aber kennt jedes Stück von der Herde. Es soll ihn nur einer fragen, und er sagt ihm ganz genau, wie alt das Stück ist, ob es schon krank war, ob es schon gelammt hat, ob es folgsam ist oder ob erst <Tier>Schimmel</Tier> und <Tier>Wasser</Tier> dahinter müssen, ehe es tut, was es soll. Der <Tier>Bock</Tier> da bei dem Sandloch, das ist ein richtiger Säufer. Jürn darf bloß da hüten, wo der Brahm wächst, weg ist der <Tier>Bock</Tier> und frißt sich duhne und dicke an dem jungen Brahm, bis er voll wie ein Pole daliegt. Nach drei Tagen ist er dann wieder da und tut nichts als Wasser saufen. Er wäre schon längst beim Schlachter, aber er ist der stärkste <Tier>Bock</Tier> in der <Tier>Herde</Tier>, ein wahrer <Tier>Prachtbock</Tier>. Sein Bruder war ebenso.
+    </p>
+    <p xml:id="eco_de_000039_280">
+     Wenn Jürn an diesen Bruder denkt, dann schmustert er vor sich hin. Es war auch so sonderbar, wie dieser <Tier>Bock</Tier> zu Tode kam. Er soff auch, das lag in der Familie; denn der Vater war auch schon so. Und seinen eigenen Kopf hatte er auch. Immer abseits, immer von der <Tier>Herde</Tier> weg. Auf Brahm war er rein verrückt. Das war denn sein Tod. Denn in dem großen <Lebensraum>Brahmfeld</Lebensraum> stand auch der große <Tier>Haarbock</Tier>, hinter dem der Jäger aus Hamburg immer her war. Und endlich kriegte er ihn und schoß ihn tot. Und dann kam er über die <Lebensraum>Heide</Lebensraum> und gab Jürn fünf Taler, weil es nicht der <Tier>Haarbock</Tier> war, sondern der <Tier>Schnuckenbock</Tier>. Das war ein gutes Geschäft, fünf Taler, und den <Tier>Bock</Tier> konnte Jürn auch noch behalten.
+    </p>
+    <p xml:id="eco_de_000039_290">
+     In den Städten wohnen merkwürdige Völker; die schmeißen nur so mit dem Gelde. Seitdem es in den Städten Mode ist, in die <Lebensraum>Heide</Lebensraum> zu gehen, wenn sie blüht, kriegt Jürn mehr von ihnen zu sehen, auch Frauensleute. Die fragen Jürn dann ein Loch in den Strumpf, ob es nicht langweilig ist, den ganzen Tag so herumzustehen und zu knütten, und wieviel er im Jahre verdiene, und warum er nicht etwas anderes geworden sei, und was eine Schnucke koste.
+    </p>
+    <p xml:id="eco_de_000039_300">
+     Es scheinen meist ganz ehrenwerte Leute zu sein, aber so ganz gescheut sind sie doch nicht. Es sieht ja ganz niedlich aus, wenn die <Lebensraum>Heide</Lebensraum> am Blühen ist, aber wenn man da nichts zu tun hat, als Schnucken zu hüten, nach den <Pflanze>Immen</Pflanze> zu sehen oder <Tier>Plaggen</Tier> zu hauen, dann bleibt ein vernünftiger Mensch da doch lieber weg und läuft nicht in Regen und Sonne herum wie unklug.
+    </p>
+    <p xml:id="eco_de_000039_310">
+     Unkluge Gäste sind es doch, die Stadtleute. Sechs Zigarren hat ihm vorigen Herbst einer gegeben, und feine, mit rotem Papier um die Mitte. Die kosten doch mindestens einen halben Groschen das Stück. Und der Mann, der im April hier war und der ihn eigens auf dem Hofe aufsuchte und ihn nach allerlei Vogelzeug fragte, nach dem <Tier>Rauk</Tier> und dem <Tier>Pupphahn</Tier> und dem schwarzen <Tier>Storch</Tier>, und der sich das alles aufschrieb, der gab ihm sogar ein ganzes Dutzend. So gehen die Stadtleute mit dem Gelde um.
+    </p>
+    <p xml:id="eco_de_000039_320">
+     Zwei Male war Jürn in der Stadt, in Celle, aber keine zehn <Tier>Pferde</Tier> kriegen ihn wieder dahin; ganz benaud ist ihm zu Sinne geworden von den Menschen und Soldaten und Wagen und Velozipeden. Und als er in der Wirtschaft, in die ihn der Jäger mitgenommen hatte, sein Essen aus der Tasche holen wollte, da sagte der, das ginge hier nicht, und bestellte etwas zu essen und zu trinken. Das schmeckte ja wohl nach allerhand, aber es hielt nicht vor, obzwar der Jäger einen heilen Taler dafür ausgab; und als sie dann im <Lebensraum>Französischen</Lebensraum> <Lebensraum>Garten</Lebensraum> waren, da war Jürn froh, daß er sein Brot und seine Wurst bei sich hatte und wieder vernünftig über den Daumen essen konnte.
+    </p>
+    <p xml:id="eco_de_000039_330">
+     Er wäre nie in die Stadt gekommen, wenn er nicht gemußt hätte; das war nämlich so gekommen. Er hatte im Faulenfelde gehütet, und da war ein Schuß gefallen, und da war er nach dem Anberge gegangen und hatte nach dem Jäger ausgesehen, und da waren da zwei Männer aus der Fuhrenbesamung gekommen, die er nicht kannte. Der eine hatte einen zusammengerollten Sack unter dem Arme, das war der Alte, der hatte einen griesen Bart, und der andere, was der Junge war, der mit dem Schnurrbart, der hatte einen Sack über dem Rücken; und als die Männer meist am Königlichen waren, da war der Jäger gekommen und hatte ihn gefragt, ob er die Männer gesehen hätte, und dann fragte er, ob er sie wiederkennen würde. Und drei Wochen nachher bekam er eine Vorladung nach Celle zum Amtsgericht, und er hatte sich mächtig darüber verjagt.
+    </p>
+    <p xml:id="eco_de_000039_340">
+     Aber es war alles nicht so schlimm, wie es sich erst anließ. Der Oberste von den Gerichtsherren, der mit dem langen schwarzen Pastorenrock und der unklugen schwarzen Kappe, der war ja nun wohl erst ein bißchen grob geworden, als Jürn sich nicht gleich auf seinen Vaternamen besinnen konnte; aber das war doch kein Wunder, immer hieß er bloß Jürn, und so hatte er ganz vergessen, daß er ein Dies war. Und schließlich hatte der Richter mächtig lachen müssen, als er ihn fragte, ob er mit den Angeklagten, das waren nämlich Celler Mascher und geschworene Wildschützen, verwandt oder verschwägert sei, und er gesagt hatte, wie es wohl möglich sei, daß er mit Leuten verwandt sein könne, die er gar nicht kenne.
+    </p>
+    <p xml:id="eco_de_000039_350">
+     Als dann alles zu Ende war, da fragte ihn ein Mann in Uniform, ob er Verdienst versäumt habe; denn dann bekäme er Geld. Und nun wußte er, woher die Leute in der Stadt alle das scheußlich viele Geld herhaben: sie gehen auf das Gericht und lassen die Arbeit liegen, und das kriegen sie dann gut bezahlt; und dann sind welche da, die reden vor Gericht den Angeklagten lauter Schlechtigkeiten nach, und andere reden lauter Gutes über sie, und dafür kriegen sie auch Geld. Und einer sitzt da, der schreibt alles auf, und das wird ihm auch bezahlt. Und schließlich ist es so: der eine betrügt den anderen, und das nennen sie Umsatz.
+    </p>
+    <p xml:id="eco_de_000039_360">
+     Aber es gibt auch ganz vernünftige Leute in der Stadt. Da war auf dem Gericht ein junger Mann, der hatte das ganze Gesicht voll Narben, der kannte den Jäger und ging mit ihm in das Wirtshaus. Er machte sich aus Papier und fuchsigem Tabak Zigarren, die stanken sieben Meilen gegen den Wind, aber sonst war er nicht uneben, und als einer von den Kellnern über Jürn lachte, da sah er ihn bloß an, und der Kellner war gleich ganz anders zu Jürn und sprang um ihn herum wie ein Zinshahn.
+    </p>
+    <p xml:id="eco_de_000039_370">
+     Dieser junge Mann war Erbe von einem großen adeligen Hofe und lernte die Gerichtskunde bloß, daß ihn nachher, wenn er den Hof hatte, die Leute nicht betrügen sollten; das ist sehr vernünftig, denn es geht nirgendwo toller her als auf der <Lebensraum>Welt</Lebensraum>. Und was der für einen <Tier>Hund</Tier> hatte, gelbbunt wie <Tier>Brinckmanns</Tier> <Tier>Kater</Tier> und so hoch wie der Tisch, und der konnte wahrhaftig Bier trinken als wie ein Mensch.
+    </p>
+    <p xml:id="eco_de_000039_380">
+     An dem jungen Mann hatte Jürn seine Freude; der fragte genau, wieviel Morgen beim Dieshofe seien und wieviel davon unter dem Pfluge wären und wieviel zu <Lebensraum>Wiesen</Lebensraum> gemacht seien, und am meisten fragte er nach den Schnucken; davon konnte er nicht genug hören. Und eines schönen Donnerstags kam er in die Stuken, wo Jürn gerade hütete, und blieb den ganzen Nachmittag bei ihm und verehrte ihm ein schönes Messer, an dem waren zwei Klingen, ein Pfriem, ein Pfropfenzieher und ein Stahl zum Feuerschlagen, so daß sich Jürn nun keine Streichhölzer mehr zu kaufen brauchte, was ihn immer geärgert hatte.
+    </p>
+    <p xml:id="eco_de_000039_390">
+     Das ist eine ganz dummerhaftige Erfindung; so ein Streichholz ist schnell angebrannt und halb brennend wird es weggeschmissen, und nachher kommt dann Feuer in der <Lebensraum>Heide</Lebensraum> aus, wie vor drei Jahren, wo ihm vier <Tier>Lämmer</Tier> in den Flammen umkamen. Müßten die Menschen erst Stein und Stahl und Zunder nehmen, um sich die Zigarre anzustecken, dann würden sie nicht so wild mit dem Feuer umgehen; denn das ist nicht so einfach, vorzüglich bei starkem Winde.
+    </p>
+    <p xml:id="eco_de_000039_400">
+     Aber in der Stadt wollen sie alles so bequem haben, und davon kommt dann alles Unglück. Es vergeht doch wohl kein Jahr, daß es in Celle nicht brennt oder daß ein Mensch auf schreckliche Weise zu Tode kommt. Jürn weiß heute noch, wie ihm zumute war, als er auf dem Gerichte die Treppe hinaufsteigen mußte; hätte ihn der Jäger nicht an der Hand gefaßt, es wäre nicht gegangen. Aber das Schlimmste, das kam nachher, als es hieß, die Treppe wieder hinunterzuklettern; ordentlich schwindlig wurde ihm, und zwei Mann mußten ihn halten, und es ging überhaupt erst, als er rückwärts hinunterging und sich dabei vorredete, er sei auf der Leiter im Schafkoben.
+    </p>
+    <p xml:id="eco_de_000039_410">
+     Nein, das mit der Stadt, das ist nichts, und wer da nicht hingehört, der soll da fortbleiben. Jürn bleibt auf seiner <Lebensraum>Heide</Lebensraum>, wie seine <Tier>Schnucken</Tier>. Schon wenn er einmal über das <Lebensraum>Feld</Lebensraum> geht, so paßt ihm das nicht; es ist ihm so wie mit den Schnucken; die kriegt man nicht mit Gewalt über die Grenze. Vor zehn Jahren kaufte einmal ein Schlachter zehn Schnucken und schickte einen Mann, der sollte sie nach Eschede treiben. Als ihn der Bauer fragte, ob er ihm die Schnucken nicht lieber hinfahren solle, hatte der Mann gelacht und gesagt, das ginge auch so. Nach vier Stunden kam er wieder und schwitzte wie ein Stück frische Butter; rein unglücklich hatte er sich geschrien und halb krank hatte er sich gelaufen. Bis an die Grenze vom Dieshofe waren die <Tier>Schnucken</Tier> gutwillig mitgegangen, sagte er; aber sowie sie an die Grenze kamen, dann standen sie wie die <Pflanze>Bäume</Pflanze> und machten dumme Gesichter und blökten, und dann umgedreht und zurück. Kein Zureden und kein Schmeißen hätte geholfen, und er sähe wohl ein, es ginge nicht anders, und er müßte doch wohl einen Wagen nehmen.
+    </p>
+    <p xml:id="eco_de_000039_420">
+     Jürn geht es genauso, ohne Wagen kommt er nicht über die Grenze. Damals, als er sich stellen mußte, hatte er auch gedacht, es ginge so, aber es ging nicht. Nach einer Stunde hatte er sich Blasen gelaufen, und er hatte eine Hundeangst gehabt, daß er sich verlaufen könne und nicht mehr nach Hause zurückfände. Da war er wieder umgedreht und hatte anspannen lassen. Und die ganze Schererei war für die <Tier>Katze</Tier>; sie konnten ihn bei den Soldaten nicht gebrauchen, weil er halbäugig war. Das eine Auge hatte er sich als Hütejunge an einem <Pflanze>Dorn</Pflanze> blind gestochen, als die <Tier>Kuh</Tier> vor den <Tier>Wespen</Tier> ausriß und ihn hinter sich herzog; denn er hatte sich den Hütestrick um den Leib gebunden.
+    </p>
+    <p xml:id="eco_de_000039_430">
+     Damals hatte er mächtig geweint, aber nachher war er heilfroh, daß er nur ein Auge hatte; was wäre aus ihm geworden, wenn er hätte Soldat werden müssen, und wie wäre es seinen Schnucken gegangen? Einen Schnuckenschäfer hätte der Bauer für Geld und gute Worte nicht bekommen; denn die <Tier>Schnuckenschäfer</Tier> sind dünn gesäet, und wo sie sind, da bleiben sie; die gehören zu dem Hofe. Einen neuen Pastor kriegt man bald, aber einen neuen Schnuckenschäfer nicht.
+    </p>
+    <p xml:id="eco_de_000039_440">
+     Jürn weiß es noch, wie scheußlich ihm zu Sinne war, als er bei dem großen <Pflanze>Rosenbusch</Pflanze> im <Lebensraum>Graben</Lebensraum> saß und sich seine Füße besah. Unter jedem Hacken eine Blase, so groß wie ein Taler, und unter dem Ballen auch eine. Es ist ein anderes Ding, Schritt für Schritt über die <Lebensraum>Heide</Lebensraum> zu gehen und sich alle Augenblicke auszuruhen, als wie unklug auf der Chaussee einherzuwanken. Wenn der Mensch aus der Gewohnheit kommt, dann hält er nicht stand. Und wenn er Soldat geworden wäre, hätte er sterben müssen, das weiß Jürn jetzt ganz sicher. So war es ganz gut, daß die <Tier>Kuh</Tier> damals wild wurde und durchging.
+    </p>
+    <p xml:id="eco_de_000039_450">
+     Auch in anderer Weise hatte das sein Gutes. Auf dem Dieshofe diente ein Mädchen, das mochte Jürn gern leiden; sie war nicht groß und nicht klein, nicht dick und nicht dünn und hatte gelbe Haare, wie Honig, und sie war still und immer zufrieden und bannig fix in der Arbeit. Und sie mochte Jürn auch wohl. Mit dem Gelde wäre es schon gegangen; denn sie hatte eine gute Aussteuer und dreihundert Taler Abfindungsgeld auf der Sparkasse und noch gespartes Geld, und Jürns Abfindung vom Dieshofe war auch nicht unter dreitausend Taler.
+    </p>
+    <p xml:id="eco_de_000039_460">
+     Aber wie die Frauensleute so sind, sie wollte mit Gewalt, Jürn solle nach Hannover fahren und sich ein Auge aus Glas einsetzen lassen; aber Jürn hatte gesagt, lieber lasse er die ganze Freierei, als daß er auf der Eisenbahn fahre, und so wurde aus der Sache nichts. Nachher freite das Mädchen, Dettma hieß sie, einen Forstaufseher und kriegte zehn lebendige Kinder. Das wäre etwas für Jürn gewesen, zehn Kinder. Und wenn er bedenkt, wie es ihm hätte gehen können, dann ist er sehr zufrieden, daß er damals auf seinem Kopfe bestand.
+    </p>
+    <p xml:id="eco_de_000039_470">
+     So ganz leicht war es ihm nicht geworden; denn die Dirne saß ihm mächtig im Sinne, und als sie ging, fehlte ihm doch allerlei. Aber darüber kam er bald hinweg, dafür sorgten die Schnucken schon. Auf die muß man den ganzen Tag passen, daß sie nicht auf die <Lebensraum>Wiesen</Lebensraum> oder in das <Lebensraum>Bruch</Lebensraum> laufen und hinterher <Pflanze>Egel</Pflanze> in die Leber bekommen; und Regen ist ihnen auch nicht gut, und so muß Jürn auch auf den Himmel passen und auf die <Tier>Bienen</Tier>; denn je nachdem die fliegen, wird das Wetter.
+    </p>
+    <p xml:id="eco_de_000039_480">
+     Darauf versteht sich Jürn ganz gewaltig. Wenn der <Tier>Schwarzspecht</Tier> lacht, dann gibt es Regen; wenn die grünen <Tier>Frösche</Tier> auf dem <Lebensraum>Lande</Lebensraum> sitzen, bleibt das Wetter; wollen die <Tier>Bienen</Tier> nicht fliegen, dann muß man das <Pflanze>Heu</Pflanze> einfahren; wenn der alte <Tier>Bock</Tier> mehr <Pflanze>Gras</Pflanze> als <Lebensraum>Heide</Lebensraum> frißt, gibt es Landregen. Am sichersten ist es aber, man richtet sich nach den <Tier>Spinnen</Tier>; je nachdem die weben, so wird es.
+    </p>
+    <p xml:id="eco_de_000039_490">
+     Das alles kann aber nur ein Mensch wissen, der immer auf der <Lebensraum>Heide</Lebensraum> ist, sommertags und auch im Winter. Im Winter ist es oft langweilig, vorzüglich bei Schlackschnee und Regen, wenn die Schnucken nicht herauskönnen. Dann liegt Jürn auf dem Hofe herum, ist jedermann im Wege, schmökt sich vor Langweiligkeit ungesund und kommt vor Nichtstun ganz aus der Kehr; denn das mit der Arbeit auf dem Hofe, das hat er längst verlernt. Als Hütejunge fing er an; erst bei den <Tier>Gänsen</Tier>, dann bei den <Tier>Kühen</Tier>, dann ging er mit Ohm Hein hinter den Schnucken und nachher allein.
+    </p>
+    <p xml:id="eco_de_000039_500">
+     Jetzt fällt es ihm ein, daß Hein seines Vaters Bruder war, aber sie hatten ihn immer nur Hein geheißen, wie sie ihn auch nur Jürn rufen, obzwar er doch jetzt auch der Ohm ist, weil seines Bruders Sohn den Hof hat. Der zweite Sohn heiratet jetzt auf einen Hof, und der dritte, der Nachkömmling, der gegen alle Abmachung auf die Welt kam und die ganze Rechnung verdarb, der heißt wieder Hein.
+    </p>
+    <p xml:id="eco_de_000039_510">
+     Das ist Jürns Liebling; er ist ein Junge von wenig Worten und liegt jede Stunde, die ihm die Schule frei läßt, bei ihm auf der <Lebensraum>Heide</Lebensraum>. Daß er einmal die <Tier>Schnucken</Tier> hütet, das ist gewiß. Und darum macht es Jürn auch nicht viel aus, daß ihm im Winter so oft der <Tier>Rücken</Tier> anwächst, und daß ihm bei Nebel der Atem kurz wird.
+    </p>
+    <p xml:id="eco_de_000039_520">
+     Geht es einmal mit ihm zu Ende, dann sind die <Tier>Schnucken</Tier> nicht verlassen und brauchen nicht abgeschafft zu werden, weil keiner zu haben ist, der sie hütet, denn Hein ist da. Und die Schnucken, das ist doch das Haupt; alles andere ist Jürn gleich.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Um die Ulenflucht
+    </head>
+    <p xml:id="eco_de_000039_530">
+     Hinter den schwarzen Kanten der hohen Fuhren verschwand die rote Sonne; ein Weilchen noch war alles Glut und Glanz, Feuer und Flamme, jetzt ist es abgeblaßt in des Ringeltaubers Farben.
+    </p>
+    <p xml:id="eco_de_000039_540">
+     Ich habe diese Stunde lieb und fast noch lieber das weiche, warme, tieftönige Wort, das unsere Bauern dafür erdichteten. Ulenflucht nennen sie die Zeit, wenn der Tag müde hinter schwarze <Lebensraum>Wälder</Lebensraum> sinkt und die Nacht heraufschwebt, in den graublauen, hellrot gesäumten Mantel gehüllt, den ein einziger großer Funkelstein zusammenhält, der Abendstern.
+    </p>
+    <p xml:id="eco_de_000039_550">
+     Es muß ein großer Dichter gewesen sein, der dieses Wort erfand. Vielleicht nur ein geringer Knecht, ein Mann der harten, einförmigen Arbeit, der nie in seinem Leben ein Lied schrieb, eine Strophe erdachte. Aber in diesem einen Worte ist mehr Kunst als in vielen Büchern, in denen Lieder gedruckt sind.
+    </p>
+    <p xml:id="eco_de_000039_560">
+     Es ist ein großes Kunstwerk, dieses Wort; denn es gibt soviel. Es bringt heilige Schauer wie die ernsten Bildsäulen der unbekannten ägyptischen Meister; es schenkt dem Herzen selige Träume wie eins der großen Werke Böcklins, es trägt mich hinauf zum Himmel und führt mich hinab zur Hölle wie Beethovens hohe Melodien.
+    </p>
+    <p xml:id="eco_de_000039_570">
+     Wenn die Ulenflucht naht, dann werde ich anders in der Stimmung; Heiterkeit wandelt sich in Ernst, Verdruß in Feindseligkeit, beengtes Denken in unbegrenztes Ahnen.
+    </p>
+    <p xml:id="eco_de_000039_580">
+     Nie bin ich im Geiste da, wo ich bin um diese Zeit. Aus schwarzen Dachumrissen werden dunkle <Pflanze>Baumwipfel</Pflanze>; den <Tier>Kauz</Tier> höre ich rufen aus dem Geheul der Fabriksirenen, und heimliches Blättergeflüster erklingt aus dem Geräusch der Großstadt.
+    </p>
+    <p xml:id="eco_de_000039_590">
+     Bin ich aber draußen im stillen <Pflanze>Holz</Pflanze>, im einsamen <Lebensraum>Moor</Lebensraum>, dann wandelt sich die ferne <Lebensraum>Waldeswand</Lebensraum> zur Stadt um; des Kauzes Ruf klingt mir wie das gellende Jauchzen der Fabrikpfeifen, die eines schweren Arbeitstages Ende verkünden, und im Blättergeruschel höre ich Seufzer von Menschen, die der schwarzen Nacht entgegenbangen.
+    </p>
+    <p xml:id="eco_de_000039_600">
+     Seltsamen Zauber übt diese Stunde auf mich aus. Gestern um diese Zeit, zwischen frohen Gesichtern im festlichen Saal, da waren meine Augen auf einmal weit weg. Ich hörte die <Tier>Maus</Tier> im Fallaub pfeifen, sah die weißen <Tier>Motten</Tier> tanzen und die schwarzen <Tier>Fledermäuse</Tier> taumeln, hörte es um mich herum rispeln und rascheln, knistern und knirren.
+    </p>
+    <p xml:id="eco_de_000039_610">
+     Da, wo ich heute bin, waren meine Gedanken, in diesen stillen <Lebensraum>Wald</Lebensraum> zogen sie, wo die Schummerstunde nahte mit leisem Tritt und Tag und Nacht die Hände gab, die eine heranziehend, den andern mit sich fortnehmend, beide verbindend und trennend.
+    </p>
+    <p xml:id="eco_de_000039_620">
+     Nicht der Sonnentod ist es, der mir dann das Herz weit macht; die Viertelstunde nachher, die blaßgraue, liebe ich mehr, mit ihren leisen, langsamen Übergängen; wenn alle Umrisse sich verwischen, alle Einzelheiten vergehen, wenn die Kleinigkeiten die Augen nicht mehr stören und das Herz dem großen Eindruck sich öffnen kann.
+    </p>
+    <p xml:id="eco_de_000039_630">
+     Nur deshalb liebe ich die Jagd so. Nichts bringt uns der Natur so nahe wie diese Viertelstunde zwischen Tag und Nacht, und nur die Jagd ist es, die uns dazu erzieht, diese kurze Spanne Zeit zu verstehen in ihrer großen Feierlichkeit, in ihrer geheimnisvollen Andacht.
+    </p>
+    <p xml:id="eco_de_000039_640">
+     So wundervoll hell und sonnig war es vor einer Stunde hier; im alten <Pflanze>Laube</Pflanze> leuchteten gelbe und weiße Sterne, rundherum sang und klang, pfiff und trillerte es aus Hunderten von kleinen Kehlen, in der breitästigen alten <Pflanze>Eiche</Pflanze> jauchzte der <Tier>Schwarzspecht</Tier> sein wildes Liebeslied, der <Tier>Tauber</Tier> schwebte klatschend über den <Pflanze>Kronen</Pflanze> und rief tief und zärtlich seiner <Tier>Taube</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_650">
+     Jetzt ist all das laute Leben verstummt; der letzten Drossel Weise verklang. Rotkehlchens Silberlied erstarb; ein Mausepfiff im <Pflanze>Dürrlaub</Pflanze>, ein Kiebitzschrei vom <Lebensraum>Moor</Lebensraum>, ein Rebhahnruf vom <Lebensraum>Felde</Lebensraum> kommt dann und wann zu mir heran. Aber die verlorenen Laute machen die Stille nur noch stummer, sie sind wie einzelne Sterne am tiefen dunklen Nachthimmel.
+    </p>
+    <p xml:id="eco_de_000039_660">
+     Vor mir im Westen, wo über dem feinen <Pflanze>Gezweig</Pflanze> der <Pflanze>Birken</Pflanze> der Himmel rötlich schimmert, taucht ein feines Silberpünktchen auf, verschlafen blinzelnd; hinter mir, tief im <Pflanze>Holze</Pflanze>, klingt ein hohles, dumpfes Rufen; die <Tier>Eule</Tier> grüßt den Abendstern.
+    </p>
+    <p xml:id="eco_de_000039_670">
+     Heller schimmert der Stern, glüht aus Silber zu Gold um, lauter ruft der <Tier>Kauz</Tier>, verstärkt sein dumpfes Rufen zu gellendem Jauchzen.
+    </p>
+    <p xml:id="eco_de_000039_680">
+     Die stille Stunde ist gekommen, die Stunde, da es umgeht im <Lebensraum>Walde</Lebensraum>. Überall rispelt und raschelt es verstohlen, rundherum knickt und knackt es schüchtern; was die Sonne bannte und der Tag band, wagt sich hinaus; heimliches Leben, scheues Weben wird kühn und sicher.
+    </p>
+    <p xml:id="eco_de_000039_690">
+     Die tagfrohen Wesen zittern um diese Zeit. Ängstlich drückt sich die <Tier>Ammer</Tier> im <Pflanze>Winterlaub</Pflanze> der <Tier>Jungeiche</Tier> an den <Pflanze>Stamm</Pflanze>, klein macht sich der <Tier>Sperber</Tier> auf seinem <Pflanze>Ast</Pflanze>, Todesangst klingt aus dem Schrei der verspäteten <Tier>Krähe</Tier>, der ziehenden <Tier>Kraniche</Tier> Ruf ist voller Furcht und der streichenden <Tier>Drossel</Tier> Pfiff von Bangigkeit erfüllt.
+    </p>
+    <p xml:id="eco_de_000039_700">
+     Meine hellen Sonnengedanken schauern zusammen und verkriechen sich irgendwohin, wo ich sie nicht mehr auffinden kann; große, schwarze Träume steigen aus den Tiefen der Seele, lautlos dahintaumelnd in unstetem, haltlosem Flug, wie <Tier>Fledermäuse</Tier>, stark und frei sich dahinschwingend, wie die <Tier>Vögel</Tier> der Nacht; und wenn sie durchdringend schrillen, gellend rufen, dann kriechen die hellen Gedanken noch scheuer zusammen.
+    </p>
+    <p xml:id="eco_de_000039_710">
+     Auf der Brandrute vor mir brauen die Nebel; bleiche Schatten schleppen sich müde den Weg entlang; im <Lebensraum>Unterholz</Lebensraum> klingt ein röchelndes, hohles Husten; ein zögernder stolpernder Schritt tappt schwer durch den Stangenort, ein Krachen ertönt, ein Sturz; etwas Totes fiel in das faule <Pflanze>Laub</Pflanze>; gellend ruft der <Tier>Kauz</Tier> sein dunkles Lied.
+    </p>
+    <p xml:id="eco_de_000039_720">
+     Ich fasse den Kolben fester und spähe über alle <Pflanze>Wipfel</Pflanze>, ob die <Tier>Schnepfe</Tier> nicht kommt, denn ihretwegen bin ich hinausgegangen; die Jagdlust hat mich in den <Lebensraum>Wald</Lebensraum> geführt. Das sage ich mir laut vor in Gedanken; denn langsam tappt das Grauen auf mich zu durch die Stille des <Lebensraum>Waldes</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_730">
+     Näher bei mir im <Pflanze>Holze</Pflanze> heult jetzt der <Tier>Kauz</Tier>; wie lauter blutrote Wellen sehe ich sein Lied hinter ihm herfließen; seine tiefschwarzen Augen glühen.
+    </p>
+    <p xml:id="eco_de_000039_740">
+     Ich höre, wie er hinter mir die weichen Flügel laut klatschend zusammenschlägt; damit jagt er den <Tier>Vogel</Tier> aus dem Schlaf; er hört ihn flattern auf dem <Pflanze>Zweige</Pflanze>, reißt ihn aus dem Versteck und meuchelt den Schlaftrunkenen mit seinen Dolchklauen. Gellend lacht er über mir. Ich fahre zusammen, als wäre eine Rieseneule über mir mit weitschattenden Flügeln, ihre dolchbewehrten Griffe über meinem Genick öffnend. Mitten im Knospen und Treiben, Blühen und Schwellen des Frühlingsabends höre ich das blutrote Lachen des Todes hinter mir. Und dann, wie es kam, ich weiß es nicht mehr. Ein dünnes, schrillendes Pfeifen war vor mir, ein dumpfes, tiefes Murken über mir, zwei Schatten zickzackten unter dem Abendstern über die <Pflanze>Birken</Pflanze> hinweg, ein Feuerstrahl riß ein Loch in den Abendhimmel, ein Donner verjagte das Schweigen im <Lebensraum>Walde</Lebensraum>, und aufatmend nehme ich die <Tier>Schnepfe</Tier> vom Boden auf, die ich tötete aus Angst vor der Todesangst.
+    </p>
+    <p xml:id="eco_de_000039_750">
+     Gelassen gehe ich durch die bleichen Nebel des schwarzen Weges. Die Schauer der Ulenflucht ließ ich hinter mir. Die Waffe, die ich hatte, und das Ziel, sie retteten mich vor ihren Gespenstern.
+    </p>
+    <p xml:id="eco_de_000039_760">
+     Eine Waffe und ein Ziel. Hat man das, dann verliert die Ulenflucht alle ihre Schrecken, die Ulenflucht trüber Stunden, des kommenden Alters Dämmerung.
+    </p>
+    <p xml:id="eco_de_000039_770">
+     Eine Waffe, die Arbeit, ein Ziel, seinen Platz auszufüllen in diesem Leben, so gut wie man kann, die einzigen Mittel sind es gegen unsere große Angst in der Ulenflucht.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Im roten Post
+    </head>
+    <p xml:id="eco_de_000039_780">
+     Auf der <Lebensraum>Lüneburger</Lebensraum> <Lebensraum>Heide</Lebensraum> ging ich auf und ging ich unter. Es will mir nicht aus dem Kopfe, dieses alte Schelmenlied, die ganzen drei Tage, die ich hier im <Lebensraum>Moor</Lebensraum> bin.
+    </p>
+    <p xml:id="eco_de_000039_790">
+     Es hat eine so sorglose, jenseits von Pflicht und Verantwortung stehende Singweise, und die paßt ganz auf mich.
+    </p>
+    <p xml:id="eco_de_000039_800">
+     So weit der Himmel blau und der Post rot ist, gehört mir die <Lebensraum>Welt</Lebensraum>; kein Mensch kümmert sich um mich und keinem frage ich nach.
+    </p>
+    <p xml:id="eco_de_000039_810">
+     Gestern abend, als die Sonne hinter den <Pflanze>Birken</Pflanze> am Himmelsrand schlafen ging und das weite <Lebensraum>Moor</Lebensraum> eine einzige kupferrote, veilchenblau abgeschattete <Lebensraum>Fläche</Lebensraum> war, summte ich es wenigstens in Gedanken, und jetzt, zwei Uhr früh, flöte ich es laut im einsamen Ochsenstall, in dem ich die kurze Nacht im Schlafsack verbrachte.
+    </p>
+    <p xml:id="eco_de_000039_820">
+     Licht spendet mir die Fahrradlampe. Einzelne <Tier>Mücken</Tier> kommen durch die Tür nach dem Lichtschein, in den Ecken pfeifen die <Tier>Mäuse</Tier>; draußen klagt die Mooreule, in den Pümpen plärren die Poggen.
+    </p>
+    <p xml:id="eco_de_000039_830">
+     Ich sehe in die helle Nacht hinaus; alle Sterne funkeln, und der Mond steht blank am Himmel, der <Lebensraum>Bach</Lebensraum> kluckst und murmelt, im <Pflanze>Schilf</Pflanze> schwatzt ein <Tier>Vogel</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_840">
+     Bei dem Frühstück denke ich an den gestrigen Tag, an die roten, sonnendurchglühten <Pflanze>Postbüsche</Pflanze>, an die fahlgrünen <Lebensraum>Wiesen</Lebensraum>, auf denen die goldenen <Pflanze>Kohmolken</Pflanze> leuchteten, an die weißen <Lebensraum>Weihen</Lebensraum>, die über die roten <Lebensraum>Flächen</Lebensraum> strichen, an die ganze Schönheit des ersten hellen Tages nach zwei aschgrauen.
+    </p>
+    <p xml:id="eco_de_000039_850">
+     Aber auch da war ich froh, als eintönig der warme Regen herabrieselte, als des Kolüts lautes Geflöte nicht aufhören wollte, als das <Lebensraum>Moor</Lebensraum> braun war und tiefviolett. Wenn ich in Regenkittel, Lodenhut und Transtiefeln bin, dann macht Regenwetter mich lustig, so lustig, daß ich flöte: Auf der Lüneburger <Lebensraum>Heide</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_860">
+     Ich freue mich wie ein Kind auf den sonnigen Morgen; da wird der Post nur so herauslodern aus den weißen Nebelschleiern; ein Fest wird es geben für meine Augen.
+    </p>
+    <p xml:id="eco_de_000039_870">
+     Die blühende <Lebensraum>Heide</Lebensraum> zu besuchen, das ist Mode geworden seit einiger Zeit; das blühende <Lebensraum>Postmoor</Lebensraum> aber kennt niemand, keiner fährt hinaus, seine Augen zu weiden am Kupferrot seiner <Pflanze>Büsche</Pflanze>, am Gold der <Pflanze>Weiden</Pflanze>, am Silber des <Pflanze>Wollgrases</Pflanze>, und den Duft einzuatmen, der aus dem Post aufsteigt und von den jungen <Pflanze>Birken</Pflanze> kommt.
+    </p>
+    <p xml:id="eco_de_000039_880">
+     Denn naß ist es da, und zu weit sind die Wege zu der Bahn, die <Tier>Mücken</Tier> sind zu schlimm da, und die giftige Adder liegt zusammengerollt am braunen Damm.
+    </p>
+    <p xml:id="eco_de_000039_890">
+     Vielleicht aber ist mir darum das <Lebensraum>Postmoor</Lebensraum> so lieb, weil ich da so ganz mein eigener Herr bin, weil mir da keine Seele in die <Lebensraum>Möte</Lebensraum> kommt; seit vorgestern morgen habe ich keinen Menschen gesehen.
+    </p>
+    <p xml:id="eco_de_000039_900">
+     Hier, wo ich jetzt gehe, stand ich vor acht Tagen. Vor mir äste sich auf vierzig Gänge der alte <Tier>Hauptbock</Tier>, der drüben in dem <Lebensraum>Fichtenhorst</Lebensraum> an der <Lebensraum>Beeke</Lebensraum> seinen Stand hat; er war gut bei Leibe und sein Gehörn war blank. Ein Fingerdruck, und er lag da; ich konnte ihn in die <Pflanze>Fichten</Pflanze> hängen bis zum ersten Mai.
+    </p>
+    <p xml:id="eco_de_000039_910">
+     Mir kam der Gedanke gar nicht. Wo kein Kläger ist, ist kein Richter, heißt es, aber gerade dann reizt auch nichts zur Übertretung; es wäre Feigheit.
+    </p>
+    <p xml:id="eco_de_000039_920">
+     Drüben schimpft der alte <Tier>Graukopf</Tier>; er hat Wind von mir bekommen, dröhnend klingt sein Baß durch die stille Nacht. Ich antworte ihm in hellem Schmalrehdiskant; da verstummt er. Wahrscheinlich überlegt er sich den Fall: ein Schmalreh, das Menschenwitterung hat? Merkwürdig!
+    </p>
+    <p xml:id="eco_de_000039_930">
+     Auch der Mooreule komme ich sonderbar vor; dreimal streicht sie über mich hin, daß ich das Wehen ihrer Samtfittiche spüre; ein <Lebensraum>Machangelbusch</Lebensraum>, der weitergeht, das ist ihr noch nicht vorgekommen.
+    </p>
+    <p xml:id="eco_de_000039_940">
+     Im <Lebensraum>Ellernbusch</Lebensraum> schlägt die <Tier>Nachtigall</Tier>; aus den <Pflanze>Fichten</Pflanze> an der <Lebensraum>Beeke</Lebensraum> antwortet ihr eine; das Lied paßt nicht in das <Lebensraum>Postmoor</Lebensraum>. Was der Kolüt da oben pfeift und trillert, der Sang voll jauchzender Sehnsucht und wehmütigen Jubels, das gehört hierher.
+    </p>
+    <p xml:id="eco_de_000039_950">
+     Durch den schwarzen <Lebensraum>Fichtenhorst</Lebensraum> geht der <Lebensraum>Damm</Lebensraum>. Da unkt die Ohreule; wie Sterbegestöhne eines Menschen klingt es. Unheimlich glühen an den Grabenborden rechts und links die <Tier>Leuchtwürmer</Tier>, prasselnd stiebt eine <Tier>Taube</Tier> ab, die das Planschen meiner Stiefel im weichen Weg aus dem Schlafe schreckte.
+    </p>
+    <p xml:id="eco_de_000039_960">
+     Aus dem Dunkel der <Pflanze>Fichten</Pflanze> bin ich wieder im hellen <Lebensraum>Moor</Lebensraum>; immer weicher wird der Weg, immer breiter werden die silbernen <Lebensraum>Gräben</Lebensraum>; durch blankes Wasser muß ich eine ganze Weile, die Krempstiefel sinken tief ein. Ich stoße die Bekassine heraus und mache den Erpel hoch, und ärgerlich keift eine <Tier>Ricke</Tier> über den Ruhestörer.
+    </p>
+    <p xml:id="eco_de_000039_970">
+     Ein schwarzes Ding erhebt sich halbrechts; da muß ich hin. Bis über die Knie plansche ich in Wasser und Mudde, die Moorhexe will mich an den Hacken festhalten, aber ich lasse mich nicht bange machen und komme zu dem <Lebensraum>Machangelbusch</Lebensraum> unter der breiten Fuhre auf dem <Lebensraum>Donnerbrink</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_980">
+     Dort ist es hoch und trocken. Darum balzt der <Tier>Hahn</Tier> da, darum habe ich mir da einen Schirm gehauen in dem <Pflanze>Machangelbusch</Pflanze> und einen Sitz aus Heidsoden gemacht; da will ich bleiben.
+    </p>
+    <p xml:id="eco_de_000039_990">
+     Es war Zeit, daß ich kam; schon lockt die <Tier>Bekassine</Tier> da, wo die <Tier>Pümpe</Tier> blitzen, immer lauter pfeift der <Tier>Brachvogel</Tier> da, wo die Sterne funkeln. Gerade habe ich den Mantel übergezogen und es mir bequem gemacht bei einer Pfeife, da saust es über mich fort und fällt mit dumpfem Schlage vor mich hin.
+    </p>
+    <p xml:id="eco_de_000039_1000">
+     Ich zucke zusammen und lache dann. Wie oft saß ich schon so, wie oft hörte ich den <Tier>Hahn</Tier> einfallen; längst ist mir der Schuß Nebensache geworden bei der Balz und die Beute, aber ich glaube, ich werde jedesmal Herzklopfen bekommen, wenn der <Tier>Hahn</Tier> mir zusteht.
+    </p>
+    <p xml:id="eco_de_000039_1010">
+     Ich höre, wie er sein <Tier>Gefieder</Tier> schüttelt; dann würgt er und gluckst, schweigt, würgt wieder, faucht ein paarmal leise, gluckst wieder und beginnt dann erst dünn und zaghaft, dann immer voller und kühner sein seltsames Liebeslied.
+    </p>
+    <p xml:id="eco_de_000039_1020">
+     Das ist der Weckruf für das <Lebensraum>Moor</Lebensraum>; eine Bekassine nach der andern lockt und meckert, der <Tier>Kiebitz</Tier> erwacht und ruft, taumelt mit fauchendem Flügelschlage über mich hin. Streichende Erpel quarren, die <Tier>Poggen</Tier> grölen lauter, die <Tier>Rohrsänger</Tier> schwatzen lebhafter, die <Tier>Heidlerche</Tier> steigt singend zu den Sternen.
+    </p>
+    <p xml:id="eco_de_000039_1030">
+     Und immer und immer wieder saust und plumpst es bei mir; und jedesmal darauf meldet ein <Tier>Hahn</Tier>. Vier balzten um mich herum, aber nur der erste ließ mein Herz einen Sprung machen.
+    </p>
+    <p xml:id="eco_de_000039_1040">
+     Das ganze <Lebensraum>Moor</Lebensraum> ist laut geworden; es ist, als zittere die Luft von den kullernden Tönen, als bebe der Boden von dem tollen Minnegesang. Alle andern Lieder, alle andern Klänge verschwinden dagegen, gehen darin unter, verschmelzen damit, und nur wenn eine <Tier>Henne</Tier> zärtlich lockt, kommt eine neue Farbe in das große Konzert.
+    </p>
+    <p xml:id="eco_de_000039_1050">
+     Auf den hellen Schimmer mir gegenüber am <Lebensraum>Moorrande</Lebensraum> sehe ich und rauche und sinne, um mich herum ist Leben und Liebe und Lust, und ich sitze da im Versteck, die Mordwaffe auf den Knien, und wenn ich wollte, wäre es aus mit aller Lust um mich herum.
+    </p>
+    <p xml:id="eco_de_000039_1060">
+     Die Menschen fallen mir ein, die jetzt ruhig schlafen und vom schönen Leben träumen; und zwischen ihnen, unsichtbar, hockt ein Gespenst, die Sense in der Klapperfaust. Wenn es sich rührt, dann stöhnen die Schläfer im Traume und fahren in die Höhe.
+    </p>
+    <p xml:id="eco_de_000039_1070">
+     Fanfarenklänge schallen über das <Lebensraum>Moor</Lebensraum>, gellend und hallend: der <Pflanze>Kranich</Pflanze> kündet der Sonne Ankunft. Vor mir, im Osten, färbt Rosenrot den Himmel; das schöne Reiterlied vom Morgenrot geht mir durch den Sinn.
+    </p>
+    <p xml:id="eco_de_000039_1080">
+     Das freche Strolchlied vergaß ich; das fällt mir nur im Gehen ein. Sitze ich still, so denke ich nicht daran, nur die Worte sehe ich, aber die Weise fehlt daran.
+    </p>
+    <p xml:id="eco_de_000039_1090">
+     Ein Schauer überfließt mich; der Frühwind weht, den schweren Duft der <Pflanze>Birken</Pflanze> und den herben Geruch des Posts bringt er zu mir, vermischt mit dem faulen Brodem des <Pflanze>Ellernsumpfes</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1100">
+     Da ruft jetzt der alte <Tier>Fasanenhahn</Tier>; der fremde Klang stört mich hier wie der Schlag der <Tier>Nachtigall</Tier>. Aber, was die <Tier>Rohrammer</Tier> schwatzt und der <Tier>Kuckuck</Tier> ruft, was die <Tier>Krähe</Tier> quarrt und der <Tier>Brachvogel</Tier> pfeift, das Lullen der <Tier>Lerche</Tier>, des <Tier>Kiebitzes</Tier> Schrei, des <Tier>Schwarzspechts</Tier> Lachen, der <Tier>Bekassine</Tier> <Tier>Gemecker</Tier>, das sind des <Lebensraum>Moores</Lebensraum> echte Laute.
+    </p>
+    <p xml:id="eco_de_000039_1110">
+     Sie alle versinken im lauten Gekuller der Hahnenbalz; nur wenn eine neue Stimme sich meldet, höre ich das als Einzellaut, aber dann verschwimmt es wieder ganz in dem Getrommel und Gefauche der schwarzweißroten Minnesänger.
+    </p>
+    <p xml:id="eco_de_000039_1120">
+     Hellichter Tag ist es. Ich sehe die vier <Tier>Hähne</Tier> vor mir mit allen ihren Farben; wie glühende Kohlen funkeln die roten <Pflanze>Rosen</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1130">
+     Ebenso rot kommt jetzt die Sonne über die fernen <Pflanze>Birken</Pflanze>; und so weit ich sehe, ist es rot. Nur in den Sinken nicht, wo der weiße Nebel liegt, in dem hier und da graue und schwarze Gespenster, die <Pflanze>Birken</Pflanze>, <Tier>Fuhren</Tier> und <Tier>Machangeln</Tier>, herumstehen.
+    </p>
+    <p xml:id="eco_de_000039_1140">
+     Ich sehe gelassen den <Tier>Hähnen</Tier> zu. Einen habe ich vor acht Tagen hier geschossen, und das ist mir genug; nur sehen will ich heute.
+    </p>
+    <p xml:id="eco_de_000039_1150">
+     Und ich sehe mich satt an den bunten <Tier>Gesellen</Tier> vor mir, an den goldenen <Pflanze>Blumen</Pflanze>, an dem weißgrünen jungen <Pflanze>Risch</Pflanze>, an den Silberschäfchen der <Tier>Murke</Tier>; und dann kommen meine Augen an den Post, der jetzt unter der Sonne immer glühender, roter, goldener wird.
+    </p>
+    <p xml:id="eco_de_000039_1160">
+     Zwischen ihm die schwarzen Krüppelfuhren färben sich kupfrig, smaragdene <Pflanze>Blättchen</Pflanze> tragen die <Pflanze>Birken</Pflanze>, goldene <Pflanze>Flämmchen</Pflanze> zittern auf den <Pflanze>Weiden</Pflanze>; weiße Weihen schweben, ferner Taubenruf schallt herüber, die Luft ist voll von Singsang und Klingklang.
+    </p>
+    <p xml:id="eco_de_000039_1170">
+     Höher steigt die Sonne, goldener wird der Post, toller der <Tier>Hähne</Tier> Lied; aber jetzt streicht einer ab, und die andern folgen.
+    </p>
+    <p xml:id="eco_de_000039_1180">
+     Mir ist es lieb, die Glieder werden mir schon ganz steif. Ich krieche aus meinem Versteck und gehe den Damm entlang.
+    </p>
+    <p xml:id="eco_de_000039_1190">
+     Und sowie ich im Gange bin, wird das alte Lied wieder in mir laut, und ich weiß es schon, es wird den ganzen goldenen Tag in mir klingen: Auf der <Lebensraum>Lüneburger</Lebensraum> <Lebensraum>Heide</Lebensraum> ging ich auf und ging ich unter.
+    </p>
+    <p xml:id="eco_de_000039_1200">
+     Worte möchte ich zu der Weise dichten, ein Danklied auf die schöne <Lebensraum>Heide</Lebensraum>, die immerblühende; wintertags prangend mit Rauhreif, im Juni mit silberner <Tier>Murke</Tier>, mit roten Glöckchen im Juli, mit rosenroten Blütchen im Vorherbst und früh im Jahre mit rotem Post.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Der <Lebensraum>Wald</Lebensraum> der großen <Tier>Vögel</Tier>
+    </head>
+    <p xml:id="eco_de_000039_1210">
+     Eine halbe Stunde von Ahlden liegen zwei <Lebensraum>Wälder</Lebensraum>, die <Lebensraum>Ahe</Lebensraum> und die <Lebensraum>Schlenke</Lebensraum>. Die Alte <Lebensraum>Leine</Lebensraum> trennt sie, sonst wären sie ein <Lebensraum>Wald</Lebensraum>. Im Norden bilden die leichtgeschwungenen <Lebensraum>Ufer</Lebensraum> der <Lebensraum>Aller</Lebensraum> ihre Grenzen, im Süden <Lebensraum>Wiesen</Lebensraum> und <Lebensraum>Weiden</Lebensraum>, die die Bauern von Eilte und Ahlden den <Lebensraum>Wäldern</Lebensraum> abgerungen haben. Um zu zeigen, daß das <Lebensraum>Land</Lebensraum> ihnen gehört, haben die Bauern <Pflanze>Hecken</Pflanze> und <Pflanze>Hagen</Pflanze> um die <Lebensraum>Wiesen</Lebensraum> und <Lebensraum>Weiden</Lebensraum> gezogen, so daß es aussieht, als liefen die <Lebensraum>Wälder</Lebensraum> allmählich in die <Lebensraum>Feldmarken</Lebensraum> aus.
+    </p>
+    <p xml:id="eco_de_000039_1220">
+     Vom Spätherbst bis zum Frühling steht die <Pflanze>Ahe</Pflanze> unter Wasser und die <Pflanze>Schlenke</Pflanze> auch. Dort, wo die <Tier>Rotkehlchen</Tier> sangen, gründelt dann die <Tier>Wildente</Tier>, wo das <Tier>Eichkätzchen</Tier> <Pflanze>Pilze</Pflanze> suchte, fischt der <Tier>Otter</Tier>, die <Tier>Ringeltaube</Tier> wird von der <Tier>Möwe</Tier>, der <Tier>Bussard</Tier> von dem <Tier>Seeadler</Tier> abgelöst. Sobald die <Lebensraum>Wasser</Lebensraum> der <Lebensraum>Aller</Lebensraum> und der Alten <Lebensraum>Leine</Lebensraum> in die <Lebensraum>Wälder</Lebensraum> steigen, rückt der <Tier>Hase</Tier> nach den hochgelegenen <Lebensraum>Feldmarken</Lebensraum>, <Tier>Mäuse</Tier> und <Tier>Spitzmäuse</Tier> folgen ihm, die <Tier>Rehe</Tier> wechseln nach den fernen <Lebensraum>Wäldern</Lebensraum>, die <Lebensraum>Ahlden</Lebensraum> mit einem dunkelblauen Ringe umgeben, und der Fischer tritt an die Stelle des Jägers.
+    </p>
+    <p xml:id="eco_de_000039_1230">
+     Wenn das Hochwasser sich verlaufen hat, sieht der <Lebensraum>Wald</Lebensraum> trostlos aus. Eine dicke, zähe Schlickschicht bedeckt das Fallaub, nasses Genist hängt in wirren Haufen in den <Pflanze>Zweigen</Pflanze> des <Pflanze>Unterholzes</Pflanze>, tote <Pflanze>Äste</Pflanze>, faule <Pflanze>Bäume</Pflanze>, Bretter und Balken liegen wüst umher. Ein Geruch von Wasser erfüllt die Luft. Prallt dann die Märzsonne durch die kahlen <Pflanze>Zweige</Pflanze>, dann wird aus dem Geruch ein Gestank. Zurückgebliebene <Tier>Fische</Tier> verwesen, ertrunkene <Tier>Frösche</Tier> vermodern, Tausende von <Tier>Schnecken</Tier> zerfließen, Hunderttausende von zerriebenen, zermalmten <Tier>Kerbtieren</Tier>, <Tier>Maden</Tier>, <Tier>Larven</Tier> und <Tier>Würmern</Tier> verfaulen.
+    </p>
+    <p xml:id="eco_de_000039_1240">
+     Der April aber macht alles wieder gut; er bringt Schneeschauer und Regengüsse, die allen Moder fortwaschen, er läßt eisige Winde den Dunst hinwegwehen, er läßt die Sonne scheinen, die das verschlickte <Pflanze>Laub</Pflanze> mit einem sanften Anstrich hellgrüner <Pflanze>Algen</Pflanze> überzieht, er lockt unzählige grüne, braune und rosige <Pflanze>Spitzchen</Pflanze>, <Pflanze>Knöspchen</Pflanze> und <Pflanze>Blättchen</Pflanze> aus dem Boden hervor. Als wenn nicht vor kurzem noch der blasse Tod mit der braunen Fäulnis am knochigen Arme durch den <Lebensraum>Wald</Lebensraum> gegangen wäre, so lebt es da wieder; bunte <Tier>Schnirkelschnecken</Tier> kriechen über das <Pflanze>Laub</Pflanze>, große und kleine <Tier>Käfer</Tier> krabbeln über das <Pflanze>Moos</Pflanze>, gelbe <Tier>Schmetterlinge</Tier> tanzen umher, samtrote mit blauen <Tier>Augen</Tier>, <Tier>Silbermücken</Tier> tanzen, <Tier>Goldfliegen</Tier> schweben.
+    </p>
+    <p xml:id="eco_de_000039_1250">
+     Zu den frechen <Tier>Meisen</Tier> und schüchternen <Tier>Goldhähnchen</Tier>, die bisher allein die <Pflanze>Zweige</Pflanze> belebten, gesellt sich der frohe <Tier>Fink</Tier>, die süß flötende <Tier>Märzdrossel</Tier>; der <Tier>Buntspecht</Tier> läßt seine Trommel erschallen, die <Tier>Krähe</Tier> streicht den <Lebensraum>Baß</Lebensraum>, die <Tier>Goldammer</Tier> singt ihr Sehnsuchtslied. Das <Tier>Hermelin</Tier>, das den Winter über auf der <Lebensraum>Geest</Lebensraum> gejagt hat, wandert den <Tier>Mäusen</Tier> nach, die ihren <Lebensraum>Wald</Lebensraum> wieder aufsuchen, und fährt wie ein weißer Blitz durch das <Lebensraum>Gebüsch</Lebensraum>; dem <Tier>Hasen</Tier> wird es in den <Lebensraum>Feldern</Lebensraum>, auf denen die Bauern bei der Frühjahrsbestellung sind, zu lebhaft und er rückt wieder zu <Pflanze>Holze</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1260">
+     Lange bevor aber dieses kleine Leben in der Ahe erwacht ist, zieht ein größeres Leben in ihr ein. Eines Abends, wenn die Sonne lange rote und goldene Streifen auf das blauweiße Gekräusel der <Lebensraum>Aller</Lebensraum> wirft, hallt ein Schrei durch die Abendstille, ein kurzer, scharfer, harter, herrischer Ruf, der sich in bestimmten Pausen wiederholt, und in der Abendröte taucht ein schwarzer Punkt auf.
+    </p>
+    <p xml:id="eco_de_000039_1270">
+     Der harte, abgehackte, rauhe Ruf kommt näher, aus dem Punkte wird ein Fleck, aus dem Fleck ein Kreuzchen, aus dem Kreuzchen ein Kreuz, der Ruf verdoppelt, verdreifacht, verzehnfacht sich, viele große schwarze Kreuze schweben näher, und sechzig gewaltige, breitklafternde, bald silbern, bald golden, jetzt licht, jetzt düster gefärbte <Tier>Vögel</Tier> kreisen über den kahlen <Pflanze>Wipfeln</Pflanze> der hohen, von blitzblankem <Pflanze>Efeu</Pflanze> dicht umsponnenen <Pflanze>Eichen</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1280">
+     Das sind die <Tier>Reiher</Tier> der <Lebensraum>Ahe</Lebensraum>, die wiedergekommen sind zu ihrem <Lebensraum>Walde</Lebensraum>. Seit Jahrhunderten gehört er ihnen, seit Jahrhunderten horsteten sie hier, seit Jahrhunderten zogen sie ihre Jungen groß. Immer hat der Mensch sie befehdet, hat ihnen mit dem <Tier>Beizvogel</Tier> und der <Tier>Büchse</Tier> nachgestellt, unzählige <Tier>Reiher</Tier> stürzten hier polternd zu Boden und färbten die <Pflanze>Blumen</Pflanze> rot, aber die sich retteten, die kamen doch im nächsten Frühjahr wieder, um in ihrem <Lebensraum>Walde</Lebensraum> zu horsten.
+    </p>
+    <p xml:id="eco_de_000039_1290">
+     Rauh rufen sie und schrauben sich tiefer. Müde sind sie von der langen Reise, müde und überhungert, und ihre Herzen sind voller Furcht. In anderen Ländern fanden sie stille <Lebensraum>Wälder</Lebensraum>, an fischreichen <Lebensraum>Flüssen</Lebensraum> und <Lebensraum>Seen</Lebensraum>, wohin nie ein Mensch kam; herrliche <Lebensraum>Horstplätze</Lebensraum> boten die Kronen uralter <Pflanze>Bäume</Pflanze>, verlockende <Lebensraum>Wasserweid</Lebensraum> die schilfreichen <Lebensraum>Ufer</Lebensraum>; aber die großen <Tier>Vögel</Tier> ließen sich nur eben Zeit, ihren Hunger zu stillen, dann breiteten sie ihre gewaltigen <Tier>Schwingen</Tier> aus und ruderten nordwärts.
+    </p>
+    <p xml:id="eco_de_000039_1300">
+     Hundertundzwanzig breite <Tier>Flügel</Tier> zerteilen sausend die Luft über der Ahe, hundertundzwanzig gelbe <Tier>Augen</Tier> spähen in ihre Kronen, aus sechzig langen, zusammengezogenen Hälsen erklingen heisere Freudenrufe. Dann schraubt sich einer der <Tier>Reiher</Tier> tiefer, schnellt den dünnen schwarzweißen <Tier>Hals</Tier> vor, läßt die dünnen grüngelben Ständer hängen und fällt prasselnd bei seinem alten <Pflanze>Horste</Pflanze> ein.
+    </p>
+    <p xml:id="eco_de_000039_1310">
+     Einmal ruft er, den Hals wie einen silbernen Pfahl gegen den goldroten Himmel reckend, dann zieht er ihn ein, knickt die Ständer zusammen und kauert sich auf dem <Pflanze>Aste</Pflanze> hin. Neben ihm fußt sein Gatte, und nun folgt einer nach dem andern, bis alle in den <Pflanze>Kronen</Pflanze> ihrer <Pflanze>Horstbäume</Pflanze> verschwunden sind. So todmüde sie sind, die Freude, wieder daheim zu sein, überwindet alle Mattigkeit; sie erzählen sich noch lange etwas, bis die Abendglut im <Lebensraum>Moor</Lebensraum> erlischt, und heiser lachend kitzeln sie sich gegenseitig mit den Dolchschnäbeln.
+    </p>
+    <p xml:id="eco_de_000039_1320">
+     Ehe die <Tier>Amsel</Tier> pfeift, ehe die <Tier>Krähe</Tier> quarrt, sind sie wieder wach; sie gähnen, schnellen die Hälse empor, daß die Messerklingen ihrer <Tier>Schnäbel</Tier> blitzen, richten sich auf, spreizen wohlig die blaugrauen <Tier>Fittiche</Tier>, zupfen sich die silberspitzigen <Tier>Schmuckfedern</Tier> des <Tier>Rückens</Tier>, den stahlschwarzen <Tier>Brustlatz</Tier>, die stolze <Tier>Halszierde</Tier> glatt, schlagen mit den <Tier>Schwingen</Tier>, daß es saust und braust, plappern ein Weilchen, kitzeln sich wieder, und dann erheben sie ihr <Tier>Gefieder</Tier> und verteilen sich die <Lebensraum>Aller</Lebensraum> hinauf und hinab nach ihren ererbten Fischplätzen.
+    </p>
+    <p xml:id="eco_de_000039_1330">
+     Die großen, weißen, aschblau bereiften, schwarzschwingigen <Tier>Seemöwen</Tier>, die seit dem letzten Neumond hier jagten, räumen ihnen das <Lebensraum>Feld</Lebensraum>; die blanken schwarzen <Tier>Krähen</Tier>, die sich in den leeren Reiherhorsten häuslich niederlassen wollten, müssen weichen; der <Tier>Waldkauz</Tier>, der in dem einen <Lebensraum>Horste</Lebensraum> zu brüten gedachte, sucht sich einen hohlen <Pflanze>Baum</Pflanze>, und die <Tier>Eichkatze</Tier>, die in einem andern sich Vorrat gesammelt hatte, findet ihre Schätze nicht wieder.
+    </p>
+    <p xml:id="eco_de_000039_1340">
+     Satt, mit vollen, tief herabhängenden <Tier>Kröpfen</Tier>, kamen die großen <Tier>Vögel</Tier> zurück; jeder trug einen <Pflanze>Zweig</Pflanze>, eine <Pflanze>Rute</Pflanze>, einen <Pflanze>Ast</Pflanze>; hastig begaben sie sich an ihr Werk, flickten die alten <Lebensraum>Horste</Lebensraum> aus, legten neue an, und bald schwebten in den <Pflanze>Wipfeln</Pflanze> der hochschäftigen <Pflanze>Eichen</Pflanze> dreißig große, sparrige, schwarze Klumpen, und ehe noch die <Tier>Amsel</Tier> zu bauen begann, lagen große hellblaugrüne <Tier>Eier</Tier> in jedem der dreißig <Lebensraum>Horste</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_1350">
+     Während aber in den <Pflanze>Wipfeln</Pflanze> der <Pflanze>Eichen</Pflanze> unter den hellblaugrünen Schalen der <Tier>Eier</Tier> sich neues Leben formt, zerfällt am Boden das junge Werden; auf die gelben <Pflanze>Blüten</Pflanze> des <Pflanze>Goldsternes</Pflanze>, auf die quellenden <Pflanze>Knospen</Pflanze> des <Pflanze>Spindelbaumes</Pflanze>, auf die üppigen <Pflanze>Blumenbüschel</Pflanze> der <Pflanze>Schlüsselblume</Pflanze>, auf des <Pflanze>Aronstabes</Pflanze> saftstrotzende <Pflanze>Blätter</Pflanze> klatscht das scharfe, beizende, tötende Geschmeiß der <Tier>Reiher</Tier>, übertüncht den Boden, kalkt die <Pflanze>Stämme</Pflanze> an, überzieht die <Pflanze>Zweige</Pflanze>, alles vernichtend, was fein und zart und schnellebig ist; nur der <Pflanze>Brennessel</Pflanze> kann der giftige Kot keinen Abbruch tun, er düngt sie, und wenn der erste zarte <Pflanze>Frühlingsflor</Pflanze> der <Pflanze>Ahe</Pflanze> vorüber ist, wenn die <Pflanze>Eichen</Pflanze> <Pflanze>Goldblättchen</Pflanze> entfalten, dann überzieht den <Lebensraum>Waldboden</Lebensraum> der <Pflanze>Nessel</Pflanze> giftdornbewehrtes <Pflanze>Gekraut</Pflanze> mit einer einzigen undurchdringlichen <Lebensraum>Dickung</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_1360">
+     Dann sind oben die blaugrünen <Tier>Eierschalen</Tier> längst geborsten unter dem Gepicke emsiger <Tier>Schnäbelchen</Tier>, und auf ihren Trümmern liegen struppköpfige, glotzäugige, häßliche Wesen, mit langen weißen <Tier>Schimmeldunen</Tier> bewachsen, mit unförmlichen gelben <Tier>Knorpelwülsten</Tier> an den Winkeln des <Tier>Schnabels</Tier>, der sich zu einem breiten roten <Tier>Rachen</Tier> öffnet, aus dem fortwährend ein heißhungriges Gieren hervortönt, das schrecklich zu der alten <Tier>Reiher</Tier> Gehör dringt.
+    </p>
+    <p xml:id="eco_de_000039_1370">
+     Vom Lerchenstieg bis zur Ulenflucht streichen sie fort und rudern sie her, die <Tier>Kröpfe</Tier> voll von <Tier>Aalen</Tier> und <Tier>Brassen</Tier>, <Tier>Döbeln</Tier> und <Tier>Karpfen</Tier>, <Tier>Fröschen</Tier> und <Tier>Egeln</Tier>, und würgen der ewig hungrigen <Tier>Brut</Tier> den Raub vor; und die <Tier>Jungen</Tier> schlucken und schlucken und nehmen zusehends zu an Umfang und Schönheit, verlieren die häßlichen <Tier>Schimmeldunen</Tier>, vertauschen die Wolle mit einem hübschen <Tier>Gefieder</Tier>, die gelben <Tier>Knorpelwülste</Tier> an den <Tier>Schnabelwinkeln</Tier> schrumpfen zusammen, und aus den unschönen <Tier>Spulen</Tier> sprießen kräftige <Tier>Schwungfedern</Tier>. Mit stolzer Freude sehen die Alten die Kleinen wachsen und gedeihen, gönnen sich kaum Ruh noch Rast, denn das Hungergeschrei der Jungen hört den ganzen Tag nicht auf. So fischen sie die Aller aufwärts, die Aller abwärts und vergessen alle Vorsicht; einer fällt dem Hagel des Jägers zum Opfer, ein anderer fängt sich an einer Setzangel, ein dritter tritt in ein Ottereisen, aber der überlebende Gatte nimmt die volle Last auf sich; und wenn von unbekannten <Lebensraum>Mooren</Lebensraum> und entfernten Gestaden die silberschwingigen <Tier>Seeschwalben</Tier> mit ihrer flüggen <Tier>Brut</Tier> über der <Lebensraum>Aller</Lebensraum> erscheinen, dann stehen auf jedem <Lebensraum>Horst</Lebensraum> in der <Lebensraum>Ahe</Lebensraum> zwei, drei <Tier>Jungreiher</Tier> und proben ihrer Schwingen Kraft. Einer oder der andere verliert dabei das Gleichgewicht und stürzt über Bord; den holt sich nachts der <Tier>Fuchs</Tier>; aber die meisten sehen sich vor, und die Alten freuen sich schon des Tages, daß sie alle zusammen mit ihnen über der grünen <Lebensraum>Ahe</Lebensraum> kreisen können.
+    </p>
+    <p xml:id="eco_de_000039_1380">
+     Aber dann kommt der Tag, da Angst und Schrecken über die Siedlung hereinbricht: schwere Stiefel zertreten die hohen Nesseln, grüne Röcke lehnen sich gegen die weißgetünchten <Pflanze>Stämme</Pflanze> der <Pflanze>Eichen</Pflanze>, braunrote Gesichter tauchen zwischen dem laublosen <Pflanze>Geäst</Pflanze> von <Pflanze>Kornelkirsche</Pflanze>, <Pflanze>Maßholder</Pflanze>, <Pflanze>Schlehdorn</Pflanze> und <Pflanze>Wildrose</Pflanze> auf, metallische Blitze prallen von blanken Büchsenläufen.
+    </p>
+    <p xml:id="eco_de_000039_1390">
+     Zehn <Tier>Altreiher</Tier> prasseln aus den Kronen, kreisen mit langen <Tier>Hälsen</Tier> über dem <Lebensraum>Walde</Lebensraum>, starren mit ängstlichen gelben <Tier>Augen</Tier> hinunter. Ihre Schreckensrufe finden von ringsherum Antwort, von Morgen und Abend, Mittag und Mitternacht klingen heisere Angstlaute heran, ein Sausen und Brausen, Klingen und Klatschen ist über dem <Lebensraum>Forste</Lebensraum>, schnelle schwarze Schatten fallen über den weißgekalkten <Lebensraum>Waldboden</Lebensraum>, alle sechzig <Tier>Altreiher</Tier> kreisen als riesengroße Kreuze unter dem hellblauen Sommerhimmel.
+    </p>
+    <p xml:id="eco_de_000039_1400">
+     Die <Tier>Jungreiher</Tier>, immer hungrig, stellen sich auf die <Lebensraum>Horstränder</Lebensraum>, recken die <Tier>Hälse</Tier>, sperren die nimmersatten <Tier>Schnäbel</Tier> auf und schreien nach Fraß. Da knallt ein Schuß, kurz und scharf wie ein Peitschenknall, durch den <Lebensraum>Wald</Lebensraum>. Ein <Tier>Jungreiher</Tier> spreizt die <Tier>Flügel</Tier>, kippt hin und her, verliert den Halt, poltert von <Pflanze>Ast</Pflanze> zu <Pflanze>Ast</Pflanze> und schlägt dröhnend auf den Boden auf. Das Angstgerufe über dem <Lebensraum>Walde</Lebensraum> wird zum Wehgekreisch, aus dem ruhigen Kreisen wird ein verstörtes Geflatter, aber Schuß auf Schuß knallt, ein <Tier>Jungreiher</Tier> nach dem andern poltert herunter, stürzt herab oder bleibt mit zerrissener Brust im <Pflanze>Horste</Pflanze> liegen.
+    </p>
+    <p xml:id="eco_de_000039_1410">
+     Ab und zu fällt etwas Blankes, Glitzerndes, Glänzendes von oben herab, ein <Tier>Fisch</Tier>, den ein <Tier>Altreiher</Tier> von oben herab seinem <Tier>Jungen</Tier> vorkröpfte, demselben <Tier>Jungen</Tier>, das mit zerschmettertem <Tier>Fittich</Tier> im <Lebensraum>Horste</Lebensraum> liegt, in Todesangst den <Tier>Hals</Tier> hin und her zuckt und verzweifelt mit offenem <Tier>Rachen</Tier> seine Alten um Hilfe anschreit, bis sein <Tier>Kopf</Tier> herabsinkt und ein letztes Zittern durch sein <Tier>Gefieder</Tier> geht.
+    </p>
+    <p xml:id="eco_de_000039_1420">
+     Noch ein Schuß knallt; keiner folgt ihm mehr; auf keinem <Lebensraum>Horste</Lebensraum> zeigt sich noch ein grauer Leib, ein heller <Tier>Hals</Tier>; alle <Tier>Jungreiher</Tier> liegen tot am Boden, säuberlich gestreckt; aus roten Gesichtern zieht blauer Dampf durch den <Lebensraum>Wald</Lebensraum>, lautes Gelächter flackert empor, und dann wird es still in der <Lebensraum>Ahe</Lebensraum>; nur die <Tier>Reiher</Tier> kreisen stumm über ihr und zwischen ihnen fünf <Tier>Kolkraben</Tier>, die den reichen Fraß eräugt haben.
+    </p>
+    <p xml:id="eco_de_000039_1430">
+     Auf einem Moosdache in Ahlden knarrte vor Jahren eine rostige Wetterfahne im Winde, in die kunstlos ein rohes Abbild einer Reiherbeize eingesägt war; und vielleicht lebt in Ahlden noch einer von den Leuten, die als Jungens dabei waren, da man in der Ahe die alten <Pflanze>Eichen</Pflanze> schlug; als die <Pflanze>Riesenbäume</Pflanze> am Boden lagen, sah man mit Verwunderung, daß in ihren <Pflanze>Kronen</Pflanze> <Pflanze>Faßreifen</Pflanze> und dicke Eisendrähte hingen, rot von Rost und zermürbt, wie man sie auf dem Dach anbringt, damit der <Tier>Storch</Tier> dort bauen soll.
+    </p>
+    <p xml:id="eco_de_000039_1440">
+     Den <Tier>Reihern</Tier> zuliebe flocht man sie dort ein, ihnen das Horsten zu erleichtern; sorgfältig hegte und pflegte man sie, nahm in schwere Pön, wer sie störte; und gönnte ihnen gerne den <Tier>Aal</Tier> und den <Tier>Hecht</Tier>, den <Tier>Döbel</Tier> und den <Tier>Brassen</Tier>, denn ein königlich <Lebensraum>Weidwerk</Lebensraum> bot die Jagd auf den stolzen <Tier>Vogel</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_1450">
+     Hunderte von <Tier>Reihern</Tier> horsteten damals in der Ahe; von ihnen schlug der <Tier>Beizvogel</Tier>, den des Jägers gelbbehandschuhte Faust warf, einen oder den andern, der dann bei Hörnerklang zum Jagdschloß getragen wurde, die andern aber ließ man sich ihres Lebens freuen und der <Lebensraum>Fischweid</Lebensraum> an den <Lebensraum>Ufern</Lebensraum> der reißenden <Lebensraum>Aller</Lebensraum> jahrein, jahraus.
+    </p>
+    <p xml:id="eco_de_000039_1460">
+     Heute erschlägt man ihre <Tier>Brut</Tier> jahrein, jahraus und läßt sie faulen im <Lebensraum>Forste</Lebensraum>, den <Tier>Kolkraben</Tier> zum Fraß und schwarzroten <Tier>Käfern</Tier>; jahrein, jahraus wiederholt sich die Metzelei; jedes Jahr fliehen die alten <Tier>Reiher</Tier> mit Angstgeschrei, und jedes Jahr im März kommen sie wieder und horsten in ihrem <Lebensraum>Walde</Lebensraum> zwischen <Lebensraum>Leine</Lebensraum> und <Lebensraum>Aller</Lebensraum>.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Die Furt
+    </head>
+    <p xml:id="eco_de_000039_1470">
+     Die Hitze ist heute überall; die Luft flackert sichtbarlich über den <Lebensraum>Heidbergen</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_1480">
+     Ich bin der Pürsche müde. Hier ist Schatten und weiches <Pflanze>Moos</Pflanze>, aber zuviel Geschmeiß singt und summt um mich her. Bei der Furt wird es kühler sein; ich wollte, ich wäre dort.
+    </p>
+    <p xml:id="eco_de_000039_1490">
+     Wo bin ich gewesen? In einer weiten, hohen Kirche; rote Pfeiler trugen ein grün dämmerndes Gewölbe; Kerzenlicht flimmerte, Weihrauchduft wogte, dumpf klang eine <Pflanze>Litanei</Pflanze>. Aus dem Altarschreine lächelte die Madonna. Sie trug ein weißes Kopftuch, ein rotes Leibchen und einen blauen Rock. Ihr Gesicht war jung und lieblich, ihre Augen waren groß und gut. Sie lächelte und stieg aus dem Schreine heraus und wandelte leichtfüßig durch die Kirche.
+    </p>
+    <p xml:id="eco_de_000039_1500">
+     Ich sehe den gelben Sandweg entlang, zu dessen Seiten sich die roten Fuhrenstämme erheben und in ein grün dämmerndes Gewölbe verlaufen. Helle Lichter spielen zwischen den <Pflanze>Stämmen</Pflanze>, schwerer Kienduft wogt, wie Priestergemurmel tönt es in der Runde. Dort, wo der Weg zwischen den schwarzen Machangeln bei dem Anberge verschwindet, kommt ein Mädchen her; sie trägt den weißen Flutthut, das rote Leibchen und den blauen Rock, wie alle Mädchen hierzulande. Leicht geht sie dahin; ihre nackten Füße wirbeln goldenen Staub auf. Ihr Gesicht ist jung und lieblich, und ihre Augen sind groß und gut. Ihre Wangen blühen wie <Pflanze>Rosen</Pflanze>, und ihre Arme sind reizend anzusehen. Ein Hauch von Frische weht hinter ihr her, wie er an der <Lebensraum>Furt</Lebensraum> geht, gesättigt von dem grünen Dufte des <Pflanze>Erlenlaubes</Pflanze> und dem bunten Geruche der <Pflanze>Wiesenblumen</Pflanze>, und reißt mich aus dem <Pflanze>Moose</Pflanze> und den Sandweg entlang durch das <Pflanze>Vorholz</Pflanze> über die <Lebensraum>Heide</Lebensraum> zu dem <Lebensraum>Bache</Lebensraum> hin, in dem der Weg untertaucht und am anderen <Lebensraum>Ufer</Lebensraum> in der <Lebensraum>Wiese</Lebensraum> wieder heraufsteigt.
+    </p>
+    <p xml:id="eco_de_000039_1510">
+     Wie eine <Pflanze>Laube</Pflanze> wölben sich die <Pflanze>Erlen</Pflanze> zusammen und verweben ihr <Pflanze>Laub</Pflanze> mit dem Himmelsblau; zwischen ihren schimmernden <Pflanze>Stämmen</Pflanze> ist die lachende <Lebensraum>Wiese</Lebensraum> sichtbar. In den <Lebensraum>Uferbuchten</Lebensraum> schweben die leuchtenden <Pflanze>Blumen</Pflanze> der <Pflanze>Wasserlilien</Pflanze>, die nur einen Tag leben. Vor der weißen <Lebensraum>Sandbank</Lebensraum> ist eine <Lebensraum>Insel</Lebensraum> von dunklem <Pflanze>Wasserkraut</Pflanze>, auf der viele helle <Pflanze>Blüten</Pflanze> zittern.
+    </p>
+    <p xml:id="eco_de_000039_1520">
+     Das Wasser ist klar und sein Grund ist rein; langbeinige <Tier>Wasserwanzen</Tier> werfen gespenstige Schatten darauf. Die <Pflanze>Brombeerblüten</Pflanze> beschauen sich lächelnd in der grünen <Lebensraum>Flut</Lebensraum>, und der <Pflanze>Königsfarn</Pflanze> bewundert sein stolzes <Pflanze>Laub</Pflanze>. Der Uferbord trägt einen Schuppenpanzer von <Pflanze>Lebermoos</Pflanze>, und darunter wallen und winken die rosenroten <Pflanze>Wasserwurzeln</Pflanze> der <Pflanze>Erlen</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1530">
+     Ich lehne faul an dem moosigen <Pflanze>Erlenstumpfe</Pflanze>, kühle die Füße im Wasser, blicke dem <Pflanze>Tabaksdampfe</Pflanze> nach, der stetig über den <Lebensraum>Bach</Lebensraum> hinzieht und die blitzenden <Tier>Fliegen</Tier> verjagt, und sehe den zarten <Tier>Wasserjungfern</Tier> zu, die um das lachende <Pflanze>Laub</Pflanze> des <Pflanze>Königsfarns</Pflanze> flattern.
+    </p>
+    <p xml:id="eco_de_000039_1540">
+     Wo bin ich wieder gewesen? Dort, wo die <Pflanze>Blumen</Pflanze> ewig blühen, wo keine Sense das grüne <Pflanze>Gras</Pflanze> zerschneidet, wo kein Nordost das <Pflanze>Laub</Pflanze> entfärbt und edelsteinfarbene <Tier>Vögel</Tier> aus den <Pflanze>Büschen</Pflanze> leuchten, wo es keine bitteren Gedanken gibt, die über süßen Wünschen schweben, wie düstere <Tier>Fliegen</Tier> über lichten <Pflanze>Blumen</Pflanze>, in dem <Lebensraum>Land</Lebensraum> ohne Tod und Sünde, auf dem <Lebensraum>Eiland</Lebensraum> Avalun. Funkelt dort nicht der <Tier>Vogel</Tier> in den Edelsteinfarben? Wenn er das Köpfchen dreht, sprühen bunte Blitze um ihn her. Und ein <Tier>Falter</Tier> weht über den <Lebensraum>Bach</Lebensraum>, Morgenrotsonne auf den Schwingen, und ein Ruf ertönt wie eine silberne Glocke, und ein Vogellied perlt aus dem <Pflanze>Laube</Pflanze>, so süß wie die Liebe, süße junge Liebe im Maienlande Avalun, in dem die Menschen lachen und küssen, bis sie wie müde <Pflanze>Blumen</Pflanze> vergehen.
+    </p>
+    <p xml:id="eco_de_000039_1550">
+     Hier ist Avalun. Über mir ist ein Baldachin aus grüner und blauer Seide über einem Teppich, flammend von Farben. Ich bin der König von Avalun. Wenn ich lache, wiegen sich die goldenen und silbernen <Pflanze>Blumen</Pflanze> fröhlich über dem <Lebensraum>Wasser</Lebensraum>. Hier ist es goldig und da silbern, dort rot und drüben blau. Es ist ein wunderbares Wasser, das Wasser von Avalun; es heilt die Wunden des Herzens und kühlt die Wünsche der Seele; es ist aus reinem Tau gebildet und ohne Fehl und Falsch.
+    </p>
+    <p xml:id="eco_de_000039_1560">
+     Ein heller Pfiff ruft mich zurück; ein blauer Pfeil mit smaragdener Spitze fliegt über den <Lebensraum>Bach</Lebensraum>. Der <Tier>Eisvogel</Tier>, der <Tier>Gleißvogel</Tier> ist es, und kein <Tier>Vogel</Tier> aus dem <Lebensraum>Lande</Lebensraum>, in dem meine Seele war, der <Lebensraum>Blumeninsel</Lebensraum>, um die der Sehnsucht perlgraue Wellen schluchzen. Meine Seele ist wieder in meinen Händen. Neben mir liegt die dreiläufige Waffe und das scharfe Glas. Alle <Pflanze>Blumen</Pflanze> tragen wieder kalte Namen, und für jegliches Wesen weiß ich das trockene Wort.
+    </p>
+    <p xml:id="eco_de_000039_1570">
+     <Tier>Vogel</Tier> mit der abendrotfarbigen <Tier>Brust</Tier>, sing mir dein tautropfenklares Silberlied. Und singe es noch einmal, und singe es abermals, bis ich still wie das Wasser bin und ruhig wie die <Pflanze>Lilienblüte</Pflanze>; so still soll es in mir sein, daß ich meines Blutes Klingen lauschen kann und dem Atemholen des Windes, der in dem <Lebensraum>Walde</Lebensraum> schläft. Sing, <Tier>Vogel</Tier>, singe dein süßes Abendlied, daß mir die Augen wieder zufallen und meiner Gedanken Umrisse zu weichen Traumgestalten verdämmern, singe mir das silberne Lied vom goldenen Avalun.
+    </p>
+    <p xml:id="eco_de_000039_1580">
+     Ich grüße dich, Königin von Avalun; so schön bist du, daß deine Schönheit hüllenlos sich zeigen darf. Die Sonne verweilt, um deine schlanken Glieder zu liebkosen, die Welle zögert, weil sie deine Füße küssen muß, und der Wind hält den Atem an, so erschrak er vor deiner Schönheit. Dich grüßt der silberne Liebesstern über dem fernen <Lebensraum>Walde</Lebensraum>, dir leuchtet der goldene <Tier>Wurm</Tier> im tauigen <Pflanze>Moose</Pflanze>, dir zur Ehre duften die <Pflanze>Blumen</Pflanze> so süß. Du bist so schön, daß kein Dichter es sagen kann; deine Schönheit ist wie ein goldenes Gitter, das unreine Blicke blendet, und deine Augen sind Schilde, an denen freche Wünsche abprallen.
+    </p>
+    <p xml:id="eco_de_000039_1590">
+     Ein gellendes Lachen klirrt durch das sanfte Schweigen. Wer wagt solches Lachen in Avalun? Du, nachtschwarzer <Tier>Vogel</Tier> mit der giftroten <Tier>Flamme</Tier> auf dem <Tier>Scheitel</Tier>, du lachst mich fort aus dem Märchenland? Lache noch einmal, und ich hebe die Hand und krümme den Finger, und im Sande mußt du verbluten. Und auch du hüte dich, kreisender Weih, und fürchte meinen Zorn; allzu höhnisch klingt deine Stimme. Was habe ich euch getan, daß ihr meine Träume erschreckt, so daß sie mit bleichen Gesichtern in schwarze <Lebensraum>Wälder</Lebensraum> fliehen?
+    </p>
+    <p xml:id="eco_de_000039_1600">
+     Eine heiße Flamme schlägt mir in das Gesicht, Dunkelheit umspielt meine Augen, und meine Brust wird zu eng für das Herz. Dort unten, vor der grünen und goldigen Wand, steht in dem blausilbernen Wasser sichtbarlich und leibhaft, rot von der Sonne beschienen, ein nacktes Weib, läßt aus den hohlen Händen Wasser über ihre schmalen Schultern rieseln und streut schimmernde Strahlen über ihren schlanken Leib. Die Welle zögert zu ihren Füßen, und der leise Wind, der von der <Lebensraum>Wiese</Lebensraum> kommt, hält erschrocken den Atem an. Die silbernen und goldenen <Pflanze>Blumen</Pflanze> grüßen sie, und das <Tier>Rotkehlchen</Tier> singt ein Lied zu ihrem Preise.
+    </p>
+    <p xml:id="eco_de_000039_1610">
+     Mein Glas liegt neben mir; als ich es sah, sprang mir das Blut wieder in das Gesicht. Das Bild, das ich sehe, ist schön wie ein Traum: die schlanke, helle im Sonnenlicht rosig leuchtende Gestalt in dem blitzenden Wasser vor der grünen Wand; aber ich wollte, ich wäre weit fort von hier. Doch hinter mir verschränken die <Pflanze>Erlen</Pflanze> ihr <Pflanze>Astwerk</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_1620">
+     Die Ellritzen spielen um meine Knöchel; weiße <Tier>Falter</Tier> wehen über die bunte <Lebensraum>Wiese</Lebensraum> hin wie stille Gedanken durch laute Stunden. Vom <Lebensraum>Walde</Lebensraum> klingt des Taubers Ruf; das tiefe Schluchzen des Sturmes ist darin; das bange Weinen des Windes. Voll tiefer Zärtlichkeit und heißer Sehnsucht ist der Ruf, ein Lied ohne Worte, das alles sagt.
+    </p>
+    <p xml:id="eco_de_000039_1630">
+     Ein goldenes <Pflanze>Lilienblütenblatt</Pflanze> treibt den <Lebensraum>Bach</Lebensraum> hinab und nimmt meine Augen mit. Verschwunden ist die rosenrote Gestalt unter dem grünen Baldachin, für immer verschwunden.
+    </p>
+    <p xml:id="eco_de_000039_1640">
+     Aber ich war in Avalun.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Goldene <Lebensraum>Heide</Lebensraum>
+    </head>
+    <p xml:id="eco_de_000039_1650">
+     Die <Lebensraum>Heide</Lebensraum> hat vier hohe Zeiten; sie blüht viermal im Jahre.
+    </p>
+    <p xml:id="eco_de_000039_1660">
+     Bevor im Vorherbste der <Pflanze>Honigbaum</Pflanze> sich rosenrot färbt, hat die <Lebensraum>Heide</Lebensraum> schon eine Blüte erlebt.
+    </p>
+    <p xml:id="eco_de_000039_1670">
+     Wenn am tauklaren Maimorgen die <Tier>Birkhähne</Tier> trommeln und blasen, schmückt sie sich mit den silbernen <Pflanze>Seidenblumen</Pflanze> des <Pflanze>Wollgrases</Pflanze>; es sieht dann aus, als wäre der Winter noch einmal zurückgekehrt.
+    </p>
+    <p xml:id="eco_de_000039_1680">
+     Jedes <Pflanze>Birkenbäumchen</Pflanze> aber straft mit dem leuchtenden Grün seiner jungen <Pflanze>Blätter</Pflanze> diesen Wahn Lüge, und auch die <Pflanze>Heidlerche</Pflanze>, die unter den Wolken hängt und so lustig dudelt, als wäre sie berauscht von dem Balsamduft, der aus den Smaragdwellen zu ihr aufsteigt.
+    </p>
+    <p xml:id="eco_de_000039_1690">
+     Das ist die Zeit, in der die ganze <Lebensraum>Heide</Lebensraum> singt und klingt; sonntags abends ziehen dann die jungen Mädchen, in breiter Reihe untergehakt, über die Dorfstraße und singen alte, schalkhafte Lieder von dem Jäger und dem Mädchen in dem <Lebensraum>Walde</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_1700">
+     Wenn das <Pflanze>Heidekraut</Pflanze> blüht im September und die <Pflanze>Immen</Pflanze> um den <Pflanze>Honigbaum</Pflanze> summen, wenn die <Lebensraum>Heidberge</Lebensraum> in Rosenrot, Purpur und Violett getaucht sind, dann zieht auch der Stadtmensch in die <Lebensraum>Heide</Lebensraum> hinaus und schwärmt für ihr Blühen und Glühen.
+    </p>
+    <p xml:id="eco_de_000039_1710">
+     Ist aber das <Pflanze>Heidkraut</Pflanze> längst abgeblüht, ist das <Pflanze>Silbergrau</Pflanze> der trockenen <Pflanze>Kelche</Pflanze> zu fahlem Graugelb verwittert, dann ist die <Lebensraum>Heide</Lebensraum> vergessen, dann ist sie einsam und still; nur wenige Leute wissen, daß dann die Zeit kommt, in der sie ihr allerschönstes Kleid aus der Lade holt.
+    </p>
+    <p xml:id="eco_de_000039_1720">
+     Wenn die wandernden <Tier>Kraniche</Tier> unter den Wolken herziehen, wenn die <Tier>Wildgänse</Tier> rufen, wenn der Nordwind über die <Lebensraum>Buchweizenstoppel</Lebensraum> geht und die <Lebensraum>Kartoffelfelder</Lebensraum> leer und zerwühlt sind, dann legt die <Lebensraum>Heide</Lebensraum> ihr herrlichstes Gewand an.
+    </p>
+    <p xml:id="eco_de_000039_1730">
+     Aus schwerem Goldbrokat ist es gearbeitet, grüne Samtaufschläge zieren es, mit gelbseidenen Borden und purpurnen Kanten ist es besetzt, mit Scharlachfäden durchwirkt und über und über mit glitzernden Diamanten, schimmernden Perlen und leuchtenden <Tier>Korallen</Tier> benäht.
+    </p>
+    <p xml:id="eco_de_000039_1740">
+     Dichte, langwallende Nebelschleier verhüllen morgens ihres Prunkgewandes Pracht; langsam, als schäme sie sich der eigenen Herrlichkeit, legt sie einen Schleier nach dem andern ab, enthüllt erst ihres Braunhaares Korallenschmuck, ihres Halses Diamantengeglitzer, ihrer Schultern Silberspitzentuch, ihres Gürtels Goldgefunkel, ihres Kleides grünbraunen, scharlachdurchzogenen Faltenfall.
+    </p>
+    <p xml:id="eco_de_000039_1750">
+     Sie ist nicht mehr die junge, lustige <Lebensraum>Heide</Lebensraum> mit dem <Pflanze>Birkenbalsamduft</Pflanze> in dem smaragdgrünen Seidenkleid, nicht mehr die hübsche, junge Frau in der rosenroten Atlasschleppe; eine stattliche Frau in den besten Jahren ist sie geworden.
+    </p>
+    <p xml:id="eco_de_000039_1760">
+     Das Lerchenliederlachen ihrer Mädchenjahre hat sie verlernt, die Blaufalterseligkeit ihrer jungen Frauenzeit liegt weit von ihr; sie ist stiller und ernster geworden, um Mund und Augen ziehen sich feine Fältchen, sie hat ihre trüben Stunden, in denen sie des ersten Schnees in ihrem braunen Haar gedenkt, den ihr des Jahres Ende bringen wird; aber sie kann immer noch lachen und strahlen und glänzen, blieb immer noch eine schöne Frau.
+    </p>
+    <p xml:id="eco_de_000039_1770">
+     Ein wenig mehr Fülle hat sie bekommen, etwas bequemer ist sie geworden; sie liebt es nicht mehr, solange wach zu bleiben bei den Feuerwerkfesten der Abendsonne und den Liederkonzerten der <Tier>Lerchen</Tier>; sie bleibt auch schon gern ein bißchen länger im Nebelbett, steht nicht mehr so früh auf, und sie braucht etwas mehr Zeit zum Anziehen und eine Stunde mehr für ihre Flechten. Das ist aber ihr gutes Recht: alternde Leute schützt ein wenig Sorgfalt vor dem Alter, und man soll ihr Tun nicht Eitelkeit nennen.
+    </p>
+    <p xml:id="eco_de_000039_1780">
+     Auch Launen hat sie bekommen mit der Zeit; Tage hat sie, an denen ihre Stirn kraus und ihre Augen düster bleiben; sie seufzt dann über die verlorene Jugend und stöhnt über die kleinen Gebrechen, die das kommende Alter künden; dann hüllt sie sich in den grauen Mantel und ist unliebenswürdig gegen störende Gäste.
+    </p>
+    <p xml:id="eco_de_000039_1790">
+     Wer sie aber gut kennt, der kümmert sich nicht um ihre Launen; mag sie auch alle Fenster mit dichten, weißen Vorhängen verhüllt haben, schließlich strahlt doch ihres warmen Herzens Sonnigkeit, leuchtet ihrer Güte Lächeln, blaut ihres Frohsinns Himmel, kommt ihrer Seele goldener Reichtum bezaubernd zum Ausdruck, und sie ist dann schöner und herrlicher als je.
+    </p>
+    <p xml:id="eco_de_000039_1800">
+     Es ist der Mühe wert, sich zu ihrem Herbstfest einzuladen. Wunderbar hat sie ihr Heim geschmückt, in ein Prachtgewand sich gekleidet, in das schwere Kleid aus Goldbrokat, das sie nur kurze Zeit trägt und das sie bald mit dem silbernen Gewand vertauscht, in das der Rauhreif sie kleidet, ihrem letzten Blütenkleide, ehe das Schneeleilicht sie bedeckt.
+    </p>
+    <p xml:id="eco_de_000039_1810">
+     Lieblich ist ihr Maienfest, wonnesam ihre Spätsommerfeier, aber prächtig ist das hohe Fest, das sie im Herbste gibt. Erstaunt steht der Gast, der noch nie bei dieser Feier war; wohin er sieht, scheint es von blankem Golde, leuchtet es in gleißender Pracht, funkelt es in reicher Glut. Da ist kein <Pflanze>Birkenbäumchen</Pflanze> zu dürftig, als daß es nicht einem güldenen Springbrunnen gliche, jeder <Pflanze>Moorbeerbusch</Pflanze> glüht rosenrot, und alle <Pflanze>Poststräucher</Pflanze> lodern und brennen. Mit Silberperlen ist der Samtteppich bestreut und mit mattem Golde sind seine Kanten benäht, und des Prunksaales Decke ist ausgeschlagen mit einem lichten, blauweißen Seidengespinst, von dem sich weiße Flocken ablösen und lustig dahinschweben.
+    </p>
+    <p xml:id="eco_de_000039_1820">
+     Nicht lange währt der Heide hohes Fest, aber lustig ist es bis zum Ende, bis zu dem wilden Kehraus, zu dem der Wind seine tollsten Tänze spielt. Dann rieselt das Gold dahin, flittert und flattert, wirbelt empor und taumelt herab, bis ein hohler Tusch das Ende der Feier kündet.
+    </p>
+    <p xml:id="eco_de_000039_1830">
+     Wer es einmal mitfeiern durfte, das hohe Fest der <Lebensraum>Heide</Lebensraum>, der sehnt sich das ganze Jahr über danach.
+    </p>
+    <p xml:id="eco_de_000039_1840">
+     Vier hohe Zeiten im Jahre hat die <Lebensraum>Heide</Lebensraum>; ihr schönstes Fest aber gibt sie im Herbste.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Im Blauen <Tier>Schimmel</Tier>
+    </head>
+    <p xml:id="eco_de_000039_1850">
+     Der Blaue <Tier>Schimmel</Tier> ist ein Erbkrug. Herzog Georg von Celle, den die Bauern Jürgenvater nannten, hat in der <Lebensraum>Gegend</Lebensraum> viel gejagt, teils brave <Tier>Hirsche</Tier>, teils ein anderes edles <Tier>Wild</Tier>, das blonde <Tier>Zöpfe</Tier> hatte; im Blauen <Tier>Schimmel</Tier> hat er oft den grünen, mit rotem <Tier>Lungenschweiß</Tier> gefärbten <Lebensraum>Eichenbruch</Lebensraum> am Jagdhut, im Backenstuhle gesessen, roten Wein getrunken und rote <Tier>Lippen</Tier> geküßt. Dafür hat er dann den Krug zum Erbkrug gemacht; auf ewige Zeiten, wie es in der Urkunde heißt, die in Glas und Rahmen in der Gaststube hängt zwischen den alten stockfleckigen, in <Pflanze>Birnbaumholz</Pflanze> eingerahmten Bildern, die des Jägers Hochzeit, Kindtaufe, Leichenzug und Auferstehung darstellen.
+    </p>
+    <p xml:id="eco_de_000039_1860">
+     Der Hof, der zum Kruge gehört, heißt der Schimmelbergshof. Als Jürgenvater einmal sehr guter Laune war, denn er hatte den Tag drei starke <Tier>Hirsche</Tier> erlegt und nachher etwas viel gewürzten Wein getrunken, da hatte er der Haustochter gesagt: so viel <Lebensraum>Land</Lebensraum>, als sie in einer Stunde auf dem alten Blauschimmel umreite, solle beim Kruge bleiben.
+    </p>
+    <p xml:id="eco_de_000039_1870">
+     Er soll ein sehr langes Gesicht gemacht haben, als die hübsche blonde Regina den alten <Tier>Hengst</Tier> in eine Gangart brachte, als wäre er ein Fünfjähriger; für sein Leben hätte er gern gewußt, wie sie das fertiggebracht habe, aber sie lachte bloß hinter ihrem Fürtuche; na, und was sollte der Herzog machen? Ein Wort ist ein Wort, und so wurde der Blaue <Tier>Schimmel</Tier> <Tier>Erbkrug</Tier> mit viel <Lebensraum>Land</Lebensraum> dabei.
+    </p>
+    <p xml:id="eco_de_000039_1880">
+     Der jetzige Besitzer ist ein langer, breitschultriger, lang- und dünnbeiniger Mann mit todernstem, faltenreichem Gesicht; er hat in den Hof hineingeheiratet. Daß er Meyer heißt, hat er selbst beinahe schon vergessen; er wird nur Schimmelberg genannt, meist aber Lutjen; er spricht wenig, aber was er sagt, das stimmt, und mit dem ernstesten Gesicht macht er die schönsten Witze.
+    </p>
+    <p xml:id="eco_de_000039_1890">
+     Aus der Gastwirtschaft macht er sich gar nichts; die geht die Frauensleute an. Kommt ein Fremder, so kann er warten, bis er schwarz wird, ehe der Wirt ihn fragt, was er trinken wolle. Die Stammgäste wissen das und bedienen sich selbst. Schimmelberg tut das nie; lieber schreit er zwanzigmal »Detta!«, ehe er von der Bank neben dem alten Plaggenofen aufsteht, wo er abends immer sitzt, kalt raucht und das hannoversche <Tier>Pferd</Tier> streichelt, das die Eisenplatte des Ofens ziert. Tritt ein Gast ein, so macht er eine Bewegung mit dem Oberkörper, als wolle er aufstehen, zeigt mit der zerkauten Pfeifenspitze auf die Ofenbank und sagt in singendem Tonfall und mit drei Pausen: »Gah sitten! Sett di dahl! Sett di!«
+    </p>
+    <p xml:id="eco_de_000039_1900">
+     Das sagte er auch zu mir, als ich eintrat. Die <Tier>Mücken</Tier> hatten mich aus dem Bruche gejagt; Rauchen half nichts mehr, es waren zu viele, und bei der Hitze kamen die <Tier>Rehe</Tier> doch nicht vor der Nacht, ehe die <Lebensraum>Wiesen</Lebensraum> tauschlägig waren; so ging ich in den Krug und setzte mich an die andere Ofenecke.
+    </p>
+    <p xml:id="eco_de_000039_1910">
+     Es waren allerlei Gäste da; erst drei fremde Käsehändler, die mit dem Planwagen umherzogen; dann der Mooraufseher, auf dessen braunes, verkniffenes Gesicht die Abendsonne einen roten Schein warf; dann der Küster, der am Fenster saß und die Zeitung las; schließlich noch ein Zimmergeselle, der bei Brinkmanns Scheunenbau beschäftigt war, und ein älterer Mann mit klugem, gutmütigem, graubärtigem Gesicht, der etwas betrunken war; er saß vor einem leeren Blaurand, hatte die Arme mit den schwarzen Händen breit auf dem Tische liegen und stierte ein bißchen blöde vor sich hin, ab und zu sich aufraffend und den Versuch machend, klar um sich zu sehen. Ich hatte ihn schon einmal gesehen, wußte aber nicht gleich, wer es war.
+    </p>
+    <p xml:id="eco_de_000039_1920">
+     Ich saß in meiner Ecke, rauchte meine Pfeife und sah zwischen den <Pflanze>Herzblättern</Pflanze> der <Pflanze>Linde</Pflanze> vor dem Fenster in die Abendröte; eine dreifarbige <Tier>Katze</Tier> saß auf der Fensterbank und horchte nach dem Gepiepe der jungen <Tier>Schwalben</Tier>; ein Spitz bellte, man hörte die Mädchen lachen, die <Tier>Schleiereule</Tier> röchelte und wimmerte vom Kirchturm; in der alten Kastenuhr schlug der Pendel hart und langsam sein Ticktack.
+    </p>
+    <p xml:id="eco_de_000039_1930">
+     Der angetrunkene Mann fuhr aus seinem Halbschlaf auf, schob das Glas vor und rief mit lallender Stimme: »Schimmelberg, noch 'n L . . . L . . . ütt . . .jen! «
+    </p>
+    <p xml:id="eco_de_000039_1940">
+     »Kriegst kein' mehr«, sagte der Wirt langsam, »büst so all dicke!«
+    </p>
+    <p xml:id="eco_de_000039_1950">
+     »Denn giff meck 'n Grooten!« erwiderte der Graubart.
+    </p>
+    <p xml:id="eco_de_000039_1960">
+     Jetzt kannte ich ihn; es war ein alter Schneidergeselle. Er hatte mir einmal in der <Lebensraum>Gegend</Lebensraum> von Isenbüttel einen Flicken in den Jagdmantel gesetzt. Er war viel in der Welt herumgekommen, war ein fleißiger, stiller Arbeiter, bekam aber alle Monate seinen Zug; dann trank er drei Tage, tat aber keinem Menschen etwas, hielt nur große Reden über Politik und Religion und sang.
+    </p>
+    <p xml:id="eco_de_000039_1970">
+     »Schimmelberg, dann giff meck 'n Glas Bier!« rief er.
+    </p>
+    <p xml:id="eco_de_000039_1980">
+     Der Wirt wollte gerade sagen: »Hal di sülwen wat!«, besann sich aber und schenkte ihm ein Glas ein. Der Schneider holte eine mit Glasperlen gestickte Börse heraus, suchte lange darin herum und zahlte; dann trank er, steckte seinen Zigarrenstummel an, starrte lange auf meine Jacke und sprach:
+    </p>
+    <p xml:id="eco_de_000039_1990">
+     »Das is ein Jägersmann. Denn er ist in Lodenstoff gekleidet. Erst dacht ich, es wär' ein Beiderwand. Es ist aber Lodenstoff. Den machen sie im Lande Tirol. Ich bin dagewesen.«
+    </p>
+    <p xml:id="eco_de_000039_2000">
+     Er sann eine Weile nach und fuhr fort: »Ich bün auch schonst auf Jagden gegangen. In'n Wietzebruche. Mit dem ollen Kröger. Der verstand die Kunst. Er hatte seine Deele ganz voll von <Pflanze>Hirschgeweiden</Pflanze>. Das war ein ganzer Freischütz. So manchen dicken <Tier>Hirsch</Tier> hat er die Försters wegeholt. Jetzt ist er darüber weege. Er ist dote!«
+    </p>
+    <p xml:id="eco_de_000039_2010">
+     Er bedachte sich wieder ein Stück: »Wenn man den <Tier>Hirsch</Tier>, der olle <Tier>Kröger</Tier> sagte immer: <Tier>Happbock</Tier>, schießen will, dann muß man erst wissen, wo einer is. Wenn'n das weiß, dann geht'n auf'n <Pflanze>Baum</Pflanze> sitzen, daß er die Wiederung nich kriegt.«
+    </p>
+    <p xml:id="eco_de_000039_2020">
+     Er schwieg wieder: »Bei Mondenlicht muß'n dahin; denn sonsten sieht'n 'n nich. Und da wart' man, bis er kommt. Meist kommt er nich.«
+    </p>
+    <p xml:id="eco_de_000039_2030">
+     Er trank sein Glas aus, klopfte damit auf und rief: »Schimmelberg, 'n Lüttjen!«
+    </p>
+    <p xml:id="eco_de_000039_2040">
+     »Kriegst keinen mehr, hest all mehr wie 'noog!«
+    </p>
+    <p xml:id="eco_de_000039_2050">
+     »Denn giff meck 'n Grooten!«
+    </p>
+    <p xml:id="eco_de_000039_2060">
+     Der Wirt antwortete nicht, und der Schneider erzählte weiter: »Man muß scharf laden, wenn'n 'n <Tier>Hirsch</Tier> schießen will. Am besten eine Kugel und sechs oder acht Pilasters. Siebzig haben die Franzosen auch mit Pilasters geschossen. Das ist nicht erlaubt. Aus Milldrajösen. Bismarck hat sie ihnen deshalb alle abgenommen!«
+    </p>
+    <p xml:id="eco_de_000039_2070">
+     Der Zimmergeselle bestellte noch zwei Glas Bier, und als der Schneider getrunken hatte, kam er wieder in <Lebensraum>Fluß</Lebensraum>: »Bismarck war ein großer Mann. Ich hab'n gesehen. Wenn er ein' ansah, dann ging es einen durch und durch. Er hatte man drei Haare, aber vor den kleinen Mann hatte er doch nichts über!« Der Küster sah mich an und lächelte. Der Schneider nahm das für Beifall, schlug auf den Tisch und rief: »Wir woll'n ein Kriegeslied singen: Erhebt euch von der Erde, ihr Schläfer . . .« Weiter wußte er es nicht; er schüttelte den Kopf: »Denn ein anderes: Als wir achtzehnhundertsiebzig sind nach Frankreich reinmarschiert, hat die Guste, die bewußte, mich ein . . .«
+    </p>
+    <p xml:id="eco_de_000039_2080">
+     Er schüttelte wieder den Kopf; denn auch hier verließ ihn die Erinnerung. Nach einer Weile fing er dann an: »Wie das wohl mit die Russen und die Japanesen wird? Die Russen sind schon gut. Es gibt da einen guten Schnaps. Wuppdich sagen se dazu. Ich bin dagewesen!«
+    </p>
+    <p xml:id="eco_de_000039_2090">
+     Er sah den Zimmergesellen an, stieß sein Glas gegen dessen Glas, trank einen winzigen Schluck, besann sich und fuhr fort: »Die Russen sind man bloß dumm. Die sollten mit ihren Kosakens nach Japan reiten. Das sind forsche Kerls. Die fressen das <Tier>Fleisch</Tier> roh!«
+    </p>
+    <p xml:id="eco_de_000039_2100">
+     Er überlegte wieder ein bißchen: »Ich mag rohes Mett nich essen. Trichinen sind drin. Und die Wurst hier mag ich auch nich. Vorzüglich die Rotwurst. Weil kein Meiran mang is!«
+    </p>
+    <p xml:id="eco_de_000039_2110">
+     Er saugte vergeblich an seiner toten Zigarre, schüttelte wehmütig den Kopf und sprach weiter: »Im Land Italien hab' ich gute Wurst gegessen. Zalami sagen sie dazu. Sie sollen da die <Tier>Esel</Tier> reinhauen. Ich glaub's nich. Aber den Knopplauch kann'n rausschmecken!«
+    </p>
+    <p xml:id="eco_de_000039_2120">
+     Ein sonderbares Lächeln zog um seinen Mund, als er weitersprach: »Knopplauch, den mag ich schonst. Aber den Frauensleuten sollten 'n verbieten. Im Lande Italien hab' ich keine Liebschaft gehabt. Von wegen den Knopplauch!
+    </p>
+    <p xml:id="eco_de_000039_2130">
+     Da sind se alle katholsch. Aber das ist eingal. Ich habe viele Religionen kennengelernt. Es is ganz gleich, was der Mensch für eine hat. Die Hauptsache is, daß er eine hat. Ich habe gar keine!«
+    </p>
+    <p xml:id="eco_de_000039_2140">
+     Die alte Kastenuhr holte schnarchend aus und schlug die zehnte Stunde: Draußen tutete der Nachtwächter. Der Wirt bot Feierabend. Ich sprach mit dem Mooraufseher noch vor der Tür. Der Schneider ging an uns vorbei. Er sah uns nicht.
+    </p>
+    <p xml:id="eco_de_000039_2150">
+     Langsam, nur ein klein bißchen unsicher, ging er mitten auf der Straße und sang mit seinem zerbrochenen Tenor: »Brüder, über hundert Jahr hab' ich weder Kopf noch Haar.«
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Der <Lebensraum>Heidweg</Lebensraum>
+    </head>
+    <p xml:id="eco_de_000039_2160">
+     Tag für Tag gehe ich denselben Weg, der von dem Hofe durch die braune, rosig überhauchte <Lebensraum>Heide</Lebensraum> zum <Pflanze>Holze</Pflanze> führt, eine halbe Stunde lang hügelauf, hügelab, nach links und rechts sich wendend, bald breit, bald schmal, wie die <Lebensraum>Heidwege</Lebensraum> so sind.
+    </p>
+    <p xml:id="eco_de_000039_2170">
+     Er hat gar nichts Besonderes an sich, dieser Weg; er ist so wie alle Heidwege: kein Landmesser legte ihn fest, kein Arbeiter beschotterte ihn, keine Dampfwalze festigte ihn. Die Gewohnheit hat ihn geschaffen; er ist der kürzeste Weg zwischen den beiden Höfen an der <Lebensraum>Landstraße</Lebensraum> und dem Einzelhofe da hinten hinter der <Lebensraum>Forst</Lebensraum>; die Räder der Wagen, die ab und zu hier fahren, um Plaggen, Holz oder Bienenkörbe zu befördern oder Leute hierhin und dahin zu bringen, schnitten den Weg in den heidwüchsigen Boden der höheren Lagen, in den weißen Sand hier, in den grauen Bleisand da, in den dürren <Lebensraum>Anger</Lebensraum> in den <Lebensraum>Senkungen</Lebensraum>. Hatte es ein starkes Gewitter gegeben, so daß in den Sinken Wasser stand, dann fuhr der Bauer rechts und links um die Stelle herum; dann wurde der Weg dort breiter, doppelt, dreifach, vierfach.
+    </p>
+    <p xml:id="eco_de_000039_2180">
+     Ich gehe den Weg jeden Tag, um abzuspüren, ob <Tier>Rotwild</Tier> oder <Tier>Sauen</Tier> durchgewechselt sind, oder um zum Anstand zu kommen; ich gehe ihn morgens vor Tau und Tag, wenn die <Tier>Eule</Tier> noch ruft und die <Tier>Lerche</Tier> noch nicht wach ist, und abends, wenn der <Tier>Reiher</Tier> über die <Tier>Fuhrenkronen</Tier> streicht und rostbraune <Tier>Abendfalter</Tier> hastig und unstet über die <Lebensraum>Heide</Lebensraum> fahren; ich sah ihn im Frührotschein und in der Abendröte, bei sengender Mittagsglut und bei pfeifendem Nordost; ich kenne ihn auswendig.
+    </p>
+    <p xml:id="eco_de_000039_2190">
+     Ich kenne jeden <Pflanze>Strauch</Pflanze> und jeden <Pflanze>Baum</Pflanze> rechts und links von ihm; ich weiß, daß da ein größerer Stein kommt, daß hier ein <Tier>Hasenunterkiefer</Tier> im Sande bleicht, daß dort ein Pfeifendeckel neben einer Binsenstaude liegt; ich kenne die <Tier>Wollflocke</Tier> in dem toten Machangel und den Trichter des <Tier>Ameisenlöwen</Tier> unter dem <Pflanze>Quendelbüschel</Pflanze>; ich weiß, daß links vom Wege ein <Tier>Hase</Tier> sitzt und daß rechts in der langen <Lebensraum>Heide</Lebensraum> <Tier>Birkwild</Tier> liegt, daß hier oben <Tier>Rehfährten</Tier> den Boden narben und daß dort unten der <Tier>Dachs</Tier> gestochen hat, einen wie den andern Tag; Neues kann er mir nicht bieten, der <Lebensraum>Heidweg</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_2200">
+     Und darum gehe ich ihn einen um den andern Tag in derselben gleichgültigen, unaufmerksamen Weise, die Pfeife im Munde, die Hände auf Lauf und Kolben der Büchse, die ich über den Rücken gekreuzt habe; und wenn ich so dahingehe, dann sehe ich jeden Tag dasselbe, und bei jedem Ding fällt mir dasselbe ein.
+    </p>
+    <p xml:id="eco_de_000039_2210">
+     Da ist zuerst eine Fuhre, ein keckes Ding von fünfzehn Jahren. Wie die sich das Leben denkt: leicht, einfach, schön. Ach ja. Jetzt, wo sie noch klein ist, wo sie im Norden der Stangenort, im Osten der <Lebensraum>Hochwald</Lebensraum>, im Süden und Westen die <Lebensraum>Heidberge</Lebensraum> schützen, da kann sie noch die <Pflanze>Zweige</Pflanze> keck und froh in die Höhe recken, als wolle sie in die Wolken damit.
+    </p>
+    <p xml:id="eco_de_000039_2220">
+     Aber die hohe Fuhre am <Lebensraum>Berge</Lebensraum>, die weiß, wie das Leben ist; auch sie war einst so keck und froh und langte mit geraden <Pflanze>Zweigen</Pflanze> in die Wolken. Aber Ostwind und Nordwind und Schneelast faßten sie und drückten sie, machten ihre <Pflanze>Zweige</Pflanze> krumm, ihre Krone flach und gaben ihr den Zug stiller Entsagung, den Ausdruck hoffnungsloser Wehmut.
+    </p>
+    <p xml:id="eco_de_000039_2230">
+     Über den schwarzen <Pflanze>Machangelbusch</Pflanze>, der dort hinten so keck die <Lebensraum>Heidhöhe</Lebensraum> überschneidet, muß ich jedesmal lächeln; von hier aus sieht er so groß aus, sieht viel höher aus als die <Lebensraum>Heidberge</Lebensraum> hinter ihm, und je näher man an ihn herankommt, um so kleiner wird er, um so größer werden die <Lebensraum>Berge</Lebensraum>. Doch das geht nicht bloß dem Machangel so, das kommt auch sonst noch vor.
+    </p>
+    <p xml:id="eco_de_000039_2240">
+     Die schlanke <Pflanze>Fichte</Pflanze> dauert mich; ihre Form paßt so gar nicht zu den welligen Linien der <Lebensraum>Heide</Lebensraum>; sie ist ja auch nicht von hier, gehört auf die <Lebensraum>Berge</Lebensraum>, wo schroffe Linien sind. Der Nordostwind weiß das; der wird ihr den <Pflanze>Mitteltrieb</Pflanze> ausbrechen, wird ihre <Pflanze>Zweige</Pflanze> verbiegen, bis sie so rund und struppig sind wie die alten <Pflanze>Fichten</Pflanze> dort. Dann paßt sie in die <Lebensraum>Heide</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_2250">
+     Bei ihren jüngeren Schwestern übernehmen die <Tier>Schnucken</Tier> die Arbeit; in jedem Frühjahre verbeißen sie die jungen <Pflanze>Triebe</Pflanze>, aus dem schlanken <Pflanze>Tannenbäumchen</Pflanze> wird ein struppiger <Tier>Igel</Tier>, und wenn es groß ist, dann sieht es seltsam verschnörkelt und verkrümmt aus, <Pflanze>Äste</Pflanze>, <Pflanze>Äste</Pflanze>, lauter <Pflanze>Äste</Pflanze> und kein <Pflanze>Stamm</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_2260">
+     Es gibt auch solche Menschen; sie müßten gerade und schlank aufwachsen, aber sie stehen auf falschem Boden, in einer <Lebensraum>Umgebung</Lebensraum>, die nichts Schlankes und Gerades verträgt. Allerlei beißt und biegt an ihnen herum, und schließlich werden sie schrullige <Tier>Geschöpfe</Tier>. Und konnten Großes sein.
+    </p>
+    <p xml:id="eco_de_000039_2270">
+     Eine stand da, die war groß und schlank und stolz und schön; die hat der Blitz zerspellt. Den Krüppeln tut er nichts. Aber hochzuwachsen und vom Blitz getroffen zu werden, schließlich ist es doch besser, als krüpplig zu bleiben und verschont von Blitz und Sturm. Es gibt Menschen, die anders denken; die leben, damit sie im Alter nicht verhungern. Aber das ist dann auch kein Leben.
+    </p>
+    <p xml:id="eco_de_000039_2280">
+     Hier der Machangel duckte sich und krümmte sich und schickte sich; und was hat er nun? Ein graues, krummes Skelett ist es, über das die Schnucken trampeln. Aber um die Ruine der Riesenfichte müssen sie herum; im Tode noch läßt sie nichts Kleines an sich heran.
+    </p>
+    <p xml:id="eco_de_000039_2290">
+     Die <Lebensraum>Hängebirke</Lebensraum> auf dem <Lebensraum>Hügel</Lebensraum> tut mir leid; ihre <Pflanze>Zweige</Pflanze> greifen verlangend umher, ihre Bewegungen haben etwas Rührendes, als wollten sie zurück in die Jugend und in den Frühling. Es gibt nichts Traurigeres als eine alte <Pflanze>Birke</Pflanze> im Herbstwind.
+    </p>
+    <p xml:id="eco_de_000039_2300">
+     Und nichts Lustigeres als den jungen <Pflanze>Maibaum</Pflanze>; schlanke <Pflanze>Äste</Pflanze>, hochauf, besät mit goldgrünen <Pflanze>Blättchen</Pflanze>, leuchtend, glitzernd, duftend vor Jugend und Schönheit. Eine junge maigrüne <Pflanze>Birke</Pflanze> im Sonnenschein, dann lacht mein Herz, aber meine Seele trauert, sehen meine Augen die <Pflanze>Hängebirke</Pflanze> auf der <Lebensraum>Heide</Lebensraum>. Ich weiß wohl, warum.
+    </p>
+    <p xml:id="eco_de_000039_2310">
+     Hier hat eine Königskerze gestanden: ein zerknickter <Pflanze>Stengel</Pflanze>, zwei verwelkte <Pflanze>Blätter</Pflanze> blieben davon; das taten die <Tier>Hufe</Tier> von hundert Schnucken; und Hunderte von Schnuckenhufen zertreten Tag für Tag die <Lebensraum>Heide</Lebensraum>, Hunderte von <Tier>Schnuckenmäulern</Tier> rupfen daran herum. Der <Lebensraum>Heide</Lebensraum> schadet das nichts; sie bleibt kurz, krümmt sich zu Boden, treibt kümmerliche <Pflanze>Blüten</Pflanze>, aber sie lebt doch und blüht. Mancher verträgt eben Fußtritte, mancher nicht. Und darum gibt es nicht so viele Königskerzen wie <Lebensraum>Heide</Lebensraum>; das Häufige ist nie schön und vornehm.
+    </p>
+    <p xml:id="eco_de_000039_2320">
+     Hier, wo vom letzten Gewitterregen der Boden feucht geblieben ist, ist das Jagdgebiet einer dicken <Tier>Kröte</Tier>; gestern abend sah ich ihr zu, wie sie vorsichtig dort pürschte und ab und zu mit der <Tier>Klapperzunge</Tier> ein <Tier>Insekt</Tier> wegfing. Heute steh ich hier und sehe dem <Tier>Falken</Tier> zu, der auf der <Lebensraum>Heide</Lebensraum> eine <Tier>Lerche</Tier> jagt; er stößt fehl und streicht weiter. Die <Tier>Kröte</Tier> hat nie Fehljagd. Aber sie jagt auch <Tier>Spinnen</Tier> und <Tier>Fliegen</Tier> und <Tier>Würmer</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_2330">
+     Es geht gegen Abend; eine <Tier>Schnarrheuschrecke</Tier> mit grellroten <Tier>Unterflügeln</Tier> fliegt ruckweise, laut schnarrend, an mir vorbei; sie denkt wunder, wie schön das ist, und dabei ist es eigentlich recht lächerlich, dieser ruckweise Schnarrflug; und doch wird er seine Wirkung auf die kurze, schwarze Schöne im <Pflanze>Heidekraut</Pflanze> nicht verfehlen. Jeder Verliebte ist lächerlich, nur nicht für die eine. Tröstet euch damit.
+    </p>
+    <p xml:id="eco_de_000039_2340">
+     Ein rostroter <Tier>Nachtfalter</Tier> kommt angesaust. In unsteten Zickzacklinien huscht er über die <Lebensraum>Heide</Lebensraum>; jetzt ist er dort unten, jetzt kommt er wieder näher, nun taumelt er über die kurzen <Pflanze>Brombeerbüsche</Pflanze> der jungen Besamung und fährt hastig weiter nach den gelben Schmielen; er sucht eine, die ihn liebhat; aber es ist schon zu spät im Jahr, und wer weiß, ob er sie findet; und es ist doch so schwer, zu sterben und nicht zu wissen, was Liebe ist. Für den Falter ist das nicht so schlimm; er sucht nur eine, aber der Mensch sucht die eine.
+    </p>
+    <p xml:id="eco_de_000039_2350">
+     Am <Pflanze>Buchweizen</Pflanze> gähnen vier schwarze Schlünde und vier an den <Pflanze>Kartoffeln</Pflanze>; das sind Ansitze, die sich der Bauer gemacht hat; von da aus erlegt er die <Tier>Sauen</Tier> und das <Tier>Rotwild</Tier>, die seine <Lebensraum>Äcker</Lebensraum> verwüsten. Hier unter dem struppigen Machangel gähnen lauter silbergraue Sandtrichter; in jedem lauert ein scharfbewaffnetes <Tier>Ungetüm</Tier> auf <Tier>Spinnen</Tier> und <Tier>Ameisen</Tier>, die in den Trichter fallen. Ein grüner <Tier>Käfer</Tier> rennt flink über den Sand, in den scharfen Zangen eine <Tier>Fliege</Tier>. Zierliche <Tier>Schwalben</Tier> fahren über die <Lebensraum>Heide</Lebensraum>; ich höre die kurzen Schnäbel knappen; jeder solcher Laut ist der Tod eines Wesens. Aus dem <Pflanze>Brombeerbusche</Pflanze> klingt ein jammervoller Ton, dünn, fein, aber voll Todesangst; da wickelt die dünne <Tier>Spinne</Tier> eine bunte <Pflanze>Schwebfliege</Pflanze> ein. Überall ist der Tod.
+    </p>
+    <p xml:id="eco_de_000039_2360">
+     Ich gehe gelassen über die <Lebensraum>Heide</Lebensraum> und blase sorglos den Dampf der Pfeife in die Luft; ich gehe und töte im Gehen <Pflanze>Pflanzen</Pflanze> und <Tier>Tiere</Tier>. Das ist nun einmal so. Und wer weiß, ob dicht bei mir nicht etwas auf mich lauert, um mich hinabzuzerren, heute oder morgen oder übermorgen oder einen Tag später. Eigentlich müßte mir das alle Lebenslust nehmen.
+    </p>
+    <p xml:id="eco_de_000039_2370">
+     Ich gehe einen Weg, dessen Anfang und Ende ich nicht sehe; Anfang und Ende verlieren sich in dunkler <Lebensraum>Heide</Lebensraum> und düsterem <Lebensraum>Wald</Lebensraum>; und doch bin ich ganz gelassen.
+    </p>
+    <p xml:id="eco_de_000039_2380">
+     Vor jenem <Lebensraum>Heidhügel</Lebensraum>, dessen <Lebensraum>Kuppe</Lebensraum> ein heller <Lebensraum>Sandfleck</Lebensraum> schmückt, steht ein einsamer schwarzer, hoher Machangel; da zur Rechten steht ein ganzer Haufen derselben <Pflanze>Sträucher</Pflanze>, alle gleich in der Form. Aber der Einsame sieht ganz anders aus. Ja, die Gesellschaft, wie die abschleift das Böse und das Gute. Wenn du in ihr leben willst, mußt du den Charakter opfern. Wenigstens verstecken.
+    </p>
+    <p xml:id="eco_de_000039_2390">
+     Manchmal ist es aber auch ganz seltsam, ganz anders. Hier steht mitten zwischen rotblühender <Lebensraum>Heide</Lebensraum> ein <Pflanze>Busch</Pflanze>, der blüht weiß wie Schnee; weit und breit ist keiner so wie er. Muß der Mut haben!
+    </p>
+    <p xml:id="eco_de_000039_2400">
+     Und hier ist noch etwas Seltsames. Mitten in dem sandigen <Lebensraum>Windriß</Lebensraum>, mitten zwischen dem bunten Geröll, blüht ein <Pflanze>Heidbusch</Pflanze>, so rosenrot wie keiner ringsumher; alle andern sind fahl gegen ihn. So etwas kommt vor; in Schmutz und Elend und Verkommenheit findet man oft ein Gesicht, blühend in Schönheit und Adel.
+    </p>
+    <p xml:id="eco_de_000039_2410">
+     Eine halbe Lanzenspitze aus Flintstein liegt im Geröll; das war einmal. Der Nordostwind trägt ein Donnern und Pfeifen heran; das ist der Schnellzug Hamburg-Hannover. Wie weit wir sind! Aber der Nordostwind lacht; wieviel <Pflanze>Kulturen</Pflanze> hat er blühen und welken sehen. Steinwaffe und Bronze, Eisen und Stahl, alles ist vergänglich. Und einmal bringt er das <Lebensraum>Nordlandeis</Lebensraum> wieder und die Polarnacht, und halbwilde Fischer und Jäger klopfen sich hier mühsam wieder Lanzenspitzen und Beile aus Flintstein.
+    </p>
+    <p xml:id="eco_de_000039_2420">
+     Eine silberne <Pflanze>Distelsamenflocke</Pflanze> fliegt mir an den Rock; wo mag sie herkommen? Ich sah nirgendwo hier eine <Pflanze>Distel</Pflanze>; aber nächstes Jahr wird eine hier blühen, und wieder ein Jahr weiter, dann sind es viele, die hier ihre Purpurköpfe leuchten lassen. So wandern die Gedanken.
+    </p>
+    <p xml:id="eco_de_000039_2430">
+     Wie hoch und lang hier die <Lebensraum>Heide</Lebensraum> ist, wie scharf heben sich die <Lebensraum>Kuppen</Lebensraum> der <Lebensraum>Hügel</Lebensraum> ab; dann kommt die Dämmerung und macht alles klein; nur die hohen Machangeln bleiben noch sichtbar, noch einige Zeit. Bis die Nacht kommt.
+    </p>
+    <p xml:id="eco_de_000039_2440">
+     Ich will dahin gehen, wo die <Lebensraum>Heide</Lebensraum> so wunderbar voll, so tief rosig blüht. Aber ich will es lieber lassen. In der Nähe sieht sie aus wie alle <Lebensraum>Heide</Lebensraum>; da ist das Fahle, das Braune, das Graue stärker als das Rosenrot; nur aus der Ferne sieht sie so schön aus. So geht es mit allem, dem wir zustreben. Es lohnt sich wirklich nicht, auf etwas zuzugehen.
+    </p>
+    <p xml:id="eco_de_000039_2450">
+     Aber hier ist ja der starke <Tier>Hirsch</Tier> durchgezogen; ich muß doch sehen, wohin er gewechselt ist. Die Fährte steht nach der <Lebensraum>Forst</Lebensraum> zu. Aber dazwischen liegt <Lebensraum>Heide</Lebensraum>, und da spürt es sich schlecht. Und dann kommt die Landstraße, und die haben die Dragoner zerritten. Und dann kommt wieder <Lebensraum>Heide</Lebensraum>, und ich werde einen Bogen nach dem andern schlagen müssen, um auf den Bahnen, Wegen, Gestellen und Pürschsteigen die Fährte des Jagdbaren wiederzufinden; viel Mühe wird es kosten.
+    </p>
+    <p xml:id="eco_de_000039_2460">
+     Ich muß lächeln. Eben dachte ich mir jeden Zweck aus dem Leben heraus, und nun kommt das Leben und hält mir lachend ein Ziel entgegen, und im Grunde genommen ein so geringes Ziel; und doch gehe ich mit Eifer darauf los.
+    </p>
+    <p xml:id="eco_de_000039_2470">
+     So ist der Mensch.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Heidgang
+    </head>
+    <p xml:id="eco_de_000039_2480">
+     Der Himmel ist dunkelblau und wolkenlos; alle Sterne blitzen, es leuchtet der blanke Mond. Der leise Wind ist scharf und spitz; er rauscht in den Hofeichen, raunt in den Fuhren an der Brücke, raschelt in den <Pflanze>Birken</Pflanze> an der Straße.
+    </p>
+    <p xml:id="eco_de_000039_2490">
+     Durch den schwarzen <Lebensraum>Wald</Lebensraum> führt ein schmaler Weg; wie reines Silber leuchtet er im Mondlichte; die dunklen Schatten der <Pflanze>Zweige</Pflanze> hüpfen auf ihm einen unheimlichen Tanz.
+    </p>
+    <p xml:id="eco_de_000039_2500">
+     In die dunkle <Lebensraum>Heide</Lebensraum> kriecht der weiße Weg, versinkt im nassen <Lebensraum>Moor</Lebensraum> und steigt wieder an der dunklen <Lebensraum>Düne</Lebensraum> herauf; da liegt ein großer weißer Stein vor einem schwarzen Riesenwacholder. Hier warte ich auf den Tag.
+    </p>
+    <p xml:id="eco_de_000039_2510">
+     Dunkelheit ist um mich und Schweigen, eine Dunkelheit, verstärkt durch die hellen Lichter am Himmel, ein Schweigen, vermehrt durch der ziehenden Drossel dünnes Pfeifen.
+    </p>
+    <p xml:id="eco_de_000039_2520">
+     Ein Stern versinkt im schwarzen <Lebensraum>Moor</Lebensraum>; ein Eulenruf verhallt im Raunen der Krüppelfuhren; das fahle <Pflanze>Gras</Pflanze> im <Lebensraum>Quellgrunde</Lebensraum> flüstert ängstlich, der <Tier>Born</Tier> singt ein dunkles Lied, ein Lied ohne Worte.
+    </p>
+    <p xml:id="eco_de_000039_2530">
+     Die Dunkelheit beginnt zu leuchten, und die Stille singt und klingt; vergessene Stimmen reden, begrabene Gesichter tauchen auf, reden mit stummen Lippen und sehen mich mit toten Augen an.
+    </p>
+    <p xml:id="eco_de_000039_2540">
+     Knaben mit hellem Haar, Greise mit lichten Bärten, Mädchen in silbernen Gewändern und Frauen in Nebelkleidern wallen in langem Zuge an mir vorbei; alle drehen die strenggeschnittenen Gesichter nach mir und winken mit weißen Händen langsam und lautlos.
+    </p>
+    <p xml:id="eco_de_000039_2550">
+     Alle habe ich sie gekannt, alle, alle; sie waren im <Lebensraum>Moor</Lebensraum> der Vergessenheit versunken; ich wußte ihre Gesichter nicht mehr und konnte mich auf ihrer Stimmen Klang nicht mehr besinnen, alle die hellen Tage meines Lebens.
+    </p>
+    <p xml:id="eco_de_000039_2560">
+     In dieser Dunkelheit sehe ich sie deutlich, und laut reden sie mir zu in diesem Schweigen, winken und nicken und seufzen und flüstern und sagen, ihre Sehnsucht nach mir sei groß; sie warten auf mich.
+    </p>
+    <p xml:id="eco_de_000039_2570">
+     Im Ringelreihen wallen sie um mich herum, im Kringelkreis rücken sie näher zu mir, streifen mich mit kühlen Händen, langen nach mir mit feuchten Fingern, küssen mich mit kalten Lippen, flüstern mir tonlose Worte zu.
+    </p>
+    <p xml:id="eco_de_000039_2580">
+     Wehrlos bin ich auf den <Lebensraum>Findelstein</Lebensraum> gebannt; hinter mir sperren des Wacholders Arme mir die Flucht, vor mir wallt die bleiche Schar mit eng verschränkten Händen. Kalt läuft es mir den Rücken herunter.
+    </p>
+    <p xml:id="eco_de_000039_2590">
+     Ein lauter Ruf hallt durch die Nacht; im Dorfe kräht der erste <Tier>Hahn</Tier>. In Nebel zerfließen die Toten, zum Gesurre des <Pflanze>Grases</Pflanze> wird ihr Geflüster, zum Rauschen der <Pflanze>Zweige</Pflanze> ihrer Stimmen <Pflanze>Geraune</Pflanze>; über das <Lebensraum>Moor</Lebensraum> kommt langsam der Tag. Kommt mit Drosselpfiff und Lerchenlied, mit Frühwindpfeifen und Astgeknarre; die Sterne erbleichen vor dem Rosenschein über dem <Lebensraum>Moor</Lebensraum>, und der Mond verblaßt vor dem goldenen Licht, das hinter dem <Lebensraum>Wald</Lebensraum> auftaucht.
+    </p>
+    <p xml:id="eco_de_000039_2600">
+     Die Dunkelheit flieht und das Schweigen schwindet; die hohen <Pflanze>Birken</Pflanze> am Wegrande schütteln den Schlaf aus den <Pflanze>Zweigen</Pflanze>, die stolzen <Pflanze>Wacholderbüsche</Pflanze> beugen die steifen Nacken, der <Tier>Born</Tier> im Grunde besinnt sich auf ein lustiges Lied.
+    </p>
+    <p xml:id="eco_de_000039_2610">
+     Die ersten Sonnenstrahlen fallen auf die abgeblühte <Lebensraum>Heide</Lebensraum> und versilbern den Reif, zu dem der Frühwind die Nebelperlen erstarren ließ; die <Pflanze>Stämme</Pflanze> der <Pflanze>Birken</Pflanze> blitzen und blinken wie Silber, ihre Kronen leuchten und lodern wie Gold, und zwischen allen <Pflanze>Wacholderzweigen</Pflanze> zittern diamantene Gewebe.
+    </p>
+    <p xml:id="eco_de_000039_2620">
+     Drommeten und Fanfaren erschallen im <Lebensraum>Moor</Lebensraum>; hundert <Tier>Kraniche</Tier> grüßen den goldenen Tag; ein <Tier>Birkhahn</Tier> schlägt die Trommel dazu, <Tier>Meisen</Tier> klimpern das Triangel, <Tier>Häher</Tier> und <Tier>Krähen</Tier> quarren dazwischen, und hoch aus der Luft ruft der <Tier>Rabe</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_2630">
+     Über weißen Sand und grüne Fuhren, gelbes <Lebensraum>Moor</Lebensraum> und braune <Lebensraum>Heide</Lebensraum> gehen meine Augen hin und her, den langsamen Füßen voraus; an Postbrüchen wandern sie vorüber, die in allen Farben glühen, an grünen Schneisen vorbei, von Silbertau funkelnd, an alten Fuhren, deren rauhe <Pflanze>Stämme</Pflanze> wie frischgetriebenes Kupfer glühen, und bleiben immer wieder auf jedem <Lebensraum>Heidhügel</Lebensraum> hängen, dessen warmes Braun zwischen harten blaugrünen <Pflanze>Zweigen</Pflanze> auftaucht.
+    </p>
+    <p xml:id="eco_de_000039_2640">
+     Sie folgen dem fahlen <Tier>Hasen</Tier>, der über die <Lebensraum>Heide</Lebensraum> hoppelt, den grauen <Tier>Rehen</Tier>, die über die Wege ziehen, dem kreisenden <Tier>Bussard</Tier> über den Kronen und der roten <Tier>Brust</Tier> des <Tier>Gimpels</Tier>, die aus dem <Lebensraum>Fichtenhorste</Lebensraum> leuchtet.
+    </p>
+    <p xml:id="eco_de_000039_2650">
+     Jeden blanken Stein im Wege finden sie, alle tiefen Fährten im feuchten Sande; des Goldhähnchens feurige Haube entgeht ihnen nicht, nicht des <Pflanze>Faulbaums</Pflanze> pechschwarze <Pflanze>Frucht</Pflanze> und des <Pflanze>Fliegenpilzes</Pflanze> brennendroter Hut. Über alles gehen sie fort und wandern immer weiter, von der <Lebensraum>Heide</Lebensraum> zum <Pflanze>Holz</Pflanze>, vom <Pflanze>Holz</Pflanze> in die <Lebensraum>Heide</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_2660">
+     Wo der Knüppeldamm blank voller Wasser steht, schlägt ein <Pflanze>Zweig</Pflanze> klingend an den Büchsenlauf; ich hätte gar nicht mehr an die Büchse gedacht; der helle Klang erinnert mich an sie und die Fährten im schwarzen Boden; hier zogen die <Tier>Hirsche</Tier> heute nacht. Gestern wechselten sie am Born vorbei, wo ich vorhin saß, wieder vergebens, wie so oft schon.
+    </p>
+    <p xml:id="eco_de_000039_2670">
+     Aber kein Ärger kommt in mir hoch; danke ich dem <Tier>Hirsche</Tier> doch so manchen goldenen Abend, danke ich ihm doch so manchen silbernen Morgen, Nächte voll Sterne und Tage voller Sonne, heimliche Stunden auf dem rostroten Hau und stille Gänge im graublauen Tannengedämmer, wenn die sinkende Sonne dem einschlafenden <Lebensraum>Walde</Lebensraum> goldene Träume gab.
+    </p>
+    <p xml:id="eco_de_000039_2680">
+     Goldene Träume, an die er denkt beim Erwachen; alles um mich herum loht und lodert und leuchtet im Morgensonnenlicht, die modernden <Pflanze>Stämme</Pflanze>, die welkenden <Pflanze>Farne</Pflanze>, die faulen <Pflanze>Stümpfe</Pflanze>, die toten <Pflanze>Äste</Pflanze>; alles Leben wird lebendiger im Lichte. Die dunklen schräghängenden <Pflanze>Fichtenzweige</Pflanze> sind erfüllt von dem Gepiepe unsichtbarer <Tier>Goldhähnchen</Tier> und versteckter <Tier>Meisen</Tier>, <Tier>Specht</Tier> und <Tier>Häher</Tier> schreien und rufen, <Tier>Drosseln</Tier> und <Tier>Amseln</Tier> locken in allen Winkeln, <Tier>Eichkatzen</Tier> schnalzen in den <Pflanze>Wipfeln</Pflanze>, auf den moosigen <Pflanze>Wurzeln</Pflanze> singt der <Tier>Zaunkönig</Tier>, und über dem <Lebensraum>Walde</Lebensraum> jauchzt der <Tier>Bussard</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_2690">
+     Aber schöner noch als im feuchten, engen <Lebensraum>Wald</Lebensraum> ist es auf dem weiten, breiten Hau; der Herbst, der rote Mörder, ist durch den <Lebensraum>Adlerfarren</Lebensraum> gegangen und durch die <Pflanze>Eichenjugenden</Pflanze>; er segnete ihre <Pflanze>Blätter</Pflanze> mit seiner Bluthand und benedeite ihr <Pflanze>Laub</Pflanze> mit seinen Mörderaugen; da verloren sie ihre grüne Kraft und ihr frisches Leben, welkten und verdorrten.
+    </p>
+    <p xml:id="eco_de_000039_2700">
+     Sie starben einen schönen Tod, einen Tod voller Glanz und Pracht; im lachenden Lenz ihrer Jugend und im prangenden Sommer ihrer Kraft waren sie nicht so herrlich geschmückt wie in dem Sterbekleide, das der Herbst ihnen gab.
+    </p>
+    <p xml:id="eco_de_000039_2710">
+     Die Sonnenstrahlen zittern auf dem <Lebensraum>Farbengewoge</Lebensraum>, ziehen Wasserdämpfe aus dem feuchten <Pflanze>Gebüsch</Pflanze>, brechen sich in weichfließenden Nebelschwaden, prallen mit silbernem Gefunkel von den rindenlosen <Pflanze>Stümpfen</Pflanze> und mit goldenem Geflimmer von den gehauenen <Pflanze>Stämmen</Pflanze> zurück.
+    </p>
+    <p xml:id="eco_de_000039_2720">
+     Ein langgezogener, glasglockenklarer Ruf ertönt, ein ganz unirdischer Laut; ein gellendes Teufelsgelächter klingt hintenher. Ein großer <Tier>Vogel</Tier>, schwarz wie die Nacht, von seltsamer Gestalt, stiebt mit hartem Fluge heran und bleibt an dem silbergrauen <Pflanze>Stamme</Pflanze> der toten <Pflanze>Fichte</Pflanze> hängen.
+    </p>
+    <p xml:id="eco_de_000039_2730">
+     Der <Tier>Schwarzspecht</Tier> ist es, der zauberkundige <Tier>Vogel</Tier>, der die <Pflanze>Springwurz</Pflanze> wachsen weiß, die aller Türen Schlösser sprengt und aller Frauen Herzen dem, der sie bei sich trägt. Man sieht es ihm wohl an, daß er eigene Künste kann; umsonst trägt er auf dem Scheitel nicht die rote Flamme.
+    </p>
+    <p xml:id="eco_de_000039_2740">
+     Dreimal in streng bemessenen Pausen rutscht er rasselnd um den rauhen <Pflanze>Stamm</Pflanze>, dreimal klopft er laut dagegen; dann läßt er seinen sehnsuchtsvollen Glockenruf erschallen, stößt sein Höllengelächter aus und stiebt in den düsteren <Lebensraum>Wald</Lebensraum> hinein.
+    </p>
+    <p xml:id="eco_de_000039_2750">
+     Ich stehe immer noch und starre auf die Farben der <Pflanze>Farne</Pflanze> und des <Pflanze>Laubes</Pflanze> Lichter, sinnend, ich weiß nicht was, träumend, ich weiß nicht wovon, sehe wohl einen grauen Fleck zwischen roten <Pflanze>Brombeerranken</Pflanze> und hohen <Pflanze>Halmen</Pflanze>, denke aber nicht an <Pflanze>Wild</Pflanze> und <Pflanze>Weidwerk</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_2760">
+     Bis der graue Fleck verschwindet und wieder auftaucht im braunen <Pflanze>Kraut</Pflanze>, die <Pflanze>Zweige</Pflanze> zittern und die <Pflanze>Büsche</Pflanze> beben läßt und über den <Pflanze>Lauschern</Pflanze> weißblitzende Enden weist. Da zerfliegt das Sinnen, zerflattert der Traum, ich ziehe die Büchse von der Schulter und den Kolben an den Kopf; das Auge richtet <Pflanze>Kimme</Pflanze> und Korn, der Büchsenlauf senkt und hebt sich, der Schuß brüllt durch die Morgenstille, der <Tier>Häher</Tier> schreit, die <Tier>Amsel</Tier> zetert, in die rotgoldene Farbenpracht der sonnigen <Lebensraum>Rodung</Lebensraum> kriecht der blaue Pulverdampf.
+    </p>
+    <p xml:id="eco_de_000039_2770">
+     In langen Streifen zieht er über die dunklen <Pflanze>Binsen</Pflanze> und die hellen <Pflanze>Halme</Pflanze>, schleicht über die braunen <Pflanze>Farne</Pflanze> und die roten <Pflanze>Eichen</Pflanze>, wirbelt um den <Pflanze>Silberstamm</Pflanze> der toten <Pflanze>Tanne</Pflanze>, flattert durch das glitzernde <Pflanze>Astgewirr</Pflanze> der gehauenen Fuhren und läßt die Blöße wieder flirren und flimmern in Glut und Glanz.
+    </p>
+    <p xml:id="eco_de_000039_2780">
+     Über <Pflanze>Äste</Pflanze> und <Pflanze>Zweige</Pflanze>, <Pflanze>Wurzeln</Pflanze> und <Pflanze>Stämme</Pflanze> trete ich von einem <Pflanze>Moospolster</Pflanze> zum andern, leise und langsam nach Mörderart. Ich wecke den <Tier>Bock</Tier> nicht mehr; er hat den Schuß nicht vernommen; er liegt, als schliefe er, den Kopf zwischen den Läufen; rechts und links von ihm funkeln rote <Tier>Korallen</Tier> im dunkelgrünen <Pflanze>Moose</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_2790">
+     Einen Augenblick zürne ich mir selbst, einen kurzen Augenblick nur. Kurz war der Knall und schnell war sein Tod; wohl dem, dem solch Ende beschieden wird: aus der Sonne hinaus den Sprung in die Nacht hinein.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Füüür
+    </head>
+    <p xml:id="eco_de_000039_2800">
+     Zwei Tage hatte ich von Brot, Speck, rohen Eiern, Wurst und kaltem <Tier>Huhn</Tier> gelebt. Es war ja alles da in der Jagdbude auf dem <Lebensraum>Lohberge</Lebensraum>, Kartoffeln, Mehl, Grieß, Graupen, <Pflanze>Linsen</Pflanze>, Kaffee, Kakao und was weiß ich noch alles, aber ehe ich mich ans Kochen begebe, esse ich lieber altes Brot und gieße die Löcher dazwischen im Magen mit Wasser aus.
+    </p>
+    <p xml:id="eco_de_000039_2810">
+     Spaß macht das natürlich nicht, vorzüglich wenn man Klocke dreie in der Nacht aufsteht und bis halb sieben pürscht, und so war ich denn heilfroh, als der Jagdaufseher mir sagte, der Wirt im Nachbardorfe hätte angebimmelt, der junge Herr wäre da, und ob ich nicht mit ihm zusammen Mittag essen wollte. So schlug ich denn zehnmal mit der Faust an die Bettlade, als ich mich nach der Frühpirsch lang machte, und schlief mit ruhigem Gewissen ein, weil ich wußte, daß ich Schlag zehn aufwachen würde.
+    </p>
+    <p xml:id="eco_de_000039_2820">
+     Ich wachte sogar schon eher auf, denn ich schwitzte wie ein Schweinebraten, obschon alle Fenster auf waren. Die Hitze war zu toll. Ich wusch mich von oben bis unten, schloß die Bude von außen zu, stieg auf mein Rad und fuhr los, den <Lebensraum>Mühlberg</Lebensraum> hinab, durch Engensen durch, die Straße entlang bis nach Schillerslage. Eine knappe Wegstunde nur, aber gegen steifen Nordost um die Mittagszeit bei solcher Hitze und in dickem Mulm, das gibt 'n schönen Durst. Ich stellte mein Rad auf den Flur und rief: »Frau Wirtin! Zwei Selter mit Mit, und wannehr gibt's Mittag?« Die Wirtin lachte. »Sind Se denn so ausgehungert? Um halbig eine, hat der junge Herr gesagt, wäre er hier.« Halbig eine und jetzt ist's dreiviertel zwölfe. Wenn ich das man überstehe.
+    </p>
+    <p xml:id="eco_de_000039_2830">
+     So ziehe ich denn den Schmachtriemen drei Löcher enger, bücke mich in das Ganzlederne, lese das Burgdorfer Kreisblatt und sehe ab und zu auf die Straße. Da prallt die Sonne nur so. Alles glüht. Und der Nordost fegt die Chaussee, daß es nur so stürmt. Große gelbe Wolken wirbeln am Fenster her. Ich trinke meinen Himbeerkram und dampfe meine Pfeife. Himmelblau zieht der Rauch durch das Zimmer, scharf abstechend gegen den gelben Staub da draußen, so denke ich halb im Eindösen. Merkwürdig, eben mülmte es draußen gelb, und nun ist der Mulm blau. Und wie dick! Ich glaube, ich träume mit offenen Augen wie'n Krummer.
+    </p>
+    <p xml:id="eco_de_000039_2840">
+     Da kommt mir plötzlich in meinem Dusel ein Gedanke. Feuer! Hut, Türgriff, raus! Dicker Rauch schlägt mir ins Gesicht, blauer, und gerade gegenüber an der Burgdorfer Straße rechts kommen hinter den grünen <Pflanze>Bäumen</Pflanze> aus dem blauen Rauch dicke graue Wolken, wie bei einer Lokomotive, die im Anheizen ist. Da rennt auch schon das Volk: »Füüür, Füüür, Füüür!« schreit es hier, »Feuer, Feuer!« da, und da unten im Dorfe geht es »Tuut, tuut, tuut!« Wo ich mein Rad her habe, wie ich hinaufgekommen bin, weiß ich nicht. Weiß nur, daß ich bloß ein paarmal zutrete, abspringe, das Rad an den nächsten <Pflanze>Baum</Pflanze> stelle und zwischen die paar Leute gehe, die vor dem brennenden Hause stehen.
+    </p>
+    <p xml:id="eco_de_000039_2850">
+     Ein langer, glattrasierter Mann in braunem Manchesteranzug steht ruhig neben mir und sieht nach dem Schuppen, aus dem Qualm und Flammen kommen. Der richtige Heidjer. Regt sich nicht auf, wenn's keinen Zweck hat. Erst als eine junge Frau, der vom Laufen das blonde Haar aufgegangen ist, nicht aufhören will mit ihrem: »Uguttuguttugutt, dat schöne ni-e Hus«, da wendet er den Kopf halb und sagt gelassen: »Wees' man ruhig, Kattrin, da helpt nix mehr. Un hei kann den Schaden woll bören, is ja 'n wohlhabenden Mann!«
+    </p>
+    <p xml:id="eco_de_000039_2860">
+     Ich sehe mir die Sache an. Es brennt in der Ecke zwischen Schuppen und Wohnhaus. Da quillt dicker, schwarzer Qualm heraus, und lange, rote <Tier>Zungen</Tier> lecken aus dem gelben, stinkenden Dunst. Jetzt die Dampfspritze. Und dann den Strahl hinein, daß das Fachwerk zusammenpoltert, und Wasser auf das Wohnhaus, und das Wohnhaus bleibt stehen. Denn der Wind kommt hinter dem Hause her. Aber so ist hier nichts zu machen; das Feuer frißt gegen den Wind.
+    </p>
+    <p xml:id="eco_de_000039_2870">
+     Huih, sagt es, ein böser, giftiger Laut, so niederträchtig und heimtückisch und schadenfreudig. Eine dicke, gelbe Stinkwolke platzt aus dem blaugrauen Qualm heraus, und lange rote Lohe flattert hoch. Kling, sagt es jetzt. Die Scheiben springen. Buff, und schwarzer Qualm bricht aus dem Wohnhaus. Männer laufen aus und ein, retten unnütze Sachen, der ein Schießgewehr, der ein paar Pötte, der einen Stuhl. Der lange Mann neben mir brüllt: »Seid ji den verrückt? Laat't doch brennen. Is ja all's versichert. Willt ji juck unglückl'ch maaken?« Aber die Leute hören nicht.
+    </p>
+    <p xml:id="eco_de_000039_2880">
+     Vor dem brennenden Schuppen liegt ein grauer Klumpen. Ich hab' darauf nicht geachtet. Aber er bewegt sich. Jeß, ein Mensch! Er quält sich mühsam auf einen Ellbogen und starrt in die Flammen. Ein schreckliches Gesicht, aufgedunsen, schmutzig, der struppige Vollbart verklebt und verkleistert, die Hände wie Mistforken, Augen vertiert und stier, und das ein Mensch.
+    </p>
+    <p xml:id="eco_de_000039_2890">
+     Eine Frau schreit: »Datt olle Swin hett't anneleegt. De <Tier>Hund</Tier>!« Ein junger Bursche ruft: »Smit't dat Lork in't Für, den Vagabonde. Slagt vör'n Brägen, den Supsack! Rinn mit ehm! Hei hett et emaket, dat verfluchtige Schinneaas!«
+    </p>
+    <p xml:id="eco_de_000039_2900">
+     Der Mann neben mir im braunen Velvet bleibt ganz ruhig. Er geht auf den Hof, ruft einen andern Mann, sie fassen den <Lebensraum>Landstreicher</Lebensraum> an die Schultern, nicht sanft, aber auch nicht roh, ziehen ihn durch die Einfahrt und legen ihn in den Graben. Da liegt er erst eine Weile, krebst sich dann auf die Ellbogen und starrt blöde in das Feuer. Um ihn herum schrillen Schimpfworte, toben Flüche, gellen Hetzreden. Der Unglücksmensch hört nichts. Mit teilnahmslosem <Tier>Tiergesicht</Tier> sieht er immer in die Flammen. Einige heißblütige Leute wollen ihm an den Hals. Da kommt wieder mein Nachbar dazwischen: »Laat't dat! Dat is jue Saake nich. Bringt ehm in't Sprüttenhus!«
+    </p>
+    <p xml:id="eco_de_000039_2910">
+     Mit einem Male erwacht der Fremde. Er stellt sich auf die Beine und sieht sich im Kreise um, sagt aber nichts. Und als fünfzig Fäuste um sein Gesicht sind und fünfzig Stimmen ihn anschreien, spricht er kein Wort, und sein aufgedunsenes, zerfetztes, schmutzbedecktes Gesicht, seine weitaufgerissenen Augen geben keine Antwort auf die wilden Fragen.
+    </p>
+    <p xml:id="eco_de_000039_2920">
+     Ich sehe nach der Uhr. Sieben Minuten stehe ich hier, und in der Zeit ist das alles vor sich gegangen. Das Feuer hat schon den Dachstuhl gefaßt, die Schindeln klirren zu Boden, die Torverschalung knistert, glüht, loht und rasselt herunter. Und immer noch laufen Leute ein und aus und retten. Von allen Seiten schreit man: »Schorse, laat dat, de Dachstohl brennt all. O Gotte, wenn dat man gaut geiht!« Aber es ist, als wenn sie verrückt sind.
+    </p>
+    <p xml:id="eco_de_000039_2930">
+     Einen Schrei höre ich, gemischt aus vielen Stimmen, einen entsetzlichen Angstschrei, von Frauensleuten und Kindern zumeist, und auch von Mannsleuten: »Min Mann, min Mann, use Kaarl, Lüe, helpet, o Gotte, Kunrad!« Mir wird ganz kalt trotz der Glut, die von dem brennenden Hause kommt. Es kracht und knarrt und poltert und klirrt, ein dumpfes Donnern, der Dachstuhl stürzt ein, und noch sind Leute da im Hause.
+    </p>
+    <p xml:id="eco_de_000039_2940">
+     Alles rennt hin und her. Ein dumpfer Knall, und aus sieben Löchern kommen Rauchwolken, schwarze, graue, gelbe, blaue und dicke Flammen. Mein Nachbar wird zum erstenmal falsch: »Hebb eck juck dat nich eseggt! So 'ne Döllmerie! Um 'n ohlen Pott!«
+    </p>
+    <p xml:id="eco_de_000039_2950">
+     Das Angstgeschrei wächst. Das Herz steht mir still. Und mit einem Male ein Lachen, irrsinnig, verrückt vor Freude, und ein Schreien und dann ein Weinen. »Hei is rut, Gott sei Low und Dank, barmherziger Vater!«
+    </p>
+    <p xml:id="eco_de_000039_2960">
+     Von der Straße donnert es. Die Spritze kommt. Acht Minuten nach der Meldung. Das ist doch alle Achtung wert. Und doch lacht alles froh, daß man lachen kann nach der Angst von eben: »Hurra, sei kommt! Plaatz, Platz, use Füürwehr! Laat't brennen, wat dat brennen will. Is ja all versichert. Und Schradersvatter kannt' woll maken.«
+    </p>
+    <p xml:id="eco_de_000039_2970">
+     Die Männer mit den braunen Uniformen, mit den roten Schnüren und den Helmen lachen auch, aber sie wissen auch, was sie zu tun haben. Gegenüber der Giebel, auf den das brennende Sparrenwerk fliegt, kriegt seinen Guß. Und dann, alle Mann tohope, kling, klang, rumms, bumms, die Scheiben klirren, die Mauern poltern zusammen, die Flammen werden kürzer, der Qualm dünner, und jetzt noch mal ein Hurra. Da kommen sie, die Männer von Utze, Burgdorf, Sorgensen, Engensen, Wettmar, herangedonnert mit ihren Spritzen, begleitet von einem Schwarm von Mannschaften zu Rad, fünfzehn Minuten nach Telefonmeldung.
+    </p>
+    <p xml:id="eco_de_000039_2980">
+     Ja, zu machen ist nichts mehr; aber erst das Feuer dümpen und dann, »Kinner un Lü-e, so jung koomet wir nicht mehr tohope!« Die Wirtsleute wissen nicht, wo sie so schnell so viel Bier herkriegen sollen. Die tolle Fahrt in dem <Lebensraum>Mulm</Lebensraum> bei der wahnen Hitze, das gibt Brand in den Hals. Alle Mann an die Spritze, hille, hille! Sind das meine stillen Heidjerbauern? Denen man mit dem Stemmeisen die Zähne aufbrechen muß, ehe sie drei Worte sagen? Heut aber. »Na denn prost! Herr Wirt, 'n Rundgang. Prost. Un nu willt wie einen singen: Ji lustigen Hannoveraner, seid ji alle toosaamen.«
+    </p>
+    <p xml:id="eco_de_000039_2990">
+     Ich hab' mitgetrunken und mitgesungen und mitgelacht, bis mein Rad an der Mauer einen Rutsch machte. »Ehlers«, sag' ich zum Jagdaufseher, »nu ist hohe Tied. Min Rad drängt nah'n Stall!« Da lachen sie all und sehen mich noch mal so freundlich an. »De Keerel hett Päreverstand, dat market 'n!«
+    </p>
+    <p xml:id="eco_de_000039_3000">
+     Die Räder schwankten erst etwas, als sie in die blanke Sonne kamen, dann aber ging's, den nordöstlichen Wind im Rücken, heidi bis Engensen. Aber als ich den Heimweg auf den <Lebensraum>Lohberg</Lebensraum> hinaufradelte, fand ich, daß der Fußweg mächtig schmal geworden war.
+    </p>
+    <p xml:id="eco_de_000039_3010">
+     Aber absteigen brauchte ich doch nicht. Und als ich auf dem Hochsitz am Wullbach saß, blieb ich ganz ruhig, als der <Tier>Bock</Tier> hinter dem Schmalreh herzog. Denn erstens hatte ich die hannoversche Sabbatordnung im Kopp, und zweitens konnte ich noch sehen, daß es ein schnickerer Gabelbock war, trotzdem er mit seinen weißen Enden so prahlte, als wäre er ein ganz guter <Tier>Bock</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3020">
+     Ich habe dann noch lange auf dem <Lebensraum>Heidbrink</Lebensraum> gesessen und den <Tier>Nachtschwalben</Tier> zugehört, und den <Tier>Kranichen</Tier> und <Tier>Poggen</Tier>, und so war es meist an elf Uhr, als ich wieder auf dem <Lebensraum>Lohberge</Lebensraum> bei der Bude war.
+    </p>
+    <p xml:id="eco_de_000039_3030">
+     Der Nordostwind kam immer noch steif gegen den <Lebensraum>Berg</Lebensraum>, und er sang nicht schlecht, denn er hatte Hilfe. Aus Engensen, die Männer, die sangen ebenso laut wie er, und die von Wettmar auch, als sie mit ihrer Spritze nach Muttern donnerten.
+    </p>
+    <p xml:id="eco_de_000039_3040">
+     Ich schlief bis Klocke viere. Geträumt habe ich nicht diese Nacht. Und als ich so bei halbig fünfe loszog, da störte meinen Pirschgang durch die <Lebensraum>Wiesen</Lebensraum> kein Mäher. Sie schliefen alle noch.
+    </p>
+    <p xml:id="eco_de_000039_3050">
+     Denn es war ein heißer Tag gewesen und ein großer Brand.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Am Heidpump
+    </head>
+    <p xml:id="eco_de_000039_3060">
+     Anderthalb Büchsenschuß lang ist er, der einsame Pump in der <Lebensraum>Heide</Lebensraum>, und einen Schrotschuß breit. Sein Wasser ist breit und tief. Es hat keinen Grund, sagen die Bauern.
+    </p>
+    <p xml:id="eco_de_000039_3070">
+     Rund um den Pump wächst hohe <Lebensraum>Heide</Lebensraum> in breiten, runden <Lebensraum>Horsten</Lebensraum>. Dazwischen ist der Boden naß und schwarz. An dem Rande des dunklen Wassers stehen <Pflanze>Rischbülte</Pflanze> mit harten, scharfen <Pflanze>Blättern</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_3080">
+     An der Morgenseite springt ein kleiner <Lebensraum>Sandbrink</Lebensraum> vor und bildet eine <Lebensraum>Landzunge</Lebensraum>. Darauf steht ein uralter, breiter <Pflanze>Machangelbusch</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_3090">
+     Er ist kaum so hoch wie ein Mann, der alte schwarze <Pflanze>Busch</Pflanze>, aber er ist das höchste Ding in der kahlen <Lebensraum>Heide</Lebensraum>, und wenn abends die untergehende Sonne rechts und links vor ihm den Pump rosenrot färbt, dann sieht er aus wie ein Zauberschloß. Vielleicht ist er auch eins. In dem Bleisande unter seinen <Pflanze>Wurzeln</Pflanze> habe ich oft seltsame Spuren gesehen, als wenn da winzige <Tier>Entchen</Tier> gewesen wären. Aber so kleine <Tier>Enten</Tier> gibt es nicht; nicht einmal die Kricke macht so geringe Spuren.
+    </p>
+    <p xml:id="eco_de_000039_3100">
+     Kuhlemanns Schäfer meinte, die Zwerge wären das gewesen. Die hätten <Tier>Entenfüße</Tier>. Und sie mögen gern unter alten Machangeln wohnen in einsamen Heidbrinken, vorzüglich wenn Wasser dabei ist. Darin spiegeln sie sich, sagt er.
+    </p>
+    <p xml:id="eco_de_000039_3110">
+     Früher hätte er das alles für Unsinn gehalten, wie es sich die Mädchen in den Spinnstuben erzählen, wintertags, wenn der alte Plaggenofen bullert und der Schnee gegen das Fenster schlägt.
+    </p>
+    <p xml:id="eco_de_000039_3120">
+     Aber im vorigen Sommer sei er anderen Sinnes geworden über die Sache. Da sei er den Patt entlanggegangen durch die <Lebensraum>Heide</Lebensraum>. So um Johanni, bei einer wähnen Hitze, einer Hitze zum Benaudwerden. Und da habe er den Neegenmörder schreiend vor dem <Lebensraum>Machangelbusch</Lebensraum> fortfliegen sehen, und wie er hingesehen habe, wäre helles Feuer unter dem <Pflanze>Busche</Pflanze> gewesen.
+    </p>
+    <p xml:id="eco_de_000039_3130">
+     Na, und da habe er seine alte Beiderwandjacke ausgezogen und sei schnell nach dem <Pflanze>Busche</Pflanze> gelaufen, um das Feuer zu dümpen, damit es nicht weiterfräße. Denn der Wind hätte von Südosten gestanden, und es hätte einen bösen Brand geben können. Als er aber meist bei dem Machangel war, da war das Feuer aus, und es war auch kein Rauch da und keine Kohle und Asche auch nicht.
+    </p>
+    <p xml:id="eco_de_000039_3140">
+     Und nun glaube er, und er lasse sich da nicht von abbringen, was auch Kuhlemann sage und der Lehrer und der Doktor, das wären die Zwerge gewesen, die hätten ihr Gold gesonnt; und deswegen sei er da höllschen schnell von weggegangen, denn die kleinen Leute hätten ihre Nucken und könnten einem leicht etwas anhängen.
+    </p>
+    <p xml:id="eco_de_000039_3150">
+     Als er mir das erzählte, der alte Schäfer, da machte ich ein ganz ernstes Gesicht. In mir aber lachte ich. Aber wenn ich den Patt entlangging an dem Pump, dann habe ich niemals geflötet, sondern bloß halblaut gesungen. Das muß man tun, sagte der Schäfer, das rechnen sie einem hoch an, die Unterirdischen, wenn man sich bemerkbar macht, damit sie ihre Schätze beizeiten fortbringen können.
+    </p>
+    <p xml:id="eco_de_000039_3160">
+     Nur flöten darf man nicht, das können sie für den Tod nicht vertragen, seitdem sie von den großen Leuten im Dorfe damit angeführt sind.
+    </p>
+    <p xml:id="eco_de_000039_3170">
+     Das ist schon hundert Jahre her, aber die Lüttjen haben ein langes Gedächtnis. Ein Jahr ist für sie, was uns ein Tag ist. Darum konnte mir im Dorfe auch kein Mensch mehr sagen, wie das gewesen sei mit den Zwergen, warum sie da weggezogen sind und weshalb sie kein <Tier>Flöten</Tier> leiden mögen.
+    </p>
+    <p xml:id="eco_de_000039_3180">
+     Aber daß die Sache von Kuhlemanns Hof ausgegangen ist, das weiß ich. Der Pump und die <Lebensraum>Heide</Lebensraum> darum gehört Kuhlemann. Aber nie wird der Bauer oder wer seinen Namen trägt, bis auf dreihundert Schritt an den Pump gehen. Und seine Knechte wollen auch nicht gern dahin. Darum ist die <Lebensraum>Heide</Lebensraum> da auch so lang; denn keiner haut sie.
+    </p>
+    <p xml:id="eco_de_000039_3190">
+     Weil es da nun so still ist und kaum einmal ein Mensch dahin kommt, haben die wilden <Tier>Tiere</Tier> es dort gut. Die Jagd gehört dem Bauern, aber um den Pump jagt er nicht. Er ist nicht abergläubisch, aber der Pump und die Kuhlemanns passen nicht zusammen. Der Großvater des Bauern ist da vom Blitz totgeschlagen und ein Kuhlemannsches Kind ist vor hundert Jahren in dem Pump ertrunken. Das kann alles mit natürlichen Dingen zugegangen sein, aber genau kann man das nicht wissen, und besser ist besser.
+    </p>
+    <p xml:id="eco_de_000039_3200">
+     Mir hat der Bauer auch gesagt, ich solle dort lieber wegbleiben. Aber ich bin ja kein Kuhlemann und habe mit den kleinen Leuten nichts vorgehabt. Und ich glaube auch nicht an sie.
+    </p>
+    <p xml:id="eco_de_000039_3210">
+     So bin ich denn auch manches Mal an dem Pumpe gewesen. Mit dem Weidmesser habe ich das tote <Pflanze>Holz</Pflanze> innen aus dem <Pflanze>Machangelbusche</Pflanze> geschnitten, habe mir da Plaggen hingepackt und Torfe zum Sitz, und dann habe ich da gesessen zu allen Zeiten.
+    </p>
+    <p xml:id="eco_de_000039_3220">
+     Ich war im Frühjahr da, wenn rundherum in der <Lebensraum>Heide</Lebensraum> die <Tier>Birkhähne</Tier> kullerten, die <Tier>Himmelsziegen</Tier> meckerten und die <Tier>Kiebitze</Tier> riefen vor Tau und Tag.
+    </p>
+    <p xml:id="eco_de_000039_3230">
+     Im Sommer habe ich da gesessen, wenn um den Pump die <Pflanze>Murke</Pflanze> blühte, als wäre alles voll Schnee. Dann sangen die Dullerchen, und der Pieper schlug, daß es eine Art hatte.
+    </p>
+    <p xml:id="eco_de_000039_3240">
+     Eine ganze Mondnacht habe ich in dem Machangel verbracht. Vor mir blitzte das <Lebensraum>Wasser</Lebensraum>, in der <Lebensraum>Heide</Lebensraum> krispelten die <Tier>Nachtschmetterlinge</Tier>, eine <Tier>Ente</Tier> plätscherte mit ihrer <Tier>Brut</Tier> am andern <Lebensraum>Ufer</Lebensraum>, und fern im <Lebensraum>Moor</Lebensraum> klagte die <Tier>Eule</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3250">
+     Auch wintertags bin ich dagewesen, wenn alles weiß war von der Neuen und darauf deutlich verzeichnet war, was von der <Lebensraum>Forst</Lebensraum> zur <Lebensraum>Feldmark</Lebensraum> gekommen war bei Nacht, <Tier>Hase</Tier> und <Tier>Reh</Tier> und <Tier>Marder</Tier> und <Tier>Fuchs</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3260">
+     Geschossen habe ich aber meinen Tag nichts an dem Heidpump. Es kam immer etwas dazwischen, oder ich traute mich nicht. Die <Tier>Hähne</Tier> balzten sich von dem Schirme weg, der <Tier>Bock</Tier> bekam Witterung, der <Tier>Fuchs</Tier> schnürte unter dem Winde heran, und die <Tier>Enten</Tier> fielen jedesmal zu weit weg ein.
+    </p>
+    <p xml:id="eco_de_000039_3270">
+     Der Bauer lachte immer, wenn ich mit leerem Rucksack zurückkam, und meinte, warum ich nicht anderswohin ginge. Aber ich kann nichts dafür. Wenn ich den Pump sehe, muß ich dahin. Vielleicht ist es das Gruseln, das mich da immer hinbringt, und weil es da so menschenleer und verloren ist.
+    </p>
+    <p xml:id="eco_de_000039_3280">
+     Darum mußte ich auch heute wieder dahin. Ich ging um den ganzen Pump und sah in den Ecken viel <Tier>Entenfedern</Tier> schwimmen. Auch der <Tier>Fuchs</Tier> spürte sich in dem anmoorigen <Lebensraum>Boden</Lebensraum>. Da dachte ich, ich könne wohl zum Schuß kommen.
+    </p>
+    <p xml:id="eco_de_000039_3290">
+     Der Mond ist so hell und die Gardinen sind so dünn und das Bett ist so schwer, daß ich nicht einschlafen kann. Ich höre das <Tier>Vieh</Tier> mit den <Tier>Ketten</Tier> klirren, der <Tier>Schimmel</Tier> schlägt immer gegen die Wand, und Wasser heult den Mond an.
+    </p>
+    <p xml:id="eco_de_000039_3300">
+     Wenn ich das so recht bedenke, so kommt mir das ganz natürlich vor, was ich heute an dem Pump erlebte. Aber wenn ich die Augen zumache, dann dünkt es mich doch seltsam.
+    </p>
+    <p xml:id="eco_de_000039_3310">
+     Ich sitze in dem Machangel und rauche vor mich hin. Es ist recht neblig, und weit kann ich nicht sehen. Eine halbe Stunde sitze ich so und denke an dies und das. Das Gewehr habe ich gespannt neben mir liegen. Vor mir ist das Wasser ganz schwarz.
+    </p>
+    <p xml:id="eco_de_000039_3320">
+     Ich wundere mich, daß keine <Tier>Enten</Tier> kommen. Zeit wäre es; denn es schlägt im Dorfe schon halb sechse. Da höre ich es dicht bei mir klingen und sausen, drei, vier schwarze Dinger sind vor mir über dem Pump. Ich reiße das Gewehr an die Backe und drücke einmal, zweimal, aber es blitzt nicht und es kracht nicht, und wie ich zufühle, sind beide Hähne in Ruhe.
+    </p>
+    <p xml:id="eco_de_000039_3330">
+     Das Merkwürdige dabei ist, daß ich ganz genau weiß, daß ich sie gespannt habe, als ich mich ansetzte. Ich weiß es ganz bestimmt. Ich stopfte mir erst die Pfeife, spannte dann, steckte dann die Pfeife an und sah im Zündholzlicht, daß die Hähne hoch waren.
+    </p>
+    <p xml:id="eco_de_000039_3340">
+     Wie ich noch darüber nachdenke, poltern die <Tier>Enten</Tier> fort, und drüben, genau in der Schußrichtung, ruft der Hütejunge, ich solle auf den Hof kommen. Der Förster wäre da, er wolle mich gern wegen der morgigen Drückjagd sprechen.
+    </p>
+    <p xml:id="eco_de_000039_3350">
+     Hätte ich geschossen, so hätte ich den Jungen getroffen. Eine merkwürdige Sache, daß die Hähne nicht gespannt waren. Und ich weiß doch, daß ich sie übergezogen hatte.
+    </p>
+    <p xml:id="eco_de_000039_3360">
+     Ich muß das Fenster aufmachen; mir ist zu heiß. Von hier aus kann ich bis an den Pump sehen; ich sehe ihn selbst nicht, aber den <Pflanze>Wacholder</Pflanze> als dunklen Fleck. Und bei dem <Pflanze>Busch</Pflanze> ist helles Feuer, grünlich glimmendes unirdisches Feuer, wie ich es noch nie sah.
+    </p>
+    <p xml:id="eco_de_000039_3370">
+     Ich glaube, ich glaube, der Schäfer hat recht. Die kleinen Leute haben mich vor Unglück bewahrt.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Im weiten weißen <Lebensraum>Moore</Lebensraum>
+    </head>
+    <p xml:id="eco_de_000039_3380">
+     Seit dem ersten Frost gab es nichts Helles mehr im <Lebensraum>Moore</Lebensraum> als die weißen <Pflanze>Stämme</Pflanze> der <Pflanze>Birken</Pflanze> und die beiden runden <Pflanze>Weidenbüsche</Pflanze>, deren <Pflanze>Fruchtkätzchen</Pflanze> die silberne <Pflanze>Samenwolle</Pflanze> behalten hatten im Gegensatze zu allen anderen <Pflanze>Weidenbüschen</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_3390">
+     Der Post hatte seine roten <Pflanze>Blätter</Pflanze> verloren, die <Pflanze>Birken</Pflanze> mußten ihr goldenes <Pflanze>Laub</Pflanze> fortgeben, die sauren <Lebensraum>Wiesen</Lebensraum> waren abgefroren, und so lag das <Lebensraum>Moor</Lebensraum> stumpf und tot da.
+    </p>
+    <p xml:id="eco_de_000039_3400">
+     Alle seine lustigen <Tier>Vögel</Tier> waren verschwunden, alle die hellen Gestalten, die es im Sommer belebten. Keine weiße <Lebensraum>Weihe</Lebensraum> strich mehr über den Post, kein <Tier>Kiebitz</Tier> gaukelte mehr über den <Lebensraum>Wiesen</Lebensraum>, selbst das <Tier>Birkwild</Tier> verschwand, und die <Tier>Krähen</Tier> zogen fort nach der <Lebensraum>Geest</Lebensraum>. Allen war es zu kalt und zu naß im <Lebensraum>Moore</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3410">
+     Tagelang sang dann der Nordwestwind dort seine grämlichen Lieder; wenn die Sonne mit rotem Gesichte über die <Lebensraum>Heidberge</Lebensraum> kam, stürmte er ihr entgegen und langweilte sie so lange mit seinem öden Gesinge, bis sie ärgerlich hinter den grauen Wolken verschwand. Dann hatte der Wind wieder die Oberhand und goß Wasser über das <Lebensraum>Moor</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3420">
+     Da kam der Mond der Sonne zur Hilfe; er brachte den Südostwind mit; der jagte die Wolken vom Himmel und trocknete das Wasser im <Lebensraum>Moore</Lebensraum> auf, und eines Morgens war das ganze <Lebensraum>Moor</Lebensraum> silberweiß von Rauhreif, so silbern, so weiß, daß die weißen <Pflanze>Birkenstämme</Pflanze> und die beiden silbernen <Pflanze>Weidenbüsche</Pflanze> völlig verschwanden.
+    </p>
+    <p xml:id="eco_de_000039_3430">
+     Aber schon mittags war der trübsinnige Wind aus Nordwesten wieder da; er wischte mit langen nassen Nebellappen den Silberreif von <Pflanze>Baum</Pflanze> und <Pflanze>Busch</Pflanze>, <Lebensraum>Heide</Lebensraum> und <Pflanze>Halm</Pflanze>, schnaufte im Risch, stöhnte in den Ellern wehleidig und weinerlich und verleidete den wenigen <Tier>Vögeln</Tier>, die in das <Lebensraum>Moor</Lebensraum> zurückgekehrt waren, die Heimat wieder. Nur der <Tier>Hühnerhabicht</Tier>, der <Tier>Strauchdieb</Tier>, fühlte sich in der grauen Luft wohl und mordete den lustigen <Tier>Häher</Tier> und den zutraulichen <Tier>Gimpel</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3440">
+     Und dann wechselte das <Lebensraum>Moor</Lebensraum> wieder sein Kleid; um den vollen Mond sammelten sich dicke, gelbe Wolken, die alle Sterne verhüllten, und um Mitternacht fielen weiche, weiße <Tier>Flöckchen</Tier> herunter, blieben an den <Pflanze>Halmen</Pflanze> hängen, an des Postes <Tier>Kätzchen</Tier> kleben, hafteten an dem <Pflanze>Heidekraute</Pflanze>, fielen auf die Fuhren, überwallten die <Pflanze>Wacholder</Pflanze>, umbanden die <Pflanze>Birken</Pflanze>, umwanden die <Pflanze>Weiden</Pflanze>, hüllten das ganze <Lebensraum>Moor</Lebensraum> in ein weißes Kleid.
+    </p>
+    <p xml:id="eco_de_000039_3450">
+     Mit der Sonne kam ich über die <Lebensraum>Geest</Lebensraum>; blau lief mein Schatten vor mir her auf dem Fahrwege durch die <Lebensraum>Heide</Lebensraum>, auf dem Knüppeldamm durch das <Pflanze>Holz</Pflanze>. Gestern war alles grau und braun und fahl und düster und trübe und still und tot, heute ist die Welt hell und heiter und laut und lustig: In den verschneiten Fuhren schwatzt der Häher, in den jungen <Pflanze>Birken</Pflanze> lockt der <Pflanze>Gimpel</Pflanze>, in den <Pflanze>Fichten</Pflanze> lärmen die <Tier>Meisen</Tier>, und der klare <Lebensraum>Bach</Lebensraum> am Wege, der gestern so schläfrig floß, sprudelt munter durch die moosigen <Lebensraum>Irrblöcke</Lebensraum>, die die Brücke über ihn bilden.
+    </p>
+    <p xml:id="eco_de_000039_3460">
+     Das ist ein wunderschöner Platz; zwei hohe alte <Pflanze>Fichten</Pflanze>, regelmäßig gewachsen und über und über mit roten <Pflanze>Zapfen</Pflanze> behängt, halten dort Wacht; um ihre <Pflanze>Wurzeln</Pflanze> kauern sich gespenstige <Pflanze>Wacholder</Pflanze>, spreizen sich unheimliche <Pflanze>Stechpalmen</Pflanze>, leuchtend von feuerroten <Pflanze>Beeren</Pflanze>; und der <Pflanze>Spindelbaum</Pflanze> neben ihnen ist über und über mit rosenroten <Pflanze>Kapselchen</Pflanze> behängt, aus denen die gelben <Pflanze>Samenkörner</Pflanze> hervorleuchten.
+    </p>
+    <p xml:id="eco_de_000039_3470">
+     Hier hat die <Lebensraum>Heide</Lebensraum> ein Ende, hier hört der <Lebensraum>Wald</Lebensraum> auf, und hier ist die Grenze zwischen dem bunten Leben und dem weißen Tod. Meisenflüge schnurren durch die verschneiten <Pflanze>Fichten</Pflanze>; braune, graue, bläuliche <Tier>Federbällchen</Tier>, gelbbäuchig, weißbackig, langgeschwänzt und spitzgehäubt, kobolzen durch die <Pflanze>Äste</Pflanze>, hängen sich an die <Pflanze>Zweige</Pflanze>, daß der Schnee pulvert und rieselt; ein <Tier>Buntspecht</Tier> klopft an einen <Pflanze>Tannenzapfen</Pflanze>, eine <Tier>Eichkatze</Tier> wirft große <Tier>Schneebälle</Tier> herab, eine wilde <Tier>Taube</Tier> klappert fort, <Tier>Goldammern</Tier> zirpen über den verschneiten Knüppeldamm, <Tier>Häher</Tier> lärmen in der Fuhrendickung, ein <Tier>Zaunkönig</Tier> krispelt in dem gelben <Pflanze>Adlerfarn</Pflanze> herum; ein Dutzend <Tier>Gimpelhähne</Tier> fallen flötend in den <Pflanze>Birken</Pflanze> ein, ihre roten <Tier>Brüste</Tier> schimmern in den <Pflanze>Zweigen</Pflanze> wie märchenhafte <Pflanze>Blumen</Pflanze>, mit scharfem Schrei fährt der <Tier>Eisvogel</Tier> den <Lebensraum>Bach</Lebensraum> entlang, ein Blitz aus leuchtendem Blau und funkelndem Grün.
+    </p>
+    <p xml:id="eco_de_000039_3480">
+     Keines von all den bunten, lauten, lustigen Wesen geht mit mir in das <Lebensraum>Moor</Lebensraum>, das weiß, kalt und tot vor mir liegt, endlos und ohne Grenzen. Ein neues, unentdecktes <Lebensraum>Land</Lebensraum> ist es heute; keines Menschen Fußspur hat seine Schneedecke gefurcht; auch <Tier>Reh</Tier> und <Tier>Hase</Tier>, <Tier>Otter</Tier> und <Tier>Fuchs</Tier>, <Tier>Marder</Tier> und <Tier>Iltis</Tier> haben hier keine Zeichen hinterlassen; der erste Schnee ängstigte sie, und verschüchtert blieben sie in ihren Löchern und Lagern. Jetzt, nachdem die Sonne auf dem <Lebensraum>Moore</Lebensraum> liegt und es mit schwachen blauen Schatten und gelblichen und rosigen Tönen färbt, regt sich schüchtern ein wenig Leben.
+    </p>
+    <p xml:id="eco_de_000039_3490">
+     Eine <Tier>Krähe</Tier> quarrt über die <Lebensraum>Einöde</Lebensraum>, zwei <Tier>Birkhähne</Tier> sausen über die <Lebensraum>Wüste</Lebensraum>, drei <Tier>Enten</Tier> klingeln der <Lebensraum>Aller</Lebensraum> zu; hier und da treten die <Tier>Rehe</Tier> aus den braunen <Lebensraum>Postbrüchen</Lebensraum>, aus den dunklen <Lebensraum>Ellernrieden</Lebensraum>, aus den gelben <Lebensraum>Rohrdickichten</Lebensraum>, verbeißen die braunen <Pflanze>Blütenknospen</Pflanze>, scharren den Schnee von den <Lebensraum>Grabenrändern</Lebensraum> und suchen ein grünes <Pflanze>Blatt</Pflanze>, ein frisches <Pflanze>Kraut</Pflanze>. Riesengroß und dunkel heben sie sich von der Schneefläche ab.
+    </p>
+    <p xml:id="eco_de_000039_3500">
+     Hier vorn im <Lebensraum>Moor</Lebensraum>, unter dem <Pflanze>Holze</Pflanze>, hat die Sonne noch etwas Kraft; selbst in die Ruhe des ersten Wintertages bringt sie Bewegung. Es tropft von den <Pflanze>Ästen</Pflanze>, fällt von den <Pflanze>Zweigen</Pflanze>, stäubt aus den <Pflanze>Kronen</Pflanze> und rieselt aus den <Pflanze>Nadeln</Pflanze>. In der kleinen <Lebensraum>Bachbucht</Lebensraum> sind die schwarzen <Lebensraum>Wasserläufer</Lebensraum> lebendig, die blanken <Tier>Taumelkäfer</Tier> blitzen und die <Pflanze>Ellritzen</Pflanze> schießen jäh zwischen dem schwarzen <Pflanze>Kraut</Pflanze> hin und her über den hellen <Lebensraum>Kiesgrund</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3510">
+     Hinter der Ellernriede aber, die den <Lebensraum>Bach</Lebensraum> umsäumt, hört alles Leben, alle Bewegung auf; je weiter ich in den weißen Schnee hineinwate, je tiefer ich in das <Lebensraum>Moor</Lebensraum> komme, desto fremder, unbekannter und rätselhafter wird es mir. Ich kenne jeden Weg und jeden Steg hier, jeden Graben und jeden Pfahl, jeden <Pflanze>Busch</Pflanze> und jeden <Pflanze>Baum</Pflanze>, aber in seiner Schneevermummung sieht jedes Ding heute anders aus.
+    </p>
+    <p xml:id="eco_de_000039_3520">
+     Aus den dunklen Schirmfuhren sind weiße <Pflanze>Riesenpilze</Pflanze> geworden, die mürrischen Wacholdermännchen haben weiße Hemden angezogen, die braunen <Lebensraum>Gräben</Lebensraum> füllt ein grauweißer Brei, die einsamen <Lebensraum>Viehställe</Lebensraum> sind ganz untergetaucht unter ihrer Schneebekleidung, und das weite braune <Lebensraum>Postmoor</Lebensraum> ist versunken in der weißen Decke und verschmilzt an seinen Rändern ganz und gar mit der grauweißen Luft.
+    </p>
+    <p xml:id="eco_de_000039_3530">
+     Mit lautlosen Schritten geht die Stille durch das <Lebensraum>Moor</Lebensraum>; kein Vogellaut ertönt. Der Angstschrei der Bekassine, die ich aufjagte, verweht im Nu, des Neuntöters Warnruf verschwindet in der Lautlosigkeit, des fernen Dampfers dunkles Geheul scheint nur ein Wahn zu sein, und das verstohlene Gemurmel des Ellernbaches ist nach drei Schritten vergessen. Weiße Stille, stumme Weite, unendliche Lautlosigkeit, regungslose Ruhe ist rund um mich her, vor mir, hinter mir, über mir, unter mir und zu meinen Seiten.
+    </p>
+    <p xml:id="eco_de_000039_3540">
+     Die Sohlen der langen Krempstiefel drücken lautlos den Schnee nieder; streift der Kolben der Büchse einen <Pflanze>Busch</Pflanze>, so fällt der Schnee lautlos herab, lautlos trabt der <Tier>Hund</Tier> hinter mir her, lautlos huscht ein weißes <Lebensraum>Wiesel</Lebensraum> in den <Lebensraum>Weidenhorst</Lebensraum>, lautlos ziehen die <Tier>Rehe</Tier> über die <Lebensraum>Wiesen</Lebensraum>, lautlos flattert eine <Tier>Rohrammer</Tier> von <Pflanze>Busch</Pflanze> zu <Pflanze>Busch</Pflanze> vor mir her.
+    </p>
+    <p xml:id="eco_de_000039_3550">
+     Jeden Laut hat die weite Stille aufgesaugt, jede Farbe ist darin untergegangen; es gibt nur blendende Farblosigkeit und dunkle Flecken, die sie noch mehr entfärben; die blauen Schatten der Fuhren, die gelblichen und rosigen Lichter in der Ferne sind zu zart, um Farbe in die Farblosigkeit zu bringen, und je weiter ich wandere, um so stärker wird das Gefühl in mir, als wäre ich blind und taub und stumm, als wäre ich selber nur ein Schatten, und ab und zu bleibe ich stehen, sehe zurück und überzeuge mich, daß meine Schritte Spuren hinterlassen.
+    </p>
+    <p xml:id="eco_de_000039_3560">
+     Und weiter und weiter geht es, an todeinsamen <Lebensraum>Birkenwäldchen</Lebensraum> vorbei, in denen nicht eine <Tier>Meise</Tier> lockt, vorüber an tiefverschneiten <Lebensraum>Fichtenhorsten</Lebensraum>, in denen kein einziges <Tier>Goldhähnchen</Tier> piept, auf engen Stegen durch die schneebeschwerten <Lebensraum>Postdickichte</Lebensraum>, in denen keine Spur munteren Lebens sich zeigt, über die weißbedeckten <Lebensraum>Wiesen</Lebensraum>, deren Eintönigkeit keines <Pflanze>Strauches</Pflanze> hellblauer Schatten unterbricht, an dem <Lebensraum>Moorgraben</Lebensraum> entlang, dessen langsames Wasser nicht das leiseste Geräusch macht, an gelbem <Pflanze>Rohr</Pflanze>, dessen starre <Pflanze>Blätter</Pflanze> keinen Flüsterton wagen.
+    </p>
+    <p xml:id="eco_de_000039_3570">
+     Weit, weit weg hallt ein Schuß; häßlich klingt er mir. Ich bin ja hier im <Lebensraum>Moor</Lebensraum>, um zu jagen, und die Tage vorher habe ich mich niemals besonnen und schnell den Finger krumm gemacht.
+    </p>
+    <p xml:id="eco_de_000039_3580">
+     Heute möchte ich das nicht. Vor mir stehen die <Tier>Rehe</Tier>; leicht wäre es mir, mich an sie heranzupirschen, der Wind ist gut, die Ellern lassen mich unsichtbar sein, und der Schnee macht meine Füße lautlos.
+    </p>
+    <p xml:id="eco_de_000039_3590">
+     Aber ich mag nicht schießen; ich scheue den Donner des Schusses in dieser weißen Stille, des <Tier>Hundes</Tier> giftigen <Tier>Hals</Tier> bei der Hetze in diesem geheimnisvollen Frieden, und die hellroten Flecken auf der keuschen Reinheit in diesem weiten weißen <Lebensraum>Moore</Lebensraum>.
+    </p>
+   </div>
+   <div type="group">
+    <head>
+     Die rote Beeke
+    </head>
+    <p xml:id="eco_de_000039_3600">
+     Die Morgensonne wirft <Pflanze>Rosen</Pflanze> und Gold in die <Lebensraum>Heide</Lebensraum>, legt Kupferglanz auf die <Pflanze>Fuhrenstämme</Pflanze> und <Pflanze>Maiengrün</Pflanze> auf die <Pflanze>Machangelbüsche</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_3610">
+     Von dem Beekhofe kommt ein junger Mann; langsam steigt er den <Lebensraum>Heidberg</Lebensraum> hinauf; seine braune Rechte hält das lange Beil.
+    </p>
+    <p xml:id="eco_de_000039_3620">
+     Auf dem <Lebensraum>Kamme</Lebensraum> des <Lebensraum>Anberges</Lebensraum> macht er halt und sieht sich um, auf das Eisen des Beiles gestützt, über die <Lebensraum>Bachwiesen</Lebensraum> tanzten noch die Nebelfrauen, er muß warten.
+    </p>
+    <p xml:id="eco_de_000039_3630">
+     Er sieht nach der Sonne und nach den <Tier>Raben</Tier>, die vor ihr herziehen; sehr viele <Tier>Raben</Tier> fliegen heute und alle haben denselben Weg, und über ihnen rudern <Tier>Adler</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3640">
+     Der Jungkerl hält den Kopf schief und horcht auf das dumpfe Bullern, das über die <Lebensraum>Heide</Lebensraum> kommt. Hinter ihm warnt der Neuntöter. Der Mann dreht sich um; da kommt ein Mensch über die <Lebensraum>Heide</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3650">
+     Lang und dünn ist er, und seine roten Haare leuchten in der Sonne; auf dem Rücken hat er einen Fellsack und auf der rechten Schulter den Ledermantel. Er ruft wie der <Tier>Rabe</Tier>, heult wie der <Tier>Uhu</Tier>, schreit wie der <Tier>Habicht</Tier>, kreischt wie der <Tier>Häher</Tier>, trillert wie der <Tier>Schwarzspecht</Tier> und flötet wie der <Tier>Regenpfeifer</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3660">
+     Der junge Bauer lacht; er kennt den Wandersmann: Renke ist es, der Spielmann, der Liedersänger, Geschichtenerzähler, Viehbesprecher, der heimatlose Allerweltsfreund.
+    </p>
+    <p xml:id="eco_de_000039_3670">
+     »Schönen Morgen auch, Beekmanns Sohn«, ruft der Fremde laut; »bleibe oben, mein Lür, und schone deine Beine; deine Wolfsfallen habe ich schon nachgesehen; drei waren darin, sind es noch; ich schlug sie tot. Und wie geht es, und wie steht es? Was macht Vater und Mutter und Hille vom Brinkhof?«
+    </p>
+    <p xml:id="eco_de_000039_3680">
+     Lachend schlägt Lür in die langfingerige, braune, goldhaarige Hand. »Sollst bedankt sein, Renke, ist alles wohl, bei uns und bei Brinkmanns. Das wird Wetter! Die <Tier>Moorhühner</Tier> spielen. Wir haben noch Grumt da unten; den wollen wir einholen; dazu spielst du uns auf und bleibst dann bei uns.«
+    </p>
+    <p xml:id="eco_de_000039_3690">
+     Renkes Schelmengesicht wird ernst. »Kein Heuwetter von Tage, Lür, Schlachtefestwetter. Und das sind nicht die Moorhähne, Junge, und das ist kein Minnespiel, Sohn, und das ist Mord und Tod, Kind.
+    </p>
+    <p xml:id="eco_de_000039_3700">
+     Und zum Heuraffen kann ich auch nicht aufspielen. Laßt das <Pflanze>Heu</Pflanze> liegen, wo es liegt; es liegt da gut; jagt die <Tier>Gäule</Tier> in die <Lebensraum>Heide</Lebensraum>, treibt das <Tier>Vieh</Tier> in das <Lebensraum>Bruch</Lebensraum>, und verkriecht euch in Rohr und Risch, daß der Franke euch nicht findet! Das wird Wetter heute, ja, ja; die <Tier>Moorhühner</Tier> spielen, die <Tier>Raben</Tier> fliegen, die <Tier>Adler</Tier> ziehen nach Westen. Fiedeln soll ich, Renke soll fiedeln, zum Tanz aufspielen bei der großen Fähre, den Köpfen aufspielen, die im Sande tanzen werden.
+    </p>
+    <p xml:id="eco_de_000039_3710">
+     Ist das die Sonne da, das rote Ding, oder ist es ein abgehackter Hals? Ist das <Lebensraum>Heide</Lebensraum>, die vielen roten Flecken da, oder ist das Blut? Junge, ich sage dir, nimm deine Beine und lauf: Karl ist bei der Fähre und hält Gericht über tausend Mann und abermals tausend Mann, und noch einmal soviel und über die Hälfte von tausend.
+    </p>
+    <p xml:id="eco_de_000039_3720">
+     Junge, ich sage dir, die Beeke bei eurem Hofe, die wird drei Tage rot fließen, und alle <Tier>Fische</Tier> werden abstehen, die in ihr sind, und kein <Tier>Vieh</Tier> wird aus ihr saufen und die <Tier>Frösche</Tier> werden auf das <Lebensraum>Land</Lebensraum> kommen.
+    </p>
+    <p xml:id="eco_de_000039_3730">
+     Lauf, Junge, und laß dich drei Tage nicht sehen, und schicke den Meldeknüppel nach dem Brinkhofe. Ich muß weiter; bei der Fähre braucht man Renke, den Spielmann, Renke, den Sänger, Renke, den Narren, damit außer der Sonne noch einer lacht. Pfui, daß du lachst!«
+    </p>
+    <p xml:id="eco_de_000039_3740">
+     Er sieht nach der Sonne und spukt nach ihr hin. Lür läuft den gelben Pfad hinab. Der Spielmann geht schnellen Schrittes mit krummen Knien in die <Lebensraum>Heide</Lebensraum> hinein, sein rotes Haar leuchtet in der Sonne, und sein Gesicht ist blaß und hart.
+    </p>
+    <p xml:id="eco_de_000039_3750">
+     Er, der jeden <Tier>Vogel</Tier> bei Namen kennt, der eines jeden Ruf und Stimme nachmachen kann, der sich mit <Tier>Adler</Tier> und <Tier>Eule</Tier>, <Tier>Rabe</Tier> und <Tier>Reiher</Tier> zu unterhalten pflegt, er hört heute nicht der <Tier>Heidlerche</Tier> Locken, nicht der <Tier>Drosseln</Tier> Wanderschrei; das Kinn auf der Brust, trottet er durch Sand und <Lebensraum>Moor</Lebensraum>, <Lebensraum>Heide</Lebensraum> und <Lebensraum>Wald</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3760">
+     Immer, ehe er an einen Hof kommt, verzieht er zum Lachen sein Gesicht, bringt Lustigkeit in seine Augen, Frohsinn in seine Schritte, und wenn er ein Menschenkind erblickt, dann macht er erst seine Witze. Und dann warnt er, wenn er sieht, daß kein fremdes Gesicht auf dem Hof ist, kein Händler, kein Späher, kein Frankenknecht.
+    </p>
+    <p xml:id="eco_de_000039_3770">
+     Denn die Zeiten sind schlecht und die Tage sind schlimm; der <Tier>Wolf</Tier> auf der <Lebensraum>Heide</Lebensraum> hat es besser als der Bauer; <Pflanze>Galgenholz</Pflanze> ist billig im <Lebensraum>Lande</Lebensraum>, und <Pflanze>Stränge</Pflanze> wachsen an jedem <Lebensraum>Bache</Lebensraum>; Treue steht gering im Preis, und Verrat wird gut gelohnt.
+    </p>
+    <p xml:id="eco_de_000039_3780">
+     Eine Stunde vor der großen Fähre macht er im <Lebensraum>Quellbusche</Lebensraum> Rast; essen muß der Mensch, und wenn er Eis auf dem Herzen hat und Feuer im Hirn. Langsam schneidet er Brot und Speck, langsam kaut er, langsam trinkt er aus dem Lederbecher, aber seine Augen sind weit weg, seine großen hellblauen Augen.
+    </p>
+    <p xml:id="eco_de_000039_3790">
+     Er wischt das Messer im <Pflanze>Moose</Pflanze> ab und schnürt den Fellsack zu. Da horcht er auf und lauscht nach dem Wege hin. Wieherte da ein <Tier>Pferd</Tier>, rief da ein Mensch? Wie ein <Tier>Luchs</Tier> duckt sich der <Tier>Goldkopf</Tier>, wie eine Adder springt er hoch. Drei runde Steine rafft er aus dem Sande, Mantel, Schuhe, Fellsack und Kappe gräbt er unter das <Pflanze>Moos</Pflanze>, prüft mit nassem Finger den Windgang, sieht sich spähend um, schleicht in den <Pflanze>Busch</Pflanze>, watet den <Lebensraum>Quellbach</Lebensraum> hinauf und drückt sich in das <Pflanze>Moos</Pflanze>.
+    </p>
+    <p xml:id="eco_de_000039_3800">
+     Da kommen sie: an der Spitze reiten drei Mann, es folgt ein fränkischer Ritter, dann stolpern zwanzig Bauern daher, an einen Strick gebunden, barhäuptig, Striemen auf den bloßen Rücken, Schweiß in den blonden Haaren, Blut auf den blassen Lippen, und hinterher reiten wieder drei Mann, und bei ihnen hecheln sechs <Tier>Bluthunde</Tier>.
+    </p>
+    <p xml:id="eco_de_000039_3810">
+     An dem <Lebensraum>Quellbache</Lebensraum> macht die <Pflanze>Rotte</Pflanze> halt; die Reiter springen ab, tränken die <Tier>Pferde</Tier>, kühlen sich die Stirnen und trinken. Die zwanzig blassen Bauern stieren nach dem <Lebensraum>Wasser</Lebensraum>; sie sind halbverdurstet vor Todesangst. Der Ritter lacht: »Wasser für euch? Kriegt heute noch genug zu trinken, ihr Lümmel; fort da!« Und er steigt wieder auf. Die Eisenklappe hält er in der Hand.
+    </p>
+    <p xml:id="eco_de_000039_3820">
+     Renke im <Pflanze>Busch</Pflanze> beißt sich die Lippen weiß, und seine Eckzähne leuchten. Alle läßt er sie aufsitzen, dann legt er den Stein in den Riemen, doppelt den Riemen, läßt ihn um den Kopf sausen, sieht mit weitaufgerissenen Augen und offenem Munde starr nach der weißen Stirn des braunen Ritters, macht mit der Faust einen Ruck, lacht leise pfeifend im Halse, springt in den <Lebensraum>Bach</Lebensraum>, aus dem <Lebensraum>Bach</Lebensraum> in die <Pflanze>Eiche</Pflanze>, und da hängt er und lacht und lacht in sich hinein.
+    </p>
+    <p xml:id="eco_de_000039_3830">
+     Der Trupp auf dem Wege wimmelt hin und her, wie <Tier>Ameisen</Tier> unter eines Menschen Tritten. Was ist das? Was war das? Hast du es gesehen? Habt ihr es gemerkt? Traf der Schlag den Herrn? Es ist Blut an seiner Stirn! Und der Schädel ist auf! Ein Schlag, das ungewohnte schwere Honigbier! Und das Blut? Er stürzte auf einen Stein. Da liegt der Stein. Rot ist er. Sie binden den Ritter auf sein <Tier>Roß</Tier> und reiten weiter. Rief da nicht eine <Tier>Eule</Tier> im <Pflanze>Busch</Pflanze>? Eine <Tier>Eule</Tier> am Tage? Die Franken zucken zusammen. Die gebundenen Bauern stoßen sich vorsichtig an. So ruft nur eine <Tier>Eule</Tier>, die rote <Tier>Federn</Tier> hat, die fiedeln und singen und Witze machen kann, gute Witze und schlechte Witze, blutige Witze. Sie lachen in sich hinein, die zwei mal zehn. Und wenn wir heute auch sterben, noch im Tode soll uns Renkes Witz freuen.
+    </p>
+    <p xml:id="eco_de_000039_3840">
+     Der sitzt in der <Pflanze>Eiche</Pflanze> und lacht nicht mehr. Er schnattert vor Wut mit den Zähnen und murmelt vor sich hin: »Einer, bloß einer. Und zwanzig, die ich kannte, zwanzig, an deren Tisch ich saß, in deren <Pflanze>Heu</Pflanze> ich schlief, deren Brot ich aß, deren Hände ich drückte. Brüder, meine Brüder, ich sehe euch nicht mehr.« An der rauhen <Pflanze>Borke</Pflanze> der <Pflanze>Eiche</Pflanze> laufen seine Tränen entlang.
+    </p>
+    <p xml:id="eco_de_000039_3850">
+     Renke, wo hast du die Tränen gelassen, Renke, wo hast du das Lachen her? Ist dein Herz wie der Wind vor dem Regen, bald so, bald so? Hat die Wut deinen Geist gestört? Sitzest da zwischen Frankenknechten und rheinischen Dirnen, trinkst ihren Wein und ißt ihr Brot und singst ihnen Lieder.
+    </p>
+    <p xml:id="eco_de_000039_3860">
+     Singst Lieder, wo die Luft voller Todesschweiß ist, lachst, wo die <Tier>Raben</Tier> auf allen <Pflanze>Bäumen</Pflanze> hocken, scherzest, wo die <Tier>Adler</Tier> über die Fähre kreisen? Aber warum sollst du nicht lachen, lacht die Sonne doch auch, und die blühende <Lebensraum>Heide</Lebensraum>, und das blitzende Wasser.
+    </p>
+    <p xml:id="eco_de_000039_3870">
+     Denn es ist ja so schön hier an der Fähre und so bunt. Der Hochsitz für den König ist mit Purpur gedeckt, mit Scharlach bespannt und mit Gold besponnen, der Wind schwenkt tausend bunte Fahnen, aus Tausenden von Schilden blitzen Funken, die Luft ist voll von Rossegewieher und erfüllt von Hundegebell, und der weiße Altweibersommer zieht lustig dahin.
+    </p>
+    <p xml:id="eco_de_000039_3880">
+     Gib acht, Renke, der König kommt! Dreißig Mohren blasen die goldenen <Tier>Hörner</Tier>, dreißig Mohren schlagen die goldenen Pauken. Siehst du die <Tier>Kamele</Tier> mit den purpurnen Zelten, aus denen des Königs Kebsen lachen? Die Knaben mit den geschminkten Gesichtern, die Zwerge, Riesen, Narren, Gelehrten, Priester, Ritter? Die Händler aus Italia, die Gaukler aus Roma, die gallischen Metzen? Die Menschenschlächter, die in Ketten gehen, Diebe, Mörder, Eidbrecher, feile Knechte?
+    </p>
+    <p xml:id="eco_de_000039_3890">
+     Siehst du den König? Der fette Mann ist es, der in der purpurnen Sänfte, der mit dem blassen dicken Gesicht, der ohne Art, der, den die sechs Mohren tragen, den die zwei <Tier>Mohren</Tier> mit Wedeln aus <Tier>Pagelunenfedern</Tier> fächeln, vor dem sich alle Köpfe neigen, dem jeder Mund zuruft. Schrei mit, Renke, so laut du kannst! Die Dirne an deiner Linken, der Knecht an deiner Rechten, sie spähen dich aus. Schreist du nicht mit, dann ist dein Kopf kein Hühnerei wert.
+    </p>
+    <p xml:id="eco_de_000039_3900">
+     Und Renke schreit, schreit so laut wie keiner um ihn. »Heil! Heil!« schreit er und schwenkt die Kappe und starrt nach dem König; sein Mund lacht, lacht, wie er nur lachen kann, wie er lacht, wenn Renke auf der Diele eines <Lebensraum>Heidhofes</Lebensraum> steht und das junge Volk beim Scheine der Kienspäne nach seiner Fiedel tanzt.
+    </p>
+    <p xml:id="eco_de_000039_3910">
+     Vor dem purpurnen, scharlachbespannten, goldgezierten Hochsitz knien die sechs schwarzen Träger nieder, und aus der purpurnen, scharlachbespannten, goldverzierten Sänfte steigt mühsam, von hohen Herren gestützt, stöhnend und seufzend der König; Südlands <Lebensraum>Wein</Lebensraum> und <Lebensraum>Südlands</Lebensraum> Weiber machten seine Glieder lahm. Seine Augen blicken stier, seine Lippen sind schmal, er hat die Nacht schlimm geträumt und der Schlaftrunk bekam ihm schlecht; er ist blaß und unter seinen Augen sind blaue Löcher.
+    </p>
+    <p xml:id="eco_de_000039_3920">
+     Um ihm herum lächeln alle Lippen und zittern alle Herzen. Der König hat üble Laune; da sitzen die Köpfe lose, und nicht nur die viertausendfünfhundert blonden Köpfe der Bauern und Hirten, Jäger und Fischer, Köhler und Flößer, die in Trupps von je hundert Mann hinter einem dreifachen Zaun von Lanzen und Spießen gefesselt und geknebelt dem Tode entgegensehen.
+    </p>
+    <p xml:id="eco_de_000039_3930">
+     Auf dem purpurnen, scharlachüberspannten, goldumsponnenen Hochsitze hinter dem blaublitzenden Wall geharnischter Speerträger taucht der König auf. Sein weißes, rotgesäumtes, goldgesticktes Kleid schimmert in der Sonne. Rechts und links von ihm kauern seine Kebse, die blonde Lombardin und die schwarze Provenzalin, auf bunten Kissen, und im Kreise um den Königsstuhl stehen die Großen: Herzöge, Geheimschreiber, Marschälle, Priester. Zur Seite steht in grünem Gewand der maurische Arzt und sieht unverwandt den König an; ein schwarzer Junge neben ihm hält einen Standkasten mit Arzneibüchsen.
+    </p>
+    <p xml:id="eco_de_000039_3940">
+     Zwei Trommeln ertönen, zwei <Tier>Hörner</Tier> erschallen; lautlose Stille liegt über den Tausenden von Menschen, die rundumher auf den <Lebensraum>Sandbergen</Lebensraum> stehen.
+    </p>
+    <p xml:id="eco_de_000039_3950">
+     Ein Mann in langem, schwarzem, goldgesticktem Rocke tritt vor den König, verbeugt sich tief und nimmt mit den weißen Händen den breiten, langen Schweinslederstreifen entgegen, an dem blutrot des Königs Siegel pendelt. Zwei Trommeln ertönen, zwei <Tier>Hörner</Tier> erschallen, dreimal und dreimal und noch dreimal. Der Mann im schwarzen, goldgestickten Rock tritt an den Rand des Hochsitzes und liest laut das Schriftstück. Aus der Menge kommt kein lauter Atemzug.
+    </p>
+    <p xml:id="eco_de_000039_3960">
+     <Tier>Höfisch</Tier> ist das Wesen des Schwarzrockes, und gut setzt er seine Worte, aber das, was er spricht, ist Blut und Tod, das Blut von viertausendfünfhundert Getreuen, der Tod von viertausendfünfhundert Gerechten, die ihre Hälse lieber dem Beile beugen, denn fränkischem Recht und fremder Art. Sie schlugen am <Lebensraum>Süntel</Lebensraum> das Frankenheer, hängten Karls Verwalter an die <Pflanze>Weidenbäume</Pflanze>, opferten die Priester bei den großen Steinen, setzten den roten <Tier>Hahn</Tier> auf die Zinshäuser, machten die Bethäuser dem Erdboden gleich und warfen die Rolande in die <Lebensraum>Dorfteiche</Lebensraum>; freie Männer wollten sie sein im freien <Lebensraum>Lande</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_3970">
+     Freie Männer werden sie sein im freien <Lebensraum>Land</Lebensraum>, in dem <Lebensraum>Lande</Lebensraum>, wo es nicht Herr noch Knecht, nicht Recht und Gesetz, nicht Treue noch Verrat gibt. Ihre Köpfe werden in den Sand rollen, und ihr Blut wird in den <Lebensraum>Graben</Lebensraum> laufen, der sich zwischen gelben <Lebensraum>Sandwällen</Lebensraum> nach der <Lebensraum>Beeke</Lebensraum> hinzieht. Viertausendfünfhundert Witwen und Bräute weinen heute im <Lebensraum>Lande</Lebensraum>, und alle <Tier>Adler</Tier> und <Tier>Raben</Tier>, alle <Tier>Wölfe</Tier> und <Tier>Füchse</Tier> werden bersten vor reichlichem Fraße.
+    </p>
+    <p xml:id="eco_de_000039_3980">
+     Renke, wenn du jetzt den Riemen aus dem Busen holtest und den runden Stein aus der Tasche und schwängest den Riemen, mit aufgerissenen Augen und offenem Munde nach der weißen Stirn unter der goldenen Krone starrend, und gäbest deiner Faust einen Ruck, und der Stein zerschlüge den Schädel des Frankenkönigs, daß sein Hirn in die Gesichter der Großen spritzte und sein Blut auf das purpurne Tuch liefe, Renke, dann hättest du nicht umsonst gelebt.
+    </p>
+    <p xml:id="eco_de_000039_3990">
+     Von der <Lebensraum>Emse</Lebensraum> bis zur <Lebensraum>Elbe</Lebensraum> würde ein Schrei erschallen, würde in allen <Lebensraum>Bergen</Lebensraum> und <Lebensraum>Wäldern</Lebensraum>, in allen <Lebensraum>Heiden</Lebensraum> und <Lebensraum>Marschen</Lebensraum>, in allen <Lebensraum>Brüchen</Lebensraum> und <Lebensraum>Mooren</Lebensraum> erklingen, unter allen Strohdächern würden die langen Beile geschliffen, aus allen <Pflanze>Weidenruten</Pflanze> <Pflanze>Stränge</Pflanze> gedreht, von allen Fuhren das <Pflanze>Harz</Pflanze> gekratzt, aus allen <Pflanze>Rohrhalmen</Pflanze> Fackeln gebunden, aus jedem <Pflanze>Haselschoß</Pflanze> ein Pfeil geschnitzt, aus jedem Zopfe eine Sehne geflochten.
+    </p>
+    <p xml:id="eco_de_000039_4000">
+     Die Hillebillen würden klingen den ganzen Tag über, und die <Tier>Wildochsenhörner</Tier> würden heulen von früh bis spät, und von der Ulenflucht bis zum Hahnenschrei würden die roten Feuer auf allen <Lebensraum>Bergen</Lebensraum> und <Lebensraum>Hügeln</Lebensraum> zucken. Alle Engpässe und Hohlwege würden sich mit Steinblöcken füllen und mit <Pflanze>Stämmen</Pflanze> und <Pflanze>Ästen</Pflanze>, auf allen Wegen wären Wolfsgruben mit scharfen Stangen am Grunde, alle Wehre ständen offen und alle Wässer liefen in die <Lebensraum>Gründe</Lebensraum>, aus allen Höfen, aus allen Brüchen, aus allen <Lebensraum>Wäldern</Lebensraum> strömten die Männer und Jungkerle zusammen, Bluthunger im Blick.
+    </p>
+    <p xml:id="eco_de_000039_4010">
+     Und Weking, der verschollene Herzog, würde dasein und die Haufen um sich sammeln, die von der <Lebensraum>Emse</Lebensraum> und von der <Lebensraum>Lippe</Lebensraum>, von der <Lebensraum>Aller</Lebensraum> und von der <Lebensraum>Weser</Lebensraum> kommen, und kein Franke würde leben bleiben im <Lebensraum>Lande</Lebensraum>; alle müßten sie unter die Erde. Die <Tier>Adler</Tier> und die <Tier>Raben</Tier> sollten platzen und die <Tier>Wölfe</Tier> und <Tier>Füchse</Tier> bersten vor Wohlleben, und auf den <Pflanze>Ästen</Pflanze> der <Pflanze>Eichen</Pflanze> bei den großen Steinen würden die Köpfe der hohen Herren von den bunten <Tier>Meisen</Tier> zerhackt.
+    </p>
+    <p xml:id="eco_de_000039_4020">
+     Hole den Riemen hervor, Renke, und den Stein, und dränge dich durch. Es ist Zeit. Der schwarze Mann hat zu Ende gesprochen. Der König bricht den weißen Stock. Viertausendfünfhundert blonde Köpfe sind fällig. Viertausendfünfhundert Hälse sind in Gefahr. Viertausendfünfhundert Männerherzen stehen still. Neuntausend blaue Augen brechen.
+    </p>
+    <p xml:id="eco_de_000039_4030">
+     Aber du bist festgekeilt in der Menge, Renke. Und tausend gepanzerte Speerknechte stehen vor dir, und tausend gepanzerte Reiter haben zur Rechten und Linken Aufstellung genommen, und überall sind Späher und Verräter, und vierhundertfünfzig nackte, rotgeschürzte Henker stehen in einer Reihe vor den vierhundertfünfzig weißen Eichblöcken unter dem Hochsitze des Königs.
+    </p>
+    <p xml:id="eco_de_000039_4040">
+     Renkes Augen werden ganz groß, in seinen Backen ist kein Blut, seine Lippen sind blau, seine Finger werden weiß und kalt. Zwischen den Mauern der blitzenden <Pflanze>Speerknechte</Pflanze> und der blinkenden Reiter kriecht von rechts und links eine <Tier>Schlange</Tier> heran, mit dunklen Seiten und weißem <Tier>Rücken</Tier>. Die dunklen Streifen sind Kriegsvolk und der weiße Strich sind die nackten Körper der todgeweihten Männer.
+    </p>
+    <p xml:id="eco_de_000039_4050">
+     Renkes Augen werden noch größer, und sein Herz steht still. Dann macht es einen wilden Sprung, und der Atem in seinem Halse pfeift dünn und scharf. Die vierhundertfünfzig weißen <Pflanze>Eichblöcke</Pflanze> sind doppelt so groß geworden und über jedem blitzt ein silberner Schein. Zwei Trommeln ertönen, zwei <Tier>Hörner</Tier> erschallen, ein scharfer Ruf erklingt, vierhundertfünfzig Blitze zucken auf die vierhundertfünfzig <Pflanze>Eichblöcke</Pflanze> hernieder. Hundert Trommeln dröhnen, hundert <Tier>Hörner</Tier> brüllen, ein tausendfaches Keuchen kommt von den menschenbesetzten rosenroten <Lebensraum>Heidhügeln</Lebensraum> ringsumher.
+    </p>
+    <p xml:id="eco_de_000039_4060">
+     Noch neun Male ertönen die Trommeln, erschallen die <Tier>Hörner</Tier>, noch neun Male kriechen die beiden schwarzen, weißrückigen <Tier>Schlangen</Tier> zwischen den blitzenden, blinkenden Mauern der geharnischten Speerträger und Reiter unter dem purpurnen Hochsitze her, noch neun Male keucht und stöhnt es von den rosenroten <Lebensraum>Heidhügeln</Lebensraum>, noch neunmal fahren die vierhundertfünfzig silbernen Blitze auf die <Pflanze>Eichenblöcke</Pflanze>, aber die sind nicht mehr weiß und rein, sie sind rot und schmierig.
+    </p>
+    <p xml:id="eco_de_000039_4070">
+     Hinter dem hohen <Lebensraum>Heidberge</Lebensraum> kommt eine schwarze Wolke herauf und stellt sich vor die Sonne. Der Wind geht kalt. Rundumher heulen in der <Lebensraum>Heide</Lebensraum> die <Tier>Wölfe</Tier>. Der purpurne Hochsitz ist leer, die blanken Speerträger und die blitzenden Reiter sind verschwunden. Der Abend fällt grau auf die Erde; vor den Zelten zucken die Feuer. Wandernde <Tier>Kiebitze</Tier> und ziehende <Tier>Brachvögel</Tier> rufen und pfeifen jämmerlich.
+    </p>
+    <p xml:id="eco_de_000039_4080">
+     Am <Lebensraum>Ufer</Lebensraum> der <Lebensraum>Beeke</Lebensraum> sitzt der Fiedler und sieht in das <Lebensraum>Wasser</Lebensraum>. Das ist rot und dick und riecht schrecklich, und die <Tier>Fische</Tier> stecken die <Tier>Köpfe</Tier> heraus und schnappen nach Luft. Stumm und steif hockt der Spielmann an dem <Lebensraum>Machangelbusche</Lebensraum> die ganze Nacht, in seine Augen kommt kein Schlaf. Er hört den <Tier>Uhu</Tier> rufen und den <Tier>Fuchs</Tier> bellen, die <Tier>Wölfe</Tier> heulen und die <Tier>Marder</Tier> kreischen, und er sitzt da und sieht die Zukunft, und die Rache, die sie bringt.
+    </p>
+    <p xml:id="eco_de_000039_4090">
+     Die <Tier>Heidlerche</Tier> lockt, die <Tier>Wanderdrosseln</Tier> streichen, Renke steht auf, schüttelt sich und trottet eilig mit krummen Knien die rote <Lebensraum>Beeke</Lebensraum> entlang über <Lebensraum>Heide</Lebensraum> und <Lebensraum>Moor</Lebensraum>, durch <Lebensraum>Bruch</Lebensraum> und <Lebensraum>Wald</Lebensraum>. Mit dem Rufe des <Tier>Totenvogels</Tier> weckt er den <Tier>Schnuckenschäfer</Tier>; der Schäfer sieht den fremden Mann unsicher an. Ist das Renke, der Goldkopf? Sein Haar ist silberweiß. Ist das Renke, der Spaßmacher? Sein Lachen ist zerbrochen. Ist das Renke, der Sänger? Seine Stimme ist zersplittert.
+    </p>
+    <p xml:id="eco_de_000039_4100">
+     Renke der Rächer ist es. Hohl flüsternd bringt er von Hof zu Hof, von Dorf zu Dorf, von Gau zu Gau die Kunde von dem grausen Schlachten bei der großen Fähre. Er ißt hastig einen Bissen, trinkt gierig einen Schluck, wirft sich eine Stunde auf das <Pflanze>Stroh</Pflanze>, springt wieder auf und wandert mit krummen Knien weiter, von der <Lebensraum>Weser</Lebensraum> nach der <Lebensraum>Emse</Lebensraum>, aus der <Lebensraum>Heide</Lebensraum> in die <Lebensraum>Berge</Lebensraum>, von den <Lebensraum>Bergen</Lebensraum> in das <Lebensraum>Moor</Lebensraum>, vom <Lebensraum>Moore</Lebensraum> in die <Lebensraum>Marsch</Lebensraum>, von der <Lebensraum>Marsch</Lebensraum> auf die <Lebensraum>Geest</Lebensraum>.
+    </p>
+    <p xml:id="eco_de_000039_4110">
+     Renke ist der Überall und der Nirgendwo, der <Lebensraum>Ebenda</Lebensraum> und der Nunschondort, der lebendige Racheruf, der hastende Wutschrei, das eilende Hetzwort. Wo sein weißer Kopf auftaucht, werden die Augen groß und die Lippen blaß, ballen sich die Fäuste und krallen sich die Finger; wo seine hohle Stimme flüstert, schärfen sich die Beile, spitzen sich die Speere, werden die langen Messer blanker.
+    </p>
+    <p xml:id="eco_de_000039_4120">
+     Und so wie Renke rennen viele hundert Männer von Hof zu Hof, von Dorf zu Dorf, von Gau zu Gau, Spielleute, Geschichtenerzähler, Sänger, Gaukler, Viehbesprecher, Wolfsjäger, Lachsfischer, Imker und Flößer, alles Männer aus dem Sturmigau, die bei der großen Fähre waren an dem Tage, da das <Lebensraum>Wasser</Lebensraum> der <Lebensraum>Beeke</Lebensraum> rot floß, weil König Karl es gebot.
+    </p>
+    <p xml:id="eco_de_000039_4130">
+     Der denkt, es ist Ruhe im <Lebensraum>Lande</Lebensraum>. Aber er vergißt Weking und das Lied, das unter jedem Strohdache gesummt wird, das Lied vom aisken Schlächter und von der roten Beeke.
+    </p>
+   </div>
+  </body>
+  <back/>
+ </text>
+</TEI>

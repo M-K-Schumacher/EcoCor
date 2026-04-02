@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000056" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hieronymus
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q61263">
+     Henschke, Alfred (1890-1928)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     564
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1928">
+      1928
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-01">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000056_20">
+    Klabund
+   </p>
+   <p xml:id="eco_de_000056_30">
+    Hieronymus
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000056_40">
+     Hieronymus baute ein Kloster und eine Kirche mitten in die <Lebensraum>Wüste</Lebensraum>. Da kam eines Tages ein <Tier>Löwe</Tier> an die Kirchenpforte, der hinkte auf einem <Tier>Bein</Tier> und stieß ein klägliches Geschrei aus; nicht wie ein <Tier>Löwe</Tier> brüllte er, sondern er miaute wie eine <Tier>Katze</Tier>. Die Mönche gaben Fersengeld, als sie ihn sahen. Sankt Hieronymus aber ging zu ihm. Da reichte er ihm die linke Vordertatze, und Sankt Hieronymus sah, daß ein <Pflanze>Dorn</Pflanze> darin steckte. Den zog er heraus und verband den Fuß des <Tier>Löwen</Tier> mit einem Fetzen, den er von seinem Mantel gerissen. Seitdem wich der <Tier>Löwe</Tier> nicht mehr von seiner Seite.
+    </p>
+    <p xml:id="eco_de_000056_50">
+     Der <Tier>Löwe</Tier> war von Sankt Hieronymus zum Hüter der <Tier>Esel</Tier> bestellt. Er führte sie früh auf das <Lebensraum>Feld</Lebensraum> und abends wieder heim. Eines Tages trieb er einen Zugesel zur <Lebensraum>Weide</Lebensraum>; draußen aber legte er sich nieder, weil es eine große Hitze war, und entschlief. Währenddessen kam eine Karawane des Weges; die sah den <Tier>Esel</Tier> einsam und nahm ihn mit sich. Als der <Tier>Löwe</Tier> erwachte und den <Tier>Esel</Tier> nicht sah, erschrak er, lief hin und her und ließ sein Gebrüll in der <Lebensraum>Wüste</Lebensraum> erschallen. Aber keines <Tier>Esels</Tier> I-a antwortete seiner dumpf en Frage. Wo? wo? wo? Da stapfte er, den stolzen Kopf mit der gelben Mähne tief gesenkt, heimwärts. Denn er schämte sich, daß er den ihm anvertrauten Dienst derart fahrlässig versehen. Die Mönche wollten ihn nicht durch die Pforte lassen; denn sie glaubten, daß er den <Tier>Esel</Tier> gefressen habe, gaben ihm auch nichts zu fressen und sagten: "Verdau' du erst den <Tier>Esel</Tier>, den du verschluckt hast!"
+    </p>
+    <p xml:id="eco_de_000056_60">
+     Sankt Hieronymus aber glaubte an des <Tier>Löwen</Tier> Unschuld, ließ ihn ins Kloster und befahl ihm, künftig an Stelle des <Tier>Esels</Tier> den Karren zu ziehen. Da schritt der stolze <Tier>Löwe</Tier> nun im Joch des <Tier>Esels</Tier>. Als er eines Tages wieder auf der <Lebensraum>Weide</Lebensraum> war, zog die Karawane, die einst den <Tier>Esel</Tier> gestohlen, auf dem Rückweg vorüber, und an der Spitze trottete, voll bepackt mit Essenzen und Edelsteinen, des <Tier>Löwen</Tier> <Tier>Esel</Tier>. Da schrie der <Tier>Löwe</Tier> derart, daß die Räuber – solche waren die Karawanenreiter – vor Furcht davonliefen. Da trieb der <Tier>Löwe</Tier> die ganze Karawane mit dein <Tier>Esel</Tier> an der Spitze – wohl hundert <Tier>Maultiere</Tier> und <Tier>Kamele</Tier>, beladen mit tausend Kostbarkeiten – vor das Kloster, daß die Mönche nicht wenig erstaunten, als sie den wunderbaren Zug einherschreiten sahen. Sie öffneten das Tor, und herein schritten alle <Tier>Tiere</Tier>, zum Beschluß aber der <Tier>Löwe</Tier>, der wie ein <Tier>Hündlein</Tier> mit dem <Tier>Schwanze</Tier> wedelte. Die Mönche waren hocherfreut über die sonderbare Christbescherung – denn es war gerade der Heilige Abend. Hieronymus aber befahl, daß man des Gutes gut achte und, wenn sich seine rechtmäßigen Herren meldeten, daß man es ihnen wiedergebe. Aber die Räuber ließen sich aus Furcht vor dem <Tier>Löwen</Tier> nicht blicken, so daß nach einem Jahr all die Kostbarkeiten dem Kloster anheimfielen. Der <Tier>Löwe</Tier> aber war selig, daß er seinen <Tier>Esel</Tier> wieder hatte. Sie ließen einander nicht mehr aus den Augen, und es heißt, daß der Heilige sich oft als dritter zu ihnen gesellte und mit ihnen in einer Sprache sprach, die niemand verstand. Er war mit dem <Tier>Esel</Tier> und dem <Tier>Löwen</Tier> befreundet wie mit Menschen, und als er starb, starben der <Tier>Löwe</Tier> und der <Tier>Esel</Tier> mit ihm, und man begrub sie in demselben Grab. Himerius, Bischof von Amelia, machte, als man Hieronymus heiligsprach, den Vorschlag, auch den <Tier>Esel</Tier> und den <Tier>Löwen</Tier> heiligzusprechen. Ich weiß nicht, ob im Ernst oder etwa aus Bosheit.
+    </p>
+   </div>
+  </body>
+  <back/>
+ </text>
+</TEI>
